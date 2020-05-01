@@ -67,6 +67,16 @@ p.lead {
   font-size: 150%;
   margin: 1em 0;
 }
+p.subtitle {
+  font-size: 150%;
+  margin-bottom: 0;
+}
+p.date {
+  color: #999;
+  font-style: italic;
+  margin-top: 0;
+  margin-bottom: 15px;
+}
 p+p {
   margin: 15px 0 0;
 }

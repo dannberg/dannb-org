@@ -5,6 +5,7 @@ theme = "danntheme"
 googleAnalytics = ""
 
 [params]
+  author = "Dann Berg"
   description = "Danntheme Hugo theme template description"
 
 [[menu.main]]
