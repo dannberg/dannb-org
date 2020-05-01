@@ -134,6 +134,21 @@ pre {
     border-radius: 5px;
     background-color: #eee
 }
+.w-clearfix:after,
+.w-clearfix:before {
+    content: " ";
+    grid-column-start: 1;
+    grid-row-start: 1;
+    grid-column-end: 2;
+    grid-row-end: 2
+}
+.w-clearfix:after,
+.w-clearfix:before {
+    display: table
+}
+.w-clearfix:after {
+    clear: both
+}
 
   @media (max-width:500px) {
     body {

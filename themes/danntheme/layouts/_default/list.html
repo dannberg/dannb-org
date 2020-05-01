@@ -5,12 +5,13 @@
             <h1>{{ .Title }}</h1>
             {{ .Content }}
             <h2>Categories</h2>
-            <p>
-                # Use javascript to sort elements (w-dyn-item) https://stackoverflow.com/questions/41970027/javascript-to-sort-elements
+            <div class="w-dyn-list">
+                <div class="w-clearfix w-dyn-items">
                 {{range ($.Site.GetPage "taxonomyTerm" "categories").Pages }}
-                <div class="filter-item"><a href="#" class="filter-text-link">{{.Title}}</a></div>
+                <div class="filter-item w-dyn-item"><a href="#" class="filter-text-link">{{.Title}}</a></div>
                 {{end}}
-            </p>
+            </div>
+            </div>
             {{ range .Pages }}
             <hr />
             <p><strong><a href="{{ .Permalink }}">{{ .Title }}</a></strong></p>
