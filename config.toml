@@ -1,4 +1,8 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
-title = "My New Hugo Site"
-theme = "blank"
+title = "Danntheme Hugo Site"
+theme = "danntheme"
+googleAnalytics = ""
+
+[params]
+  description = "Danntheme Hugo theme template description"
