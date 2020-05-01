@@ -92,6 +92,11 @@ blockquote small {
   display: block;
   line-height: 1.7em;
 }
+img {
+  max-width: 100%!important;
+  height: auto!important;
+  float: none!important;
+}
 dt {
   font-weight: 700;
 }
