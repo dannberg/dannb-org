@@ -1,0 +1,3 @@
+[submodule "themes/blank"]
+	path = themes/blank
+	url = https://github.com/Vimux/blank.git
