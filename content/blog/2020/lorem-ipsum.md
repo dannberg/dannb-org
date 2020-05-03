@@ -4,7 +4,6 @@ date: 2020-05-01T12:45:59-04:00
 description: "This is a description of the lorem ipsum page"
 categories:
   - AWS
-  - Money
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam tempus, arcu eu scelerisque mattis, lacus neque maximus lacus, et rutrum neque ipsum in enim. Etiam pellentesque sem ex, sit amet molestie odio gravida at. Aliquam vel fringilla sem, vel fermentum enim. Duis nec augue nec arcu efficitur tincidunt at auctor est. Phasellus blandit nisl ut tristique viverra. Cras vehicula felis libero, vitae tempus augue lacinia id. Aenean ac leo lacinia, tempor turpis at, ultricies enim.

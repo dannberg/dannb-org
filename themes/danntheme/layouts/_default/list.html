@@ -1,21 +1,39 @@
 {{ define "main" }}
+<script type="text/javascript">
+    $('.dyn-items').change(function(){
+        var criteria = $(this).val();
+        if(criteria == 'ALL'){
+            $('.lilist').show();
+            return;
+        }
+        $('.country').each(function(i,option){
+            if($(this).html() == criteria){
+                $(this).parent().show();
+            }else {
+                $(this).parent().hide();
+            }
+        });
+    });
+</script>
 <div class="container">
     <div class="section">
         <div class="content">
             <h1>{{ .Title }}</h1>
             {{ .Content }}
             <h2>Categories</h2>
-            <div class="w-dyn-list">
-                <div class="w-clearfix w-dyn-items">
-                {{range ($.Site.GetPage "taxonomyTerm" "categories").Pages }}
-                <div class="filter-item w-dyn-item"><a href="#" class="filter-text-link">{{.Title}}</a></div>
-                {{end}}
-            </div>
+            <div class="dyn-list">
+                <div class="dyn-items">
+                    {{range ($.Site.GetPage "taxonomyTerm" "categories").Pages }}
+                    <div class="filter-item"><a href="#" class="filter-text-link">{{.Title}}</a></div>
+                    {{end}}
+                </div>
             </div>
             {{ range .Pages }}
             <hr />
-            <p><strong><a href="{{ .Permalink }}">{{ .Title }}</a></strong></p>
-            <p>{{ .Page.Description }}</p>
+            <div id="{{ .Params.categories }}">
+                <p><strong><a href="{{ .Permalink }}">{{ .Title }}</a></strong></p>
+                <p>{{ .Page.Description }}</p>
+            </div>
             {{ end }}
         </div>
     </div>
