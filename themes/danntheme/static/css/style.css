@@ -58,16 +58,16 @@ h3 {
   letter-spacing: .15em;
   margin: 1.75em 0 .8em;
 }
+.lead {
+  font-size: 150%;
+  margin: 1em 0;
+}
 a.category {
   font-weight: normal;
 }
 p {
   font-size: 100%;
   margin: 1em 0 0;
-}
-p.lead {
-  font-size: 150%;
-  margin: 1em 0;
 }
 p.subtitle {
   font-size: 150%;

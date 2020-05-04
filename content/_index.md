@@ -1,13 +1,17 @@
 ---
-title: "Dann-Theme Hugo Theme"
+title: "Dann Berg: thoughts and musings"
 date: 2020-05-01T08:03:56-04:00
-description: "Description of the _index.md file"
+description: "Dann Berg writes things here. Technology, productivity, startups, and more."
 ---
 
 # Dann Berg
 ## _engineer and writer_
 
+{{<figure src="/images/dannberg.png" class="pull-left" >}}
+
+{{% class lead %}}
 Hello, I'm Dann. I work at the intersection of engineering, finance, and cloud cost optimization. In simpler terms, I help make big, scary cloud bills not so big or scary.
+{{% /class %}}
 
 Want to do a deep dive? Here's my **[LinkedIn](https://www.linkedin.com/in/dannberg/)**, **[Github](https://github.com/dannberg)**, and **[Twitter](https://twitter.com/dannberg)** pages. It's also pretty easy to find more about me with a quick **[Google search](https://www.google.com/search?q=dann+berg)**. Spelling Dann with two Ns is great for SEO.
 
