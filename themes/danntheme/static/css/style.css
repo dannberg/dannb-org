@@ -58,7 +58,7 @@ h3 {
   letter-spacing: .15em;
   margin: 1.75em 0 .8em;
 }
-.lead {
+span.lead {
   font-size: 150%;
   margin: 1em 0;
 }
@@ -98,6 +98,9 @@ img {
   max-width: 100%!important;
   height: auto!important;
   float: none!important;
+}
+li {
+  margin: 1em 0 0;
 }
 dt {
   font-weight: 700;

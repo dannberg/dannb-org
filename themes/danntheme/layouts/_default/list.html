@@ -1,17 +1,22 @@
 {{ define "main" }}
 <script type="text/javascript">
-    $('.dyn-items').change(function(){
-        var criteria = $(this).val();
-        if(criteria == 'ALL'){
-            $('.lilist').show();
-            return;
-        }
-        $('.country').each(function(i,option){
-            if($(this).html() == criteria){
-                $(this).parent().show();
-            }else {
-                $(this).parent().hide();
+    $(document).ready(function() {
+        $('.dyn-items div a').click(function() {
+            const $this = $(this);
+            const filterItemText = $this.text();
+            const $blogPosts = $('#blog-posts');
+
+            $('.dyn-items div').removeClass('active');
+
+            $this.parent().addClass('active');
+
+            if (filterItemText == 'All') {
+                $blogPosts.children('div.item').show();
+            } else {
+                $blogPosts.children('div:not(.' + filterItemText + ')').hide();
+                $blogPosts.children('div.' + filterItemText).show();
             }
+            return false;
         });
     });
 </script>
@@ -23,18 +28,21 @@
             <h2>Categories</h2>
             <div class="dyn-list">
                 <div class="dyn-items">
+                    <div class="active filter-item"><a href="#" class="filter-text-link">All</a></div>
                     {{range ($.Site.GetPage "taxonomyTerm" "categories").Pages }}
                     <div class="filter-item"><a href="#" class="filter-text-link">{{.Title}}</a></div>
                     {{end}}
                 </div>
             </div>
+            <div id="blog-posts">
             {{ range .Pages }}
-            <hr />
-            <div id="{{ .Params.categories }}">
+            <div class="item {{with .Params.categories }}{{ index . 0 }}{{ end }}">
+                <hr />
                 <p><strong><a href="{{ .Permalink }}">{{ .Title }}</a></strong></p>
                 <p>{{ .Page.Description }}</p>
             </div>
             {{ end }}
+            </div>
         </div>
     </div>
 </div>
