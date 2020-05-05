@@ -2,17 +2,15 @@
 <div class="container">
     <div class="section">
         <div class="content">
-            <h1>{{ .Title }}</h1>
+            <h1 class="center">{{ .Title }}</h1>
             {{ .Content }}
             <h2>Categories</h2>
-            <div class="dyn-list">
                 <div class="dyn-items">
                     <div class="active filter-item"><a href="#" class="filter-text-link">All</a></div>
                     {{range ($.Site.GetPage "taxonomyTerm" "categories").Pages }}
                     <div class="filter-item"><a href="#" class="filter-text-link">{{.Title}}</a></div>
                     {{end}}
                 </div>
-            </div>
             <div id="blog-posts">
             {{ range .Pages }}
             <div class="item {{with .Params.categories }}{{ index . 0 }}{{ end }}">
