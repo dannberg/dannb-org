@@ -1,8 +1,11 @@
 p+p, p.lead+p {
   text-indent: 0;
 }
-dl, ol, p, pre, ul {
+/*dl, ol, p, pre, ul {
   text-align: left;
+}*/
+.center {
+  text-align: center;
 }
 .nav {
   font-size: 1rem;
@@ -21,7 +24,7 @@ dl, ol, p, pre, ul {
     margin-right: auto;
 }
 body {
-  text-align: center;
+  text-align: left;
   font-family: georgia, serif;
   font-size: 120%;
   line-height: 1.6;
@@ -75,9 +78,10 @@ p.subtitle {
 }
 p.date {
   color: #999;
+  font-size: 75%;
   font-style: italic;
   margin-top: 0;
-  margin-bottom: 15px;
+  margin-bottom: 35px;
 }
 p+p {
   margin: 15px 0 0;

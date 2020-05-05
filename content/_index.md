@@ -4,8 +4,10 @@ date: 2020-05-01T08:03:56-04:00
 description: "Dann Berg writes things here. Technology, productivity, startups, and more."
 ---
 
+{{% class center %}}
 # Dann Berg
 ## _engineer and writer_
+{{% /class %}}
 
 {{<figure src="/images/dannberg.png" class="pull-left" >}}
 
@@ -19,7 +21,9 @@ In a past life, I was a tech journalist, and my writing has appeared on MSNBC, F
 
 I live in Brooklyn, New York with **[my wife](http://asuleen.com)** and two cats.
 
+{{% class center %}}
 ### Selected Output
+{{% /class %}}
 
 - I still haven't decided if I should give up my **[self-hosted blog](http://iamdann.com)** in favor of **[Medium](https://medium.com/@dannberg)**. So I guess I have both.
 - Here's a video of my play **["Diary: A One Act Play"](https://vimeo.com/123011482)** being performed in Manhattan Repertory Theatre's 2015 Spring One Act Competition.
