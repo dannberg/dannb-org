@@ -4,7 +4,7 @@ description: ""
 date: 2015-05-04T16:42:51+00:00
 url: /2015/05/04/being-plucked-from-obscurity
 categories:
-  - Writing
+  - Commentary
 tags:
   - broadway
   - new york city
