@@ -24,15 +24,27 @@ p+p, p.lead+p {
     margin-right: auto;
 }
 // Filter items
+.dyn-items {
+  padding-bottom: 40px;
+}
 .filter-item {
+    font-size:80%;
     margin-right: 10px;
     margin-bottom: 10px;
     padding: 5px;
     float: left;
     border-radius: 5px;
-    background-color: #eee
+    background-color: #eee;
 }
-.w-clearfix:after,
+/*.dyn-button {
+    margin-right: 10px;
+    margin-bottom: 10px;
+    padding: 5px;
+    float: left;
+    border-radius: 5px;
+    background-color: #eee;
+}*/
+/*.w-clearfix:after,
 .w-clearfix:before {
     content: " ";
     grid-column-start: 1;
@@ -46,7 +58,7 @@ p+p, p.lead+p {
 }
 .w-clearfix:after {
     clear: both
-}
+}*/
 body {
   text-align: left;
   font-family: georgia, serif;

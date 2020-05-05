@@ -1,26 +1,24 @@
 {{ define "main" }}
-<div class="container">
-    <div class="section">
-        <div class="content">
-            <h1 class="center">{{ .Title }}</h1>
-            {{ .Content }}
-            <h2>Categories</h2>
-                <div class="dyn-items">
-                    <div class="active filter-item"><a href="#" class="filter-text-link">All</a></div>
-                    {{range ($.Site.GetPage "taxonomyTerm" "categories").Pages }}
-                    <div class="filter-item"><a href="#" class="filter-text-link">{{.Title}}</a></div>
-                    {{end}}
-                </div>
-            <div id="blog-posts">
-            {{ range .Pages }}
-            <div class="item {{with .Params.categories }}{{ index . 0 }}{{ end }}">
-                <hr />
-                <p><strong><a href="{{ .Permalink }}">{{ .Title }}</a></strong></p>
-                <p>{{ .Page.Description }}</p>
-            </div>
-            {{ end }}
-            </div>
-        </div>
+<!-- <div class="content"> -->
+    <h1 class="center">{{ .Title }}</h1>
+    {{ .Content }}
+    <h2>Categories</h2>
+    <div class="dyn-items">
+        <div class="filter-item"><a href="#" class="filter-text-link">All</a></div>
+        {{range ($.Site.GetPage "taxonomyTerm" "categories").Pages }}
+        <div class="filter-item"><a href="#">{{.Title}}</a></div>
+        {{end}}
     </div>
-</div>
+    <div>-</div>
+    <h2>TKTK Articles</h2>
+    <div id="blog-posts">
+        {{ range .Pages }}
+        <div class="item {{with .Params.categories }}{{ index . 0 }}{{ end }}">
+            <hr />
+            <h2><strong><a href="{{ .Permalink }}">{{ .Title }}</a></strong></h2>
+            <p>{{ .Page.Description }}</p>
+        </div>
+        {{ end }}
+    </div>
+<!-- </div> -->
 {{ end }}

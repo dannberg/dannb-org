@@ -28,4 +28,4 @@ Stories like Askins' are inspiring (and "Hand to God" is _amazing_, so the fas
 
 Then again, what are the odds that someone standing in a field reaches down and touches only _one_ blade of grass?
 
-[^1] Life hack: to view the full WSJ article for free, paste the full URL into a _Google search_ and click the link in the search results.
+[^1]: Life hack: to view the full WSJ article for free, paste the full URL into a _Google search_ and click the link in the search results.
