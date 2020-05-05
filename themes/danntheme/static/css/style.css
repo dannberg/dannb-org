@@ -25,7 +25,7 @@ p+p, p.lead+p {
 }
 // Filter items
 .dyn-items {
-  padding-bottom: 40px;
+  display: block;
 }
 .filter-item {
     font-size:80%;
@@ -125,6 +125,24 @@ p+p {
 p+dl, p+ol, p+ul {
   margin-bottom: 1.5em;
 }
+
+/*Table style*/
+th,
+td {
+  padding: 12px 15px;
+  text-align: center;
+  border-bottom: 1px solid #E1E1E1;
+}
+th:first-child,
+td:first-child {
+  padding-left: 0;
+}
+th:last-child,
+td:last-child {
+  padding-right: 0;
+}
+
+
 blockquote {
   border-left: 5px solid #eee;
   padding-left: 1.5em;

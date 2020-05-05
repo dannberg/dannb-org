@@ -9,7 +9,7 @@ $(document).ready(function() {
 
             $this.parent().addClass('active');
 
-            if (filterItemText == 'All') {
+            if (filterItemText == 'ALL') {
                 $blogPosts.children('div.item').show();
             } else {
                 $blogPosts.children('div:not(.' + filterItemText + ')').hide();
