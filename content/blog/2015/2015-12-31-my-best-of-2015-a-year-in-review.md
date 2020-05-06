@@ -13,6 +13,7 @@ tags:
   - resolutions
 
 ---
+**This post originally appeared on [Novice No Longer](https://novicenolonger.com/my-best-of-2015-a-year-in-review/).**
 
 Sitting here on New Year’s Eve day, I can’t help but feel reflective (as you can see from the gif). I like to take this time to go over my previous year-end posts ([2012](http://novicenolonger.com/my-best-of-2012/), [2013](http://novicenolonger.com/my-best-of-2013/)) and craft a new mega-post for this year. These types of posts are mostly for my own use, but I always like to post them publicly just in case any of this information can help you in any way. _Oh, the book links are affiliate links. Just a heads up._
 

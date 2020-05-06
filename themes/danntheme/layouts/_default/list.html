@@ -1,5 +1,4 @@
 {{ define "main" }}
-<!-- <div class="content"> -->
     <h1 class="center">{{ .Title }}</h1>
     {{ .Content }}
     <h2>Categories</h2>
@@ -8,9 +7,9 @@
         {{range ($.Site.GetPage "taxonomyTerm" "categories").Pages }}
         <div class="filter-item"><a href="#">{{.Title}}</a></div>
         {{end}}
-    </div>
+</div>
     <div>-</div>
-    <h2>TKTK Articles</h2>
+    <h2 id="dyn-header">TKTK Articles</h2>
     <div id="blog-posts">
         {{ range .Pages }}
         <div class="item {{with .Params.categories }}{{ index . 0 }}{{ end }}">
@@ -20,5 +19,4 @@
         </div>
         {{ end }}
     </div>
-<!-- </div> -->
 {{ end }}

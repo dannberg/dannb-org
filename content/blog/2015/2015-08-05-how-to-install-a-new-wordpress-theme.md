@@ -22,6 +22,8 @@ tags:
   - wordpress.org
 
 ---
+**This post originally appeared on [Novice No Longer](https://novicenolonger.com/how-to-install-a-new-wordpress-theme/).**
+
 Can’t upload the new Wordpress theme you just downloaded or purchased? You may be running the wrong type of WordPress. In this post, I’ll explain the different ways to run a WordPress blog and then show you exactly how to upload a custom WordPress theme.
 
 ## Three flavors of WordPress

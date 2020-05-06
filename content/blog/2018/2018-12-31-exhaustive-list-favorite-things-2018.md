@@ -21,6 +21,8 @@ tags:
   - youtube
 
 ---
+**This post originally appeared on [Novice No Longer](https://novicenolonger.com/exhaustive-list-favorite-things-2018/).**
+
 Hello. I’m doing something a little bit different this year for my year-end wrap up post. I’m going all-in with _recommendations_ this year, rather than releasing [another](https://novicenolonger.com/best-of-2016/) [boring](http://novicenolonger.com/my-best-of-2015-a-year-in-review/) [post](http://novicenolonger.com/my-best-of-2013/) [listing](http://novicenolonger.com/my-best-of-2012/) stuff I’ve created, sharing stats, and setting goals. Yawn.
 
 This article documents a year’s worth of consumption. It’s a lot. I consumed a lot in 2018\. But I also wrote a [full-length play](http://combustioncollective.org/the-floorshow/) with my wife this year, so I’m not feeling _that_ bad about my level of consumption. Only a _little_ bad.
