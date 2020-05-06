@@ -1,6 +1,6 @@
 ---
 title: Being plucked from obscurity
-description: ""
+description: "So much depends on luck. Yet it doesn't feel like luck when it happens to you."
 date: 2015-05-04T16:42:51+00:00
 url: /2015/05/04/being-plucked-from-obscurity
 categories:

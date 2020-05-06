@@ -1,7 +1,6 @@
 ---
 title: How to install a new WordPress theme
-author: Dann
-type: post
+description: "Depending on your flavor of Wordpress (.com or .org) you may have trouble installing a third-party theme."
 date: 2015-08-05T11:00:13+00:00
 url: /how-to-install-a-new-wordpress-theme/
 categories:
@@ -36,7 +35,7 @@ There are three different flavors of WordPress: WordPress**.com**, WordPress.com
 | Hosted           | x             | x                     |               |
 | Custom Domain    |               | x                     | x             |
 
-_* requires a self-hosting plan, more on that later_
+_\* requires a self-hosting plan, more on that later_
 
 Note that _neither_ WordPress.com _nor_ WordPress.com Premium allow users to upload their own themes. If you’re in your blog’s Dashboard and don’t see an upload link under Appearance, then you’re probably using WordPress.com’s free or Premium hosted option. You’re going to need to host the blog yourself if you want to use a custom theme.
 

@@ -26,6 +26,7 @@ p+p, p.lead+p {
 // Filter items
 .dyn-items {
   display: block;
+  padding: 20px;
 }
 .filter-item {
     font-size:80%;
