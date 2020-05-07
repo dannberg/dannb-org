@@ -4,10 +4,8 @@ date: 2020-05-01T08:03:56-04:00
 description: "Dann Berg writes things here. Technology, productivity, startups, and more."
 ---
 
-{{% class center %}}
-# Dann Berg
-## _engineer and writer_
-{{% /class %}}
+<!-- Text for the header is in the shortcode -->
+{{< blog-header >}}
 
 {{<figure src="/images/dannberg.png" class="pull-left" >}}
 
