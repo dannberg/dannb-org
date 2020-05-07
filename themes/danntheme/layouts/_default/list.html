@@ -6,10 +6,10 @@
         <div class="filter-item active"><a href="#" class="filter-text-link">ALL</a></div>
         {{range ($.Site.GetPage "taxonomyTerm" "categories").Pages }}
         <div class="filter-item"><a href="#">{{.Title}}</a></div>
-        {{end}}
+        {{end}}<br />
 </div>
-    <div>-</div>
-    <h2 id="dyn-header">TKTK Articles</h2>
+    <h2><span id="header-category">ALL</span> Articles</h2>
+
     <div id="blog-posts">
         {{ range .Pages }}
         <div class="item {{with .Params.categories }}{{ index . 0 }}{{ end }}">
