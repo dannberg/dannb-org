@@ -1,12 +1,12 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
-title = "Danntheme Hugo Site"
+title = "Dann Berg: thoughts and musings"
 theme = "danntheme"
 googleAnalytics = ""
 
 [params]
   author = "Dann Berg"
-  description = "Danntheme Hugo theme template description"
+  description = "Dann Berg writes things here. Technology, productivity, startups, and more."
 
 [[menu.main]]
   name = "About"
@@ -16,4 +16,15 @@ googleAnalytics = ""
   name = "Articles"
   url = "/blog"
 
+[related]
+    threshold = 0
+    includeNewer = true
+    toLower = false
 
+    [[related.indices]]
+        name = "tags"
+        weight = 100
+
+    [[related.indices]]
+        name = "date"
+        weight = 10
