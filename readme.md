@@ -18,6 +18,14 @@
 
 `-D` tells it to render drafts and `--disableFastRender` tells Hugo to rebuild the entire website when there are changes (it's still super fast).
 
+## Creating a new post
+
+`hugo new blog/2020/post-name.md`
+
+# Reference
+
+Images 644px width (700px)
+
 # To Do
 
 - [x] Add [related posts](https://www.pakstech.com/blog/hugo-related-pages/) to end of each post

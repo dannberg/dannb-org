@@ -2,7 +2,7 @@
 title: The time I was almost drawn into a Futurama episode
 description: "The story of how waited just a little too long and missed my chance to be drawn into a Futurama episode."
 date: 2014-02-04T13:00:55+00:00
-url: /almost-futurama-head-in-jar/
+url: blog/2014/almost-futurama-head-in-jar/
 categories:
   - Life
 tags:
