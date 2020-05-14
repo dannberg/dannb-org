@@ -1,16 +1,8 @@
-# Setting up a new Hugo blog
+# Repo for dannb.org
 
-`hugo new site sitename`
+This is the personal website for Dann Berg, available at https://dannb.org. It is a static website created using Hugo. I created a custom theme I've lovingly dubbed Danntheme.
 
-`cd sitename`
-
-`git init`
-
-## Adding a theme
-
-`git submodule add https://github.com/Vimux/blank.git themes/blank`
-
-`echo 'theme = "blank"' >> config.toml`
+# Quick reference
 
 ## Running the server
 
