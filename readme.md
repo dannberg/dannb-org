@@ -26,5 +26,6 @@ Images 644px width (700px)
 - [x] Add tags to newer posts
 - [ ] Add sections for books?
 - [ ] Add google analytics
-- [ ] Remove unused themes
-- [ ] Deploy to Netlify on dannb.org
+- [x] Remove unused themes
+- [x] Deploy to Netlify on dannb.org
+- [ ] Add line break after homepage image when on mobile
