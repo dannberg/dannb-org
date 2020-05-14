@@ -30,8 +30,9 @@ Images 644px width (700px)
 
 - [x] Add [related posts](https://www.pakstech.com/blog/hugo-related-pages/) to end of each post
 - [x] Finish about page
-- [ ] ~~Create Contact page with protected email address~~
-- [ ] Create "References page" with items I recommend
-- [ ] ~~Add support page, givebutter~~
-- [ ] Edit default new post template
-- [ ] Add tags to newer posts
+- [x] Edit default new post template
+- [x] Add tags to newer posts
+- [ ] Add sections for books?
+- [ ] Add google analytics
+- [ ] Remove unused themes
+- [ ] Deploy to Netlify on dannb.org
