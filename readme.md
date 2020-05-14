@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/60ca84a8-ffdb-4b4b-a8cd-dc0b3081ac9b/deploy-status)](https://app.netlify.com/sites/dannb/deploys)
+
 # Repo for dannb.org
 
 This is the personal website for Dann Berg, available at https://dannb.org. It is a static website created using Hugo. I created a custom theme I've lovingly dubbed Danntheme.
