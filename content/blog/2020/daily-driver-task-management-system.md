@@ -15,7 +15,7 @@ tags:
   - focus
   - personal development
   - tools
-status: draft
+draft: true
 ---
 ![Daily Driver Task Management System](/images/blog/2020/05/daily-driver-task-management.jpg)
 
