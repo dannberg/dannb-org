@@ -15,7 +15,7 @@ I seem to keep creating new personal websites, but can never seem to take down t
 
 I created this blog as a way to process my own thoughts. Nothing helps you understand a concept better than trying to explain it to someone else. You'll find articles and tutorials on a wide range of topics, and I'm hoping you'll be able to narrow things down and find something that's useful to you.
 
-Many of the links (such as those to **[Amazon](https://amzn.to/2WfxUFf)**) are affiliate links. This means that if you click one of these links and then purchase something from Amazon — even if it's not the item I linked to — a small portion of your sale will go to me. That's the best way to show your appriciation if you like any of the content here.
+Some of the links (such as those to **[Amazon](https://amzn.to/2WfxUFf)**) are affiliate links. This means that if you click one of these links and then purchase something from Amazon within the next hour — even if it's not the item I linked to — a small portion of your sale will go to me. That's the best way to show your appriciation if you like any of the content here.
 
 If you have any feedback or want to get in contact with me, feel free to shoot me an email at **dann [at] dann-berg [dot] com**. Or just shoot me an DM on **[Twitter](https://twitter.com/dannberg)**.
 
