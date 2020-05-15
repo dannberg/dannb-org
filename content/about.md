@@ -6,14 +6,14 @@ description: "Dann Berg is the person who made this website. He's in New York Ci
 
 **Hello.** I Am [Dann](https://dannberg.me) and this is my website. It hosts all my writing on technology, finance, productivity, entrepreneurship, writing, and more. It also serves as a centralized hub to link together my creative output.
 
-I am a CloudOps Analyst working at **[Datadog](https://www.datadoghq.com/)** in New York City (see disclosure below). I'm part of a team focusing completely on Cloud Cost Optimization (an area of focus that is starting to be called **[FinOps](https://www.finops.org/)**). We bring visibility, understanding, and cost-optimization to cloud bills.
+I am a CloudOps Analyst working at **[Datadog](https://www.datadoghq.com/)** in New York City (see disclosure below). I'm part of an engineering team focusing on Cloud Cost Optimization (a field that is starting to be known as **[FinOps](https://www.finops.org/)**). We bring visibility, understanding, and cost-optimization to cloud bills.
 
 -------
 ## What is this site?
 
-I seem to keep creating new personal websites, but can never seem to take down the old ones. My first ever blog was **[IAmDann.com](http://iamdann.com)**, and self-publishing there helped me secure my first tech journalism job. I've re-published a few of those articles here, but am largely keeping that site alive as a time capsule for myself. Likewise, I created and maintained **[Novice No Longer](http://novicenolonger.com)** while I was freelancing full-time, but don't keep it updated anymore. Some of those articles have been re-published here as well.
+I keep creating new personal websites, but can never seem to take down the old ones. My first ever blog was **[IAmDann.com](http://iamdann.com)**, and self-publishing there helped me secure my first tech journalism job. A few of those articles are re-published here, but the website and content is old and I'm mostly keeping it online as a time capsule for myself. Additionally, I created and maintained **[Novice No Longer](http://novicenolonger.com)** several years back when I was freelancing full-time. Some of those articles have been re-published here as well.
 
-I created this blog as a way to process my own thoughts. Nothing helps you understand a concept better than trying to explain it to someone else. You'll find articles and tutorials on a wide range of topics, and I'm hoping you'll be able to narrow things down and find something that's useful to you.
+I created this specific blog as a way to process my own thoughts. Explaining thoughts and concepts to someone else helps me learn and think. You'll find articles and tutorials on a wide range of topics (whatever I'm thinking about at the time), and I hope you'll be able to find something useful to you.
 
 Some of the links (such as those to **[Amazon](https://amzn.to/2WfxUFf)**) are affiliate links. This means that if you click one of these links and then purchase something from Amazon within the next hour — even if it's not the item I linked to — a small portion of your sale will go to me. That's the best way to show your appriciation if you like any of the content here.
 
