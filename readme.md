@@ -33,3 +33,4 @@ Images 644px width (700px)
 - [ ] Add line break after homepage image when on mobile
 - [ ] Add favicon
 - [ ] Forward old domains to new domain
+- [ ] Submit new website to web crawlers
