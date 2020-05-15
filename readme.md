@@ -27,7 +27,7 @@ Images 644px width (700px)
 - [x] Edit default new post template
 - [x] Add tags to newer posts
 - [ ] Add sections for books?
-- [ ] Add google analytics
+- [x] Add google analytics
 - [x] Remove unused themes
 - [x] Deploy to Netlify on dannb.org
 - [ ] Add line break after homepage image when on mobile
@@ -35,3 +35,4 @@ Images 644px width (700px)
 - [ ] Forward old domains to new domain
 - [ ] Submit new website to web crawlers
 - [ ] Article categories in alphabetical order
+- [ ] Create custom list page for tags
