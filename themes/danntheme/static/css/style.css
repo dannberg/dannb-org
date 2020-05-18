@@ -172,7 +172,7 @@ pre {
     body {
       font-size: 80%}
       img {
-        width: 100%!important;
+        display: block!important;
         max-width: 100%!important;
         height: auto!important;
         float: none!important;
