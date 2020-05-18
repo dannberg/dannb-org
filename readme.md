@@ -32,7 +32,7 @@ Images 644px width (700px)
 - [x] Deploy to Netlify on dannb.org
 - [ ] Add line break after homepage image when on mobile
 - [x] Add favicon
-- [ ] Forward old domains to new domain
-- [ ] Submit new website to web crawlers
+- [x] Forward old domains to new domain
+- [x] Submit new website to web crawlers
 - [ ] Article categories in alphabetical order
 - [ ] Create custom list page for tags
