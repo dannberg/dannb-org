@@ -22,18 +22,18 @@ Images 644px width (700px)
 
 # To Do
 
+- [ ] Article categories in alphabetical order
+- [ ] Add sections for books?
+- [ ] Add line break after homepage image when on mobile
 - [x] Add [related posts](https://www.pakstech.com/blog/hugo-related-pages/) to end of each post
 - [x] Finish about page
 - [x] Edit default new post template
 - [x] Add tags to newer posts
-- [ ] Add sections for books?
 - [x] Add google analytics
 - [x] Remove unused themes
 - [x] Deploy to Netlify on dannb.org
-- [ ] Add line break after homepage image when on mobile
 - [x] Add favicon
 - [x] Forward old domains to new domain
 - [x] Submit new website to web crawlers
-- [ ] Article categories in alphabetical order
 - [x] Create custom list page for tags
 - [x] Higher quality favicon
