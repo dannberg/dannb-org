@@ -1,7 +1,11 @@
 {{ define "main" }}
     <h1 class="center">{{ .Title }}</h1>
     {{ .Content }}
-    <p><em>A list of all articles with the tag "{{ .Title }}."</em></p>
+    {{ if eq .Title "Tags"}}
+        <p><em>A list of all tags.</em></p>
+    {{ else }}
+        <p><em>A list of all articles with the tag "{{ .Title }}."</em></p>
+    {{ end }}
 
     <div id="blog-posts">
         {{ range .Pages }}
