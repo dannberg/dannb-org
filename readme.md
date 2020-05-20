@@ -35,5 +35,5 @@ Images 644px width (700px)
 - [x] Forward old domains to new domain
 - [x] Submit new website to web crawlers
 - [ ] Article categories in alphabetical order
-- [ ] Create custom list page for tags
-- [ ] Higher quality favicon
+- [x] Create custom list page for tags
+- [x] Higher quality favicon
