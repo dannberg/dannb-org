@@ -36,3 +36,4 @@ Images 644px width (700px)
 - [x] Submit new website to web crawlers
 - [ ] Article categories in alphabetical order
 - [ ] Create custom list page for tags
+- [ ] Higher quality favicon
