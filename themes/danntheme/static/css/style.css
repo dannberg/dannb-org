@@ -168,13 +168,14 @@ pre {
     margin: .5em 0 1em 2em;
   }
 
-  @media (max-width:500px) {
-    body {
-      font-size: 80%}
-      img {
+  @media screen and (max-width:500px) {
+    img {
         display: block!important;
         max-width: 100%!important;
         height: auto!important;
         float: none!important;
       }
+    body {
+      font-size: 80%;
     }
+  }
