@@ -24,7 +24,7 @@ Images 644px width (700px)
 
 - [ ] Article categories in alphabetical order
 - [ ] Add sections for books?
-- [ ] Let's Encrypt renewal?
+- [x] Let's Encrypt renewal?
 - [x] Add line break after homepage image when on mobile
 - [x] Add [related posts](https://www.pakstech.com/blog/hugo-related-pages/) to end of each post
 - [x] Finish about page
