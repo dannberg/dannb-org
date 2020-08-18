@@ -11,7 +11,7 @@ tags:
   - getting things done
   - gtd
   - to do list
-  - daily talk management
+  - daily task management
   - focus
   - personal development
   - tools
