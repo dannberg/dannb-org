@@ -11,7 +11,6 @@ tags:
   - nyc
   - the floorshow
   - play production
-draft: true
 ---
 ![The Floorshow Rachel Returns](/images/blog/2020/08/floorshow-rachel-returns.jpg)
 
