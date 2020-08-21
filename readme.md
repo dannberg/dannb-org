@@ -26,6 +26,7 @@ Images 644px width (700px)
 - [ ] Add sections for books?
 - [ ] post about home server
 - [ ] Let's Encrypt renewal - every three months?
+- [ ] Add link to this website's github repo to the About page
 - [x] Add line break after homepage image when on mobile
 - [x] Add [related posts](https://www.pakstech.com/blog/hugo-related-pages/) to end of each post
 - [x] Finish about page
