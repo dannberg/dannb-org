@@ -91,4 +91,4 @@ Each time I came back to the script after an ebb, whether it lasted a couple wee
 
 Maybe you’re more like Seinfeld or King, and need to create every day in order to be productive. But that’s not the only way to be. Humans aren’t productivity machines, and there’s no reason to force it upon yourself. What really matters is the ability to create a final product, whether that happens at a steady pace or within natural sprints of creativity.
 
-_Interested in checking out the_ The Floorshow _for yourself? Download the [full script](https://drive.google.com/file/d/1UNtv3zkgTz_E9HGXeHNEVFTCrFqWWYJo/view?usp=sharing) and let me know what you think!_
+_Interested in checking out the_ The Floorshow _for yourself? Download the [full script](https://drive.google.com/file/d/1C-kwYsw6gEvBOgBsxecQsXcdcdiT6OB4/view?usp=sharing) and let me know what you think!_
