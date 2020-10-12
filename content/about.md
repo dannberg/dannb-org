@@ -15,7 +15,7 @@ I keep creating new personal websites, but can never seem to take down the old o
 
 I created this specific blog as a way to process my own ideas. Explaining thoughts and concepts to someone else helps me learn and think. You'll find articles and tutorials on a wide range of topics (whatever I'm thinking about at the time), and I hope you'll be able to find something useful to you.
 
-It was also a good excuse to teach myself **[Hugo](https://gohugo.io/)**. Take a peek behind the scenes of this website on its **[Github repo](https://github.com/dannberg/dannb-org)**. Feel free to remix/steal anything you like.
+It was also a good excuse to teach myself **[Hugo](https://gohugo.io/)**, the static site generator that powers this website. Take a peek at the **[source code](https://github.com/dannberg/dannb-org)** on Github. Feel free to remix/steal anything you like.
 
 Some of the links (such as those to **[Amazon](https://amzn.to/2WfxUFf)**) are affiliate links. This means that if you click one of these links and then purchase something from Amazon within the next hour — even if it's not the item I linked to — a small portion of your sale will go to me. That's the best way to show your appriciation if you like any of the content here.
 
