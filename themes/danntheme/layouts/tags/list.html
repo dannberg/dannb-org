@@ -1,4 +1,5 @@
 {{ define "main" }}
+    <div class="narrow_body">
     <h1 class="center">{{ .Title }}</h1>
     {{ .Content }}
     {{ if eq .Title "Tags"}}
@@ -16,4 +17,5 @@
         </div>
         {{ end }}
     </div>
+</div>
 {{ end }}
