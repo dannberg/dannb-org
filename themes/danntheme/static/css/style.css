@@ -4,6 +4,8 @@ p+p, p.lead+p {
 /*dl, ol, p, pre, ul {
   text-align: left;
 }*/
+/* This is a test of the books branch
+*/
 .center {
   text-align: center;
 }
@@ -115,7 +117,6 @@ th,
 td {
   padding: 12px 15px;
   text-align: center;
-  border-bottom: 1px solid #E1E1E1;
 }
 th:first-child,
 td:first-child {

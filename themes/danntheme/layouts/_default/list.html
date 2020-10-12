@@ -4,10 +4,12 @@
     {{ .Content }}
     <h2>Categories</h2>
     <div class="dyn-items">
+        <table><tr><td>
         <div class="filter-item active"><a href="#" class="filter-text-link">ALL</a></div>
         {{range ($.Site.GetPage "taxonomyTerm" "categories").Pages }}
         <div class="filter-item"><a href="#">{{.Title}}</a></div>
         {{end}}<br />
+    </td></tr></table>
 </div>
     <h2><span id="header-category">ALL</span> Articles</h2>
 
