@@ -8,7 +8,7 @@ description: "Dann Berg is the person who made this website. He's in New York Ci
 
 I am a CloudOps Analyst working at **[Datadog](https://www.datadoghq.com/)** in New York City (see disclosure below). I'm part of an engineering team focusing on Cloud Cost Optimization (a field that is starting to be known as **[FinOps](https://www.finops.org/)**). We bring visibility, understanding, and cost-optimization to cloud bills. I also organize the **[NYC FinOps Meetup](https://www.meetup.com/New-York-City-Cloud-FinOps/)**.
 
-I also have a monthly newsletter where I show you my favorite things. You should [sign up](https://dannberg.substack.com/welcome).
+I also have a monthly newsletter where I show you my favorite things. You should **[sign up](https://dannberg.substack.com/welcome)**.
 
 -------
 ## What is this site?
