@@ -14,6 +14,7 @@ tags:
   - finance
   - engineering
   - finops foundation
+  - cloud cost optimization
 ---
 ![Single dollar bill](/images/blog/2020/10/us-dollar-bill.jpg)
 _Photo from [Usplash](https://unsplash.com/photos/8fDhgAN5zG0)_
