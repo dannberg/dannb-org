@@ -16,6 +16,10 @@ googleAnalytics = ""
   name = "Articles"
   url = "/blog"
 
+[[menu.main]]
+  name = "Newsletter"
+  url = "/newsletter"
+
 [related]
     threshold = 0
     includeNewer = true
