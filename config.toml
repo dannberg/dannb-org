@@ -20,6 +20,10 @@ googleAnalytics = ""
   name = "Newsletter"
   url = "/newsletter"
 
+[[menu.main]]
+  name = "Shop"
+  url = "https://dannberg.storenvy.com/"
+
 [related]
     threshold = 0
     includeNewer = true
