@@ -8,7 +8,7 @@ description: "Dann Berg is the person who made this website. He's in New York Ci
 
 I am a CloudOps Analyst working at **[Datadog](https://www.datadoghq.com/)** in New York City (see disclosure below). I'm part of an engineering team focusing on Cloud Cost Optimization (a field that is starting to be known as **[FinOps](https://www.finops.org/)**). We bring visibility, understanding, and cost-optimization to cloud bills. I also organize the **[NYC FinOps Meetup](https://www.meetup.com/New-York-City-Cloud-FinOps/)**.
 
-I also have a monthly newsletter where I show you my favorite things. You should **[sign up](https://dannberg.substack.com/welcome)**.
+I also have a monthly newsletter where I show you my favorite things. You should **[sign up](https://dannb.org/newsletter)**.
 
 -------
 ## What is this site?
@@ -20,6 +20,8 @@ I created this specific blog as a way to process my own ideas. Explaining though
 It was also a good excuse to teach myself **[Hugo](https://gohugo.io/)**, the static site generator that powers this website. Take a peek at the **[source code](https://github.com/dannberg/dannb-org)** on Github. Feel free to remix/steal anything you like.
 
 Some of the links (such as those to **[Amazon](https://amzn.to/2WfxUFf)**) are affiliate links. This means that if you click one of these links and then purchase something from Amazon within the next hour — even if it's not the item I linked to — a small portion of your sale will go to me. That's the best way to show your appriciation if you like any of the content here.
+
+In terms of the **[Shop](https://dannberg.storenvy.com/)**, I've been printing stickers of my face since 2007. I just sort of think it's funny. I also think it's funny that there's now a store that sells stickers of my face. That's the sum total of it.
 
 If you have any feedback or want to get in contact with me, feel free to shoot me an email at **dann [at] dann-berg [dot] com**. Or just shoot me an DM on **[Twitter](https://twitter.com/dannberg)**.
 
