@@ -12,6 +12,8 @@ tags:
   - plans
   - resolutions
 ---
+![Stay Six Feet Apart - Ft. Greene Park](/images/blog/2020/12/ft-greene-six-feet-apart.jpg)
+
 It’s certainly been quite the year, hasn’t it? It feels weird to be doing an end-of-year wrap up as if it were just any normal year (see [2012](http://novicenolonger.com/my-best-of-2012/), [2013](http://novicenolonger.com/my-best-of-2013/), [2015](http://novicenolonger.com/my-best-of-2015-a-year-in-review/), [2016](https://novicenolonger.com/best-of-2016/), [2018](https://novicenolonger.com/exhaustive-list-favorite-things-2018/)). This year has been a year of adjustments thanks to the pandemic. For example, I used to be _shocked_ when I didn’t leave my apartment for days at a time. This year it's `¯\_(ツ)_/¯`
 
 Despite all the changes, quite a lot actually happened this year. That’s why I like doing year-end posts like this -- 2020 felt like a total wash until I started putting all this together. Now that this full post is compiled, I can see that it certainly wasn't a wash. Thank you, year-end post.
@@ -63,7 +65,7 @@ With that as a preface, I was able to read some very enjoyable books this year. 
 
 ## Notable Objects
 - **iPhone 12 Mini** - _Holy moly, Apple finally released a top-of-the-line small phone again. Thank goodness._
-- **[Terraforming Mars](https://amzn.to/34EpiMr)** - _I’ve lost track of the number of time I’ve played this game. It’s certainly several dozen. There’s a bit of a learning curve, but the strategy is just so deep that every time you play it’s a new game. One of my favorite discoveries, ever._
+- **[Terraforming Mars](https://amzn.to/34EpiMr)** - _I’ve lost track of the number of times I’ve played this game. It’s certainly several dozen. There’s a bit of a learning curve, but the strategy is just so deep that every time you play it’s a new game. One of my favorite discoveries, ever._
 - **[Roam Research](http://roamresearch.com/)** - _It’s not really an object, but deserves a place on this list. A note taking system that’s been growing on me over the course of the year. I wrote this post in Roam._
 - **[Nintendo Switch](https://amzn.to/3rrKvme)** - _Nintendo’s console is just plain fun._
 - **[Canfield’s Chocolate Fudge Diet Soda](https://amzn.to/3mRHCrK)** - _Surprisingly delicious and zero calories. Also, pretty hard to find. I used to get this locally, but now it's only Amazon (when it's available)._
