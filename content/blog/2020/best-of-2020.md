@@ -11,7 +11,6 @@ tags:
   - new year
   - plans
   - resolutions
-draft: true
 ---
 It’s certainly been quite the year, hasn’t it? It feels weird to be doing an end-of-year wrap up as if it were just any normal year (see [2012](http://novicenolonger.com/my-best-of-2012/), [2013](http://novicenolonger.com/my-best-of-2013/), [2015](http://novicenolonger.com/my-best-of-2015-a-year-in-review/), [2016](https://novicenolonger.com/best-of-2016/), [2018](https://novicenolonger.com/exhaustive-list-favorite-things-2018/)). This year has been a year of adjustments thanks to the pandemic. For example, I used to be _shocked_ when I didn’t leave my apartment for days at a time. This year it's `¯\_(ツ)_/¯`
 
