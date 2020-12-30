@@ -184,6 +184,10 @@ pre {
       display: block;
       width: 100%;
     }
+    .pull-right {
+      display: block;
+      width: 100%;
+    }
     body {
       font-size: 80%;
     }
