@@ -24,6 +24,7 @@ p+p, p.lead+p {
       padding-left: 20px;
     margin-left: auto;
     margin-right: auto;
+  line-height: 24px !important;
 }
 // Filter items
 .dyn-items {
@@ -40,7 +41,7 @@ p+p, p.lead+p {
     background-color: #eee;
 }
 .narrow_body {
-  width: 33em;
+  width: 100% !important;
   margin: auto;
 }
 body {
