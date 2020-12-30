@@ -24,7 +24,6 @@ p+p, p.lead+p {
       padding-left: 20px;
     margin-left: auto;
     margin-right: auto;
-  line-height: 24px !important;
 }
 // Filter items
 .dyn-items {
@@ -187,5 +186,20 @@ pre {
     }
     body {
       font-size: 80%;
+    }
+    .navbar-item {
+      font-weight: normal;
+      padding: 20px;
+        padding-top: 20px;
+        padding-right: 20px;
+        padding-bottom: 20px;
+        padding-left: 20px;
+      margin-left: auto;
+      margin-right: auto;
+      line-height: 24px !important;
+    }
+    .narrow_body {
+      width: 100% !important;
+      margin: auto;
     }
   }
