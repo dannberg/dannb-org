@@ -41,7 +41,7 @@ p+p, p.lead+p {
     background-color: #eee;
 }
 .narrow_body {
-  width: 100% !important;
+  width: 33em;
   margin: auto;
 }
 body {
