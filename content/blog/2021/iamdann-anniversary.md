@@ -6,10 +6,11 @@ url: /blog/2021/iamdann-eleven-year-anniversary
 categories:
   - "Code"
 tags:
-  - Website
-  - Development
-  - Coding
-  - Career
+  - website
+  - development
+  - coding
+  - career
+  - writing
 ---
 ![Web design sketch](/images/blog/2021/03/web-design-sketch.jpg)
 _Photo by [HalGatewood.com](https://halgatewood.com/) on [Unsplash](https://unsplash.com/@halacious)_
