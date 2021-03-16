@@ -7,7 +7,7 @@ description: "Dann Berg writes things here. Technology, productivity, startups, 
 <!-- Text for the header is in the shortcode -->
 {{< blog-header >}}
 
-{{<figure src="/images/dannberg.png" class="pull-left" >}}
+{{<figure src="/images/dannberg.png" width="250" height="250" class="pull-left" >}}
 
 {{% class lead %}}
 Hello, I'm Dann. I work at the intersection of engineering, finance, and cloud cost optimization. In simpler terms, I help make big, scary cloud bills not so big or scary.
