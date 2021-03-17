@@ -1,7 +1,7 @@
 ---
-title: "Dann Berg: thoughts and musings"
+title: "Dann Berg: Blog, Newsletter, Shop, and More"
 date: 2020-05-01T08:03:56-04:00
-description: "Dann Berg writes things here. Technology, productivity, startups, and more."
+description: "Hello, I'm Dann. I'm a CloudOps Analyst at Datadog and writer of blogs and plays on the side. Here be thoughts on finops, technology, productivity, & more."
 ---
 
 <!-- Text for the header is in the shortcode -->
