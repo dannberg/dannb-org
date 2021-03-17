@@ -1,5 +1,5 @@
 ---
-title: "Dann Berg: Blog, Newsletter, Shop, and More"
+title: "Dann Berg: blog, newsletter, shop, and more"
 date: 2020-05-01T08:03:56-04:00
 description: "Hello, I'm Dann. I'm a CloudOps Analyst at Datadog and writer of blogs and plays on the side. Here be thoughts on finops, technology, productivity, & more."
 ---

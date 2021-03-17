@@ -24,7 +24,6 @@ Images 644px width (700px)
 
 - [ ] Article categories in alphabetical order
 - [ ] Add sections for books?
-- [ ] post about home server
 - [ ] Add easter egg gif of me waving when hovering over my name in footer
 - [x] Let's Encrypt renewal - every three months?
 - [x] Add link to this website's github repo to the About page
