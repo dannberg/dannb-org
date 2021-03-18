@@ -7,6 +7,7 @@ googleAnalytics = ""
 [params]
   author = "Dann Berg"
   description = "Hello, I'm Dann. I'm a CloudOps Analyst at Datadog and writer of blogs and plays on the side. Here be thoughts on finops, technology, productivity, & more."
+  images = ["dberg-main-og-image.jpg"]
 
 [[menu.main]]
   name = "About"
