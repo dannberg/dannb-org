@@ -3,6 +3,7 @@ title: "Evolving your cloud-cost strategy as you scale"
 date: 2020-10-13T08:30:00-04:00
 description: "A framework for thinking about cloud-cost strategies at different stages of your company's growth."
 url: /blog/2020/evolving-cloud-cost-strategy-scale
+images: ["/images/blog/2020/10/us-dollar-bill.jpg"]
 categories:
   - "FinOps"
 tags:

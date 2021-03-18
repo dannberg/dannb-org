@@ -2,6 +2,7 @@
 title: "Daily Driver Task Management System"
 date: 2020-05-15T07:52:36-04:00
 description: "A robust task management system designed for people who have trouble sticking with task management systems. A cross between bullet journaling, GTD, and a simple to-do list."
+images: ["/images/blog/2020/05/daily-driver-task-management.jpg"]
 categories:
   - Productivity
 tags:

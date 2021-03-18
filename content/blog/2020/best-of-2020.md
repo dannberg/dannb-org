@@ -3,6 +3,7 @@ title: "My best of 2020: A year in review"
 date: 2020-12-28T06:31:00-05:00
 description: "A look back at everything I accomplished this past year."
 url: /blog/2020/best-of-2020
+images: ["/images/blog/2020/12/ft-greene-six-feet-apart.jpg"]
 categories:
   - Life
 tags:

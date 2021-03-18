@@ -3,6 +3,7 @@ title: "How launching my first website changed my life"
 date: 2021-03-11T09:12:24-05:00
 description: "It all started eleven years ago with a simple Wordpress blog."
 url: /blog/2021/iamdann-eleven-year-anniversary
+images: ["/images/blog/2021/03/web-design-sketch.jpg"]
 categories:
   - "Code"
 tags:
