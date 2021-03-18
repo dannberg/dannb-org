@@ -23,9 +23,9 @@ Images 644px width (700px)
 # To Do
 
 - [ ] Article categories in alphabetical order
-- [ ] Create og image and [configure open graph](https://gohugo.io/templates/internal/#configure-open-graph) for sexier sharing
 - [ ] Add sections for books?
 - [ ] Add easter egg gif of me waving when hovering over my name in footer
+- [x] Create og image and [configure open graph](https://gohugo.io/templates/internal/#configure-open-graph) for sexier sharing
 - [x] Let's Encrypt renewal - every three months?
 - [x] Add link to this website's github repo to the About page
 - [x] Add line break after homepage image when on mobile
