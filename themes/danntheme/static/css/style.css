@@ -207,3 +207,22 @@ pre {
       margin: auto;
     }
   }
+/*hover over link to show image*/
+.hover_img a {
+  position: relative;
+  color: inherit; /*links aren't a different color*/
+  text-decoration: inherit; /*links aren't underlined*/
+}
+.hover_img a span {
+  position: sticky;
+  display: none;
+  z-index: 99;
+}
+.hover_img a:hover span {
+  display: block;
+  position: absolute;
+  top:50%;
+  left:50%;
+  margin-top: -100%;
+  margin-left: -100%;
+}
