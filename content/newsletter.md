@@ -10,7 +10,7 @@ description: "The Dann Chronicles is a must-read monthly newsletter of interesti
 **The Dann Chronicles** is a _free_ monthly roundup of interesting miscellanea that caught my attention over the past month. Things I think you'll find interesting as well.
 {{% /class %}}
 
-This newsletter isn't just a copy-paste from this blog. It's an entirely different thing found anywhere else (except of course **[Substack](https://dannberg.substack.com/)**, which is what I use to send the emails).
+This newsletter isn't just a copy-paste from this blog. It's an entirely different thing not found anywhere else (except of course **[Substack](https://dannberg.substack.com/)**, which is what I use to send the emails).
 
 It's way more than just a bare-bones link dump — each month you'll find short explorations into &#126;5 topics, with relevant links for you to follow when something catches your eye. Some times you may only give each topic a quick glance. Other months, there will be several rabbit holes you'll get sucked into exploring.
 
