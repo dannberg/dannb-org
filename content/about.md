@@ -23,6 +23,6 @@ Some of the links (such as those to **[Amazon](https://amzn.to/2WfxUFf)**) are a
 
 In terms of the **[Shop](https://dannberg.storenvy.com/)**, I've been printing stickers of my face since 2007. I just sort of think it's funny. I also think it's funny that there's now a store that sells stickers of my face. That's the sum total of it.
 
-If you have any feedback or want to get in contact with me, feel free to shoot me an email at **dann [at] dann-berg [dot] com**. Or just shoot me an DM on **[Twitter](https://twitter.com/dannberg)**.
+If you have any feedback or want to get in contact with me, feel free to shoot me an email at **dann [at] dannb [dot] org**. Or just shoot me an DM on **[Twitter](https://twitter.com/dannberg)**.
 
 **Disclosure:** _The opinions expressed here are my own and do not represent those of my employer, or any other party. Usually no one sees them before they're published._
