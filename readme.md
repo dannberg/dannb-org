@@ -14,7 +14,7 @@ This is the personal website for Dann Berg, available at https://dannb.org. It i
 
 ## Creating a new post
 
-`hugo new blog/2020/post-name.md`
+`hugo new blog/2021/post-name.md`
 
 # Reference
 
