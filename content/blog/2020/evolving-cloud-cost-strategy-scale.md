@@ -3,6 +3,7 @@ title: "Evolving your cloud-cost strategy as you scale"
 date: 2020-10-13T08:30:00-04:00
 description: "A framework for thinking about cloud-cost strategies at different stages of your company's growth."
 url: /blog/2020/evolving-cloud-cost-strategy-scale
+images: ["/images/blog/2020/10/us-dollar-bill.jpg"]
 categories:
   - "FinOps"
 tags:
@@ -78,7 +79,7 @@ Your growth no longer feels like a fluke - you’ve been growing for long enough
 
 You have a dedicated finance person now, or maybe even a small team. As they bring much-needed structure to your financials, their eye catches on one thing specifically: your cloud bill. It’s probably the biggest expense your company has, or close to it.
 
-If your cloud bill grows at roughly the same rate (or slower) than your revenue, cloud cost savings won’t be a high-priority topic. But pretty soon you’ll have one month, or two, or several where the bill creeps higher and higher. And Finance will want to know: Can we bring that bill down?
+If your cloud bill grows at roughly the same rate (or slower) than your revenue, cloud cost savings won’t be a high-priority topic. But pretty soon you’ll have one month, or two, or several where the bill creeps higher and higher. And Finance will want to know: can we bring that bill down?
 
 Your cloud bill is almost always top-of-mind, largely due to the sheer amount of time it takes to wrangle. Wouldn’t it be nice to have a dedicated person or team focused on this?
 
@@ -102,9 +103,9 @@ These products will cost you a percent of your overall cloud bill, which is prob
 
 **Tools:** Third-party cost analysis tools, third-party visualization tools, internal tooling?
 
-Business is going well, and you’re finally starting to think about what it means to leave the move-fast-and-break-stuff phase and put in real long-term processes in place. Some form of a liquidation event (in the form of acquisition or even IPO), if not already being explored, is starting to feel like a real possibility rather than a far-off dream.
+Business is going well, and you’re finally starting to think about what it means to leave the move-fast-and-break-stuff phase and put in real long-term processes in place. Some type of liquidation event (in the form of acquisition or even IPO), if not already being explored, is starting to feel like a real possibility rather than a far-off dream.
 
-This is an incredibly difficult period, second only to when the company became something out of nothing. Your financials are going to be top-of-mind. This means revisiting many of your pre-established workflows in both the finance and engineering departments and making setting yourself up for the next decade of operation.
+This is an incredibly difficult period, second only to when the company became something out of nothing. Your financials are going to be top-of-mind. This means revisiting many of your pre-established workflows in both the finance and engineering departments and making sure that you're setting yourself up for the next decade of operation.
 
 Part of these changes is figuring out what it means for you to be proactive about your cloud bills. Even with all the tools you have, it still feels like most of the cost-related work is reactionary. Depending on your current feedback loops, it may still be a month or a month and a half between when an infrastructure change happens and when the call comes out to investigate.
 

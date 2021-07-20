@@ -3,6 +3,7 @@ title: The time I was almost drawn into a Futurama episode
 description: "The story of how waited just a little too long and missed my chance to be drawn into a Futurama episode."
 date: 2014-02-04T13:00:55+00:00
 url: blog/2014/almost-futurama-head-in-jar/
+images: ["/images/blog/2014/02/dann-berg-head-jar-futurama-tattoo.jpg"]
 categories:
   - Life
 tags:

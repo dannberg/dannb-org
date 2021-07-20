@@ -2,6 +2,7 @@
 title: "5 things I learned writing my first full-length play"
 date: 2020-08-18T09:12:05-04:00
 description: "My first full-length play was produced in NYC in 2019. Here's what I learned throughout the two-year writing process."
+images: ["/images/blog/2020/08/floorshow-rachel-returns.jpg"]
 categories:
   - Writing
 tags:
