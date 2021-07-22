@@ -6,7 +6,7 @@ description: "Dann Berg is the person who made this website. He's in New York Ci
 
 **Hello.** I am {{< dann >}} and this is my website. It hosts all my writing on technology, finance, productivity, entrepreneurship, writing, and more. It also serves as a centralized hub to link together my creative output.
 
-I am a CloudOps Analyst working at **[Datadog](https://www.datadoghq.com/)** in New York City (see disclosure below). I'm part of an engineering team focusing on Cloud Cost Optimization (a field that is starting to be known as **[FinOps](https://www.finops.org/)**). We bring visibility, understanding, and cost-optimization to cloud bills. I also organize the **[NYC FinOps Meetup](https://www.meetup.com/New-York-City-Cloud-FinOps/)**.
+I am a Senior CloudOps Analyst working at **[Datadog](https://www.datadoghq.com/)** in New York City (see disclosure below). I'm part of an engineering team focusing on Cloud Cost Optimization (a field that is starting to be known as **[FinOps](https://www.finops.org/)**). We bring visibility, understanding, and cost-optimization to cloud bills. I also organize the **[NYC FinOps Meetup](https://www.meetup.com/New-York-City-Cloud-FinOps/)**.
 
 I also have a monthly newsletter where I show you my favorite things. You should **[sign up](https://dannb.org/newsletter)**.
 
