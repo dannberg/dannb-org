@@ -17,7 +17,7 @@ Want to do a deep dive? There's more on my **[About](/about)** page, or you can 
 
 In a past life, I was a tech journalist, and my writing has appeared on MSNBC, Fox News, The Verge, Mashable, Laptop Magazine, and Tom’s Guide. I also co-authored a full-length play with my wife called **["The Floorshow"](http://combustioncollective.org/the-floorshow/)** about a group of tap-dancing showgirls in the 1950s.
 
-I live in Brooklyn, New York with **[my wife](http://asuleen.com)** and cat.
+I live in Brooklyn, New York with **[my wife](http://asuleen.com)** and our cat.
 
 {{% class center %}}
 ### Selected Output
