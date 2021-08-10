@@ -88,6 +88,14 @@ span.lead {
   font-size: 150%;
   margin: 1em 0;
 }
+div.boxed {
+  display:  block;
+  /*border: 1px solid lightgrey;*/
+  background-color: #f6f6f6;
+  padding: 20px 0px 20px 15px;
+  margin-top: 10px;
+  font-size: 80%;
+}
 a.category {
   font-weight: normal;
 }
