@@ -1,6 +1,6 @@
 ---
 title: "My best of 2021: a year in review"
-date: 2021-12-26T07:28:58-05:00
+date: 2021-12-27T08:11:58-05:00
 description: "We made it through another year. Here's a look back at all my favorite things and accomplishments."
 url: /blog/2021/best-of-2021
 categories:
@@ -11,7 +11,6 @@ tags:
   - new year
   - plans
   - resolutions
-draft: true
 ---
 ![Dann's Desk 2021](/images/blog/2021/12/dann-desk-2021.jpg)
 
