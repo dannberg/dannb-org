@@ -6,9 +6,11 @@ description: "Dann Berg is the person who made this website. He's in New York Ci
 
 **Hello.** I am {{< dann >}} and this is my website. It hosts all my writing on technology, finance, productivity, entrepreneurship, writing, and more. It also serves as a centralized hub to link together my creative output.
 
-I am a CloudOps Analyst working at **[Datadog](https://www.datadoghq.com/)** in New York City (see disclosure below). I'm part of an engineering team focusing on Cloud Cost Optimization (a field that is starting to be known as **[FinOps](https://www.finops.org/)**). We bring visibility, understanding, and cost-optimization to cloud bills. I also organize the **[NYC FinOps Meetup](https://www.meetup.com/New-York-City-Cloud-FinOps/)**.
+I am a Senior CloudOps Analyst working at **[Datadog](https://www.datadoghq.com/)** in New York City (see disclosure below). I'm part of an engineering team focusing on Cloud Cost Optimization (a field that is starting to be known as **[FinOps](https://www.finops.org/)**). We bring visibility, understanding, and cost-optimization to cloud bills. I also organize the **[NYC FinOps Meetup](https://www.meetup.com/New-York-City-Cloud-FinOps/)**.
 
-I also have a monthly newsletter where I show you my favorite things. You should **[sign up](https://dannb.org/newsletter)**.
+In my free time, I'm an **[slow-but-steady reader](https://www.goodreads.com/dannb)** and an **[avid watcher of movies](https://letterboxd.com/dannb/)**. I also enjoy video games (_Binding of Isaac_, _Stardew Valley_, _Forager_) and board games (_Terraforming Mars_, _Codenames_, _Coup_).
+
+I also have a _free_ monthly newsletter where I share five interesting things I learned or discovered in the past month. You should **[sign up](https://dannb.org/newsletter)**.
 
 -------
 ## What is this site?
