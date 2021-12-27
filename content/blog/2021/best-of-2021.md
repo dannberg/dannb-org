@@ -29,7 +29,7 @@ Alright, enough chit chat. Let's dig in.
 
 ## Most viewed blog posts by me
 
-I didn't publish much on this blog this year, but I pushed out a ton of writing through my [newsletter](https://dannb.org/newsletter/). Honestly, I'm fine with that. I'm super happy with how the newsletter is going, and sharing my best content there. Although it's possible that I may expand an idea from the newsletter into a blog post at some point in the future. Best of both worlds.
+I didn't publish much on this blog this year, but I pushed out a ton of writing through my [newsletter](https://dannb.org/newsletter/). Honestly, I'm fine with that. I'm super happy with how the newsletter is going, and sharing my best content there. In 2022, it's possible that I may expand an idea from the newsletter into a blog post. Best of both worlds.
 
 - [Using a Debian ISO instead of a CD-ROM in your sources.list](https://novicenolonger.com/using-a-debian-iso-instead-of-a-cd-rom-in-your-sources-list/) - _Google still really likes pushing traffic to this old article_
 - [Safe Python Playing with VirtualEnv](https://novicenolonger.com/safe-python-playing-with-virtualenv/) - _Another old article that still gets hits. Could probably use an update..._
