@@ -1,6 +1,6 @@
 ---
 title: "My best of 2021: a year in review"
-date: 2021-12-27T07:28:58-05:00
+date: 2021-12-27T06:28:58-05:00
 description: "We made it through another year. Here's a look back at all my favorite things and accomplishments."
 url: /blog/2021/best-of-2021
 categories:
