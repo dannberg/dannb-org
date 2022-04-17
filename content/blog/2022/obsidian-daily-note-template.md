@@ -22,17 +22,17 @@ draft: false
 
 I've officially drunk the [Obsidian](https://obsidian.md/) Kool-Aid. While I still think my [Daily Driver Task Management System](https://dannb.org/blog/2020/daily-driver-task-management-system/) is the best way to manage your to-dos, I've moved my entire note-taking system to Obsidian and it's now functioning as my second brain.
 
-Before falling in love with Obsidian, I started using [Roam Research](https://roamresearch.com/) (paired with the book *[How To Take Smart Notes](https://amzn.to/3JK4ncl)*) as a way to start shifting my note-taking strategy. Roam's bi-directional linking, paired with the Zettelkasten strategy outlined in the book, allowed me to build a system that supposed information *recall* as much as note taking.
+Before falling in love with Obsidian, I started using [Roam Research](https://roamresearch.com/) (paired with the book *[How To Take Smart Notes](https://amzn.to/3JK4ncl)*) as a way to start shifting my note-taking strategy. Roam's bi-directional linking, paired with a modified version of the Zettelkasten strategy outlined in the book, allowed me to build a system that supports information *recall* as much as note *taking*.
 
-One of the things I really liked about Roam Research was the Daily Note. For me, the real strength of a daily note is to anchor one's daily activity in the world of note taking. I wanted to design a daily note that allowed for:
+One of the things I really liked about Roam Research was the Daily Note. For me, the real strength of a daily note is to anchor one's daily activity within the larger world of personal productivity. I wanted to design a daily note that allowed for:
 
 1. Thoughtful reflection
 2. A place for ephemeral notes throughout the day
 3. A record of more evergreen notes that were touched that day
 
-The template I'm currently using (and am sharing in this post) was build over a period of several months. I'd make a small change, use it for weeks to see if it stuck, and then make another change. I've most recently added the "Notes created today" and "Notes modified today" sections, and I finally think I'm done making changes. My daily note template is complete.
+The template I'm currently using (and am sharing in this post) was build over a period of several months. I'd make a small change, use it for days to weeks+ to see if it stuck, and then make another change. I've most recently added the "Notes created today" and "Notes modified today" sections, and I finally think I'm done making changes. My daily note template is complete.
 
-I wanted to share, because I thought others might be interested. Please steal anything you like.
+I wanted to share, because I thought others might be interested. Please steal/remix/reuse anything you like.
 
 ## Setting up the Daily Note Template
 
@@ -44,7 +44,7 @@ These are the plugins you'll need:
 
 You'll want to install the plugins [directly through Obsidian](https://help.obsidian.md/Advanced+topics/Community+plugins).
 
-❗ Feel free to jump directly to the [raw Obsidian Daily Note template](https://gist.github.com/dannberg/48ea2ba3fc0abdf3f219c6ad8bc78eb6), if you aren't interested in my fairly wordy tour.
+❗ Feel free to jump directly to the [raw Obsidian Daily Note template](https://gist.github.com/dannberg/48ea2ba3fc0abdf3f219c6ad8bc78eb6), if you aren't interested in this fairly wordy tour.
 
 ### Metadata and Navigation
 ![Dann's Daily Note metadata and navigation](/images/blog/2022/04/daily-note-metadata-nav.png)
@@ -53,13 +53,13 @@ I don't put too much information into the YAML front matter. Just a created date
 
 `<% tp.file.creation_date() %>`
 
-Any tags (I only use `+Daily Notes`) are outside of the front matter.
+Any tags (I only use `+Daily Notes`) are outside of the front matter. But that's just a personal preference.
 
-I also use Templater to insert the day's date, with the day of the week prominently at the front.
+I also use Templater to insert the day's date, in an easy-to-read format, with the day of the week prominently at the front.
 
 `<% moment(tp.file.title,'YYYY-MM-DD').format("dddd, MMMM DD, YYYY") %>`
 
-I also include some Previous/Next navigation at the top, powered by Templater and formatted the same as the filename naming convention. Most frequently, I'm using today's note, which means the link to tomorrow's note doesn't exist. But these can be useful when browsing older notes.
+I also include some Previous/Next navigation at the top, powered by Templater and formatted the same as the filename naming convention. Most frequently, I'm using today's note, which means the link to tomorrow's note doesn't exist. But these can both be useful when browsing older notes.
 
 `<< [[<% tp.date.now("YYYY-MM-DD-dddd", -1, tp.file.title, "YYYY-MM-DD-dddd") %>]] | [[<% tp.date.now("YYYY-MM-DD-dddd", 1, tp.file.title, "YYYY-MM-DD-dddd") %>]]>>`
 
@@ -70,14 +70,16 @@ For a long time, I used the [Day One](https://dayoneapp.com/) iOS app for daily 
 
 I've now moved this all to Obsidian, and thought of four questions to inspire quick writing. Each question appears when I create a new note in the morning, along with an empty bullet point, ready to be filled with answers.
 
+I write these answers first thing in the morning, right after I create the day's note.
+
 ### Ephemeral Notes
 ![Dann's Daily Note ephemeral and record of work](/images/blog/2022/04/daily-note-ephemeral-record-of-work.png)
 
-Like the Daily Questions, the Notes section has an empty bullet point ready for me to write. Writing in bullet points makes the task much less daunting. You're inviting yourself to make a quick note. You should make it as easy as possible to start.
+Like the Daily Questions, the Notes section has an empty bullet point ready for me to write. Writing in bullet points makes the task much less daunting. You're inviting yourself to make a quick note. You should always make it as easy as possible to start.
 
-Often, I'll take notes from meetings here, and then spin those notes into their own file during end-of-day processing. All that will be left is a link to the new file.
+Often, I'll take notes from meetings here, and then spin those notes into their own file using the [Note Refactor plugin](https://github.com/lynchjames/note-refactor-obsidian) during end-of-day processing. All that will be left is a link to the new file.
 
-Other times ephemeral notes will juts stay here. Although I recognize that the recall process of accessing my notes from a Daily Note vs from an evergreen note is less obviously. For some notes, that's fine for me.
+Other times ephemeral notes will juts stay here. Although I recognize that the recall process of accessing my notes from a Daily Note vs from an evergreen note is less straightforward. For some notes, that's fine for me.
 
 ### Record of work
 Lastly, the template ends with a few queries powered by the Dataview plugin. These output two unordered lists:
@@ -85,9 +87,9 @@ Lastly, the template ends with a few queries powered by the Dataview plugin. The
 - Notes created today
 - Notes modified today
 
-When you create your Daily Note, and are editing the note, these will just be code blocks. You'll need to toggle Reading View in order for Dataview to generate the list of notes.
+When you create your Daily Note, and remain in Edit Mode, these will just be codeblocks (as shown in the picture). You'll need to toggle Reading View in order for Dataview to generate the list of notes.
 
-I personally find this information less useful day-of. It's only when reviewing past notes, specifically in Reading Mode, that these sections are particularly interesting.
+I personally find this information less useful day-of, so just having codeblocks at the bottom the the note is fine for me. It's only when reviewing past notes, specifically in Reading Mode, that these sections are particularly interesting.
 
 ## Where to store your daily notes
 ![Dann's Daily Note directory structure](/images/blog/2022/04/daily-note-directory-structure.png)
