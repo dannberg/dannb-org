@@ -20,7 +20,7 @@ draft: false
 
 ---
 
-I've officially drunk the [Obsidian](https://obsidian.md/) Kool-Aid. While I still think my [Daily Driver Task Management System](https://dannb.org/blog/2020/daily-driver-task-management-system/) is the best way to manage your to-dos, I've moved my entire note-taking system to Obsidian and it's not functioning as my second brain.
+I've officially drunk the [Obsidian](https://obsidian.md/) Kool-Aid. While I still think my [Daily Driver Task Management System](https://dannb.org/blog/2020/daily-driver-task-management-system/) is the best way to manage your to-dos, I've moved my entire note-taking system to Obsidian and it's now functioning as my second brain.
 
 Before falling in love with Obsidian, I started using [Roam Research](https://roamresearch.com/) (paired with the book *[How To Take Smart Notes](https://amzn.to/3JK4ncl)*) as a way to start shifting my note-taking strategy. Roam's bi-directional linking, paired with the Zettelkasten strategy outlined in the book, allowed me to build a system that supposed information *recall* as much as note taking.
 
