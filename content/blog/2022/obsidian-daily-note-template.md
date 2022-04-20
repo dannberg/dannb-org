@@ -30,7 +30,7 @@ One of the things I really liked about Roam Research was the Daily Note. For me,
 2. A place for ephemeral notes throughout the day
 3. A record of more evergreen notes that were touched that day
 
-The template I'm currently using (and am sharing in this post) was build over a period of several months. I'd make a small change, use it for days to weeks+ to see if it stuck, and then make another change. I've most recently added the "Notes created today" and "Notes modified today" sections, and I finally think I'm done making changes. My daily note template is complete.
+The template I'm currently using (and am sharing in this post) was built over a period of several months. I'd make a small change, use it for days to weeks+ to see if it stuck, and then make another change. I've most recently added the "Notes created today" and "Notes modified today" sections, and I finally think I'm done making changes. My daily note template is complete.
 
 I wanted to share, because I thought others might be interested. Please steal/remix/reuse anything you like.
 
