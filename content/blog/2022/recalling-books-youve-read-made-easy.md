@@ -11,7 +11,7 @@ tags:
   - books
   - reading
   - building a second brain
-draft: true
+draft: false
 ---
 [![Dann's note for the book The Order of Time](/images/blog/2022/04/the-order-of-time-obsidian-note.png)](/images/blog/2022/04/the-order-of-time-obsidian-note.png)
 _Click on the image for full size._
