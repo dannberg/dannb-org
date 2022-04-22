@@ -5,6 +5,8 @@ description: "Updated 2022. A brief tour of my Daily Note template for Obsidian,
 url: /blog/2022/obsidian-daily-note-template
 categories:
   - Productivity
+images:
+  - /images/blog/2022/04/obsidian-daily-note-template-og.jpg
 tags:
   - obsidian
   - notetaking

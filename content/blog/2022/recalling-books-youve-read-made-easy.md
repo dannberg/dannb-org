@@ -5,6 +5,8 @@ description: "A simple ~30-minute system that will help you recall key informati
 url: /blog/2022/recalling-books-youve-read-made-easy
 categories:
   - Productivity
+images:
+  - /images/blog/2022/04/the-order-of-time-obsidian-note-og.jpg
 tags:
   - obsidian
   - notetaking
