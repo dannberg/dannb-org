@@ -22,6 +22,7 @@ Images 644px width (700px)
 
 # To Do
 
+- [ ] Add RSS feed
 - [ ] Article categories in alphabetical order
 - [ ] Add sections for books?
 - [x] Add easter egg gif of me waving when hovering over my name in footer
