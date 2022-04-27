@@ -2,6 +2,8 @@ baseURL = "https://dannb.org/"
 languageCode = "en-us"
 title = "Dann Berg: blog, newsletter, shop, and more"
 theme = "danntheme"
+rssLimit = 20
+copyright = "2022 Dann Berg. All rights reserved."
 googleAnalytics = ""
 
 [params]
