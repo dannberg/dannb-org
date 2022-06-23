@@ -27,7 +27,7 @@ Back in April 2018, before I even knew the term FinOps, here's how the CloudOps 
 
 It sounded perfect and I jumped at the opportunity. After a rigorous interview process, they offered me the role.
 
-The four years that followed were some of the most challenging, educational, and rewarding of my life. I helped establish actionable visibility into spend, a standardized Software Capitalization process, a weekly Reserved Instance analysis and purchase cadence, and a engineering-wide cost-improvement tracking program (to name a few accomplishments).
+The four years that followed were some of the most challenging, educational, and rewarding of my life. I helped establish actionable visibility into spend, a standardized Software Capitalization process, a weekly Reserved Instance analysis and purchase cadence, and a engineering-wide cost-improvement tracking program (to name a few).
 
 I also worked closely with Finance to help ready the company for its 2019 Initial Public Offering. The week that Datadog went public was also the same week that my very first full-length play _[The Floorshow](https://www.broadwayworld.com/off-off-broadway/regional/The-Floorshow-324543)_ made its production debut in New York City. I'll never forget it.
 
