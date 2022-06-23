@@ -45,6 +45,6 @@ In many ways, FullStory as a company feels a lot like Datadog did when I first j
 
 The decision to leave Datadog and join FullStory has been bittersweet, because I've been working with some crazy smart people on really interesting problems. But I think it was the right one. And I'm excited for the future.
 
-I want to thank everyone I worked with at Datadog. Especially Alexis, Chandru, Rob, Brendan, Dan, and Tim.
+I want to thank everyone I worked with at Datadog. Especially Alexis, Chandru, Rob, Brendan, Dan, Tim, Sarah, and Dana.
 
 Here's to new adventures.
