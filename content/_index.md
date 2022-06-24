@@ -1,7 +1,7 @@
 ---
 title: "Dann Berg: blog, newsletter, shop, and more"
 date: 2020-05-01T08:03:56-04:00
-description: "Hello, I'm Dann. I'm a Senior CloudOps Analyst at Datadog and writer of blogs and plays on the side. Here be thoughts on finops, technology, productivity, & more."
+description: "Hello, I'm Dann. I'm a Senior Technical Program Manager (FinOps) at FullStory and writer of blogs and plays on the side. Here be thoughts on finops, technology, productivity, & more."
 ---
 
 <!-- Text for the header is in the shortcode -->

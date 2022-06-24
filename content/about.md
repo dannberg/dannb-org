@@ -6,7 +6,7 @@ description: "Dann Berg is the person who made this website. He's in New York Ci
 
 **Hello.** I am {{< dann >}} and this is my website. It hosts all my writing on technology, finance, productivity, entrepreneurship, writing, and more. It also serves as a centralized hub to link together my creative output.
 
-I am a Senior CloudOps Analyst working at **[Datadog](https://www.datadoghq.com/)** in New York City (see disclosure below). I'm part of an engineering team focusing on Cloud Cost Optimization (a field that is starting to be known as **[FinOps](https://www.finops.org/)**). We bring visibility, understanding, and cost-optimization to cloud bills. I also organize the **[NYC FinOps Meetup](https://www.meetup.com/New-York-City-Cloud-FinOps/)**.
+I am a _Senior Technical Program Manager for FinOps_ working remote at **[FullStory](https://www.fullstory.com/)** from New York City (see disclosure below). Before that, I was a _Senior FinOps Analyst_ at **[Datadog](https://www.datadoghq.com)**. FinOps, for those unfamiliar, is a burgeoning new engineering discipline helping organizations get maximum business value by leveraging the variable spend model of the cloud (learn more at **[FinOps.org](https://www.finops.org/)**). I'm also active in the wider FinOps community, and run the monthly **[NYC FinOps Meetup](https://www.meetup.com/New-York-City-Cloud-FinOps/)**.
 
 In my free time, I'm an **[slow-but-steady reader](https://www.goodreads.com/dannb)** and an **[avid watcher of movies](https://letterboxd.com/dannb/)**. I also enjoy video games (_Binding of Isaac_, _Stardew Valley_, _Forager_) and board games (_Terraforming Mars_, _Codenames_, _Coup_).
 
