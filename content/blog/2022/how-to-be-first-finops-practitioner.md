@@ -22,7 +22,7 @@ _Photo from [Usplash](https://unsplash.com/photos/gySMaocSdqs)_
 
 This is a written version of the talk I gave at the FinOps X 2022 conference in Austin, Texas called "_And Then There Was FinOps: Creating and Scaling your Cloud-Native FinOps Practice_." The conference happened for me at a rare between-jobs moment, where I had just finished working at[ Datadog](https://www.datadoghq.com/) the week prior, and I wasn't starting my new job at[ FullStory](https://www.fullstory.com/) for another couple weeks (I wrote more about that decision[ here](https://dannb.org/blog/2022/bit-of-career-news-fullstory/)).
 
-That presentation has now[ been posted on YouTube in full](https://www.youtube.com/watch?v=aG_jbQne6Bg), s you have the choice to watch/listening instead of read. Or do both, if the mood strikes.
+That presentation has now[ been posted on YouTube in full](https://www.youtube.com/watch?v=aG_jbQne6Bg), so you have the choice to watch/listen instead of reading. Or do both, if the mood strikes.
 
 Note that this post (and talk) is more on the philosophical rather than practical. Given the point in my career when I gave the talk, it's focused on the things I was thinking about at the time: how I approach building a FinOps practice at a new company as an individual practitioner, and the lessons I've learned from past experience.
 
