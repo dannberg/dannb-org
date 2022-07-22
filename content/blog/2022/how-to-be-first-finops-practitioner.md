@@ -24,7 +24,7 @@ This is a written version of the talk I gave at the FinOps X 2022 conference in 
 
 That presentation has now[ been posted on YouTube in full](https://www.youtube.com/watch?v=aG_jbQne6Bg), so you have the choice to watch/listen instead of reading. Or do both, if the mood strikes.
 
-Note that this post (and talk) is more on the philosophical rather than practical. Given the point in my career when I gave the talk, it's focused on the things I was thinking about at the time: how I approach building a FinOps practice at a new company as an individual practitioner, and the lessons I've learned from past experience.
+Given the point in my career when I gave the talk, this post is focused on the things I was thinking about at the time: how I approach building a FinOps practice at a new company as an individual practitioner, and the lessons I've learned from past experience.
 
 The imagined audience is twofold: individual practitioners looking to do something similar, and companies interested in building out this practice. But I also think the information has a potential wider appeal, as anyone can pick and choose bits and pieces that work for them.
 
