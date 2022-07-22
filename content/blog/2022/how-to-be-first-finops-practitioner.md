@@ -35,6 +35,8 @@ At its core, I believe FinOps can be narrowed down to two action areas:
 1. Decrease the _money_ feedback loop
 2. Decrease price of cloud infrastructure
 
+The other area of focus for FinOps is using infrastructure cost data to enable better-educated business and product decisions, but I'll be mostly talking about those two action areas in this post.
+
 ## The money feedback loop
 ![Feedback loop with action and effect](/images/blog/2022/07/feedback-loop.png)
 
@@ -60,7 +62,7 @@ At its core, the price of cloud infrastructure is an extremely simple formula:
 
 _price **=** rate **x** usage_
 
-That means that if you want to lower the price, you have only levers that you can pull: rate and usage. Everything you do is in favor of one of those two levers.
+That means that if you want to lower the price, you have two levers that you can pull: rate and usage. Everything you do is in favor of one of those two levers.
 
 ### Lowering Rate
 
