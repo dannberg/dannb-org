@@ -21,9 +21,11 @@ draft: false
 _Photo by [Ana Municio](https://unsplash.com/@lamunix) on [Unsplash](https://unsplash.com/photos/PbzntH58GLQ)_
 
 
-I'm starting a new series that I'm calling "**Ask a FinOps Practitioner.**" Given my role as [Ambassador](https://www.finops.org/ambassadors/) at the FinOps Foundation, host of the [NYC FinOps Meetup](https://www.meetup.com/new-york-city-cloud-finops/), and occasional publisher of [FinOps content](https://dannb.org/tags/finops/), I'll often get messages from members of the community with specific questions. Sometimes these questions are so good that I want to share them (and my answers) with the wider community in the hopes of spreading knowledge and sparking a larger discussion.
+**Author's Note:** I'm starting a new article series that I'm calling "_Ask a FinOps Practitioner._" I'll often get messages from members of the community with specific questions, given my role as [Ambassador](https://www.finops.org/ambassadors/) at the FinOps Foundation, host of the [NYC FinOps Meetup](https://www.meetup.com/new-york-city-cloud-finops/), and occasional publisher of [FinOps content](https://dannb.org/tags/finops/). Sometimes these questions are so good that I want to share them (and my answers) with the wider community in the hopes of spreading knowledge and sparking a larger discussion.
 
-The post below may have been edited for grammar and spelling, but not modified in any material way. *All emphasis is mine*.
+Posts in this series will be sporatic, and totally at the whim of 1) people asking me questions worth sharing and 2) me feeling motivated to format/edit the content for my website.
+
+The post below has been lightly edited for grammar and spelling, but not modified in any material way. *All emphasis is mine*.
 
 ---
 
