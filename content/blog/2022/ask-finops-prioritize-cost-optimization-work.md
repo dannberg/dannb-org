@@ -3,6 +3,7 @@ title: "Ask a Finops Practitioner: When to prioritize cost?"
 date: 2022-07-25T16:04:46-04:00
 description: "Q: Does a company have to be at a certain level of maturity with performance reliability and security before cost becomes a priority?"
 url: /blog/2022/ask-finops-prioritize-cost-optimization-work
+images: ["/images/blog/2022/07/ana-municio-stones-question-mark.jpg"]
 categories:
   - "FinOps"
 tags:
