@@ -5,6 +5,7 @@ description: "I launched The Dann Chronicles monthly newsletter nearly two years
 url: /blog/2022/why-i-write-a-newsletter
 categories:
   - "Writing"
+images: ["/images/blog/2022/07/laptop-loading-gmail-unsplash.jpg"]
 tags:
   - Productivity
   - Writing
