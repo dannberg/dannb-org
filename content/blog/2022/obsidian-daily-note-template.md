@@ -1,7 +1,7 @@
 ---
 title: "My Obsidian Daily Note Template"
-date: 2022-04-17T09:09:32-04:00
-description: "Updated 2022. A brief tour of my Daily Note template for Obsidian, using the Templater and Dataview plugins."
+date: 2022-10-19T09:09:50-04:00
+description: "Updated October 2022. A brief tour of my Daily Note template for Obsidian, using the Templater and Dataview plugins."
 url: /blog/2022/obsidian-daily-note-template
 categories:
   - Productivity
@@ -82,6 +82,16 @@ Like the Daily Questions, the Notes section has an empty bullet point ready for 
 Often, I'll take notes from meetings here, and then spin those notes into their own file using the [Note Refactor plugin](https://github.com/lynchjames/note-refactor-obsidian) during end-of-day processing. All that will be left is a link to the new file.
 
 Other times ephemeral notes will juts stay here. Although I recognize that the recall process of accessing my notes from a Daily Note vs from an evergreen note is less straightforward. For some notes, that's fine for me.
+
+### Automatic cursor placement
+![Dann's Daily Note Templater cursor placement text](/images/blog/2022/04/daily-note-cursor-placement-templater.png)
+
+**Update Oct 2022**: A [commenter](https://gist.github.com/moritzdawo) on the [gist](https://gist.github.com/dannberg/48ea2ba3fc0abdf3f219c6ad8bc78eb6) pointed out that you can use `<% tp.file.cursor() %>` to tell Obsidian where to place your cursor once Templater creates each new Daily Note.
+
+To use this, place the code `<% tp.file.cursor() %>` wherever you want your cursor to appear (maybe on the first bullet point under Notes, or under the first daily question). Then, in Templater settings, make sure you have the following **enabled**:
+
+- Automatic jump to cursor
+- Trigger Templater on new file creation
 
 ### Record of work
 Lastly, the template ends with a few queries powered by the Dataview plugin. These output two unordered lists:
