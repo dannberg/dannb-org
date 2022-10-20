@@ -117,3 +117,7 @@ Originally, all my daily notes were in that single directory, but I've since mov
 Create a new note, and name it `Daily Note Template`. Move it to your templates directory if you have one (I use `Bins/Templates/Daily Note Template`).
 
 Once the file exists in your desired directory, enter the directory path int he Daily Notes settings page. Each time you click the menu button to create your Daily Note, it will use that template file, along with the Templater plugin, to generate a fully-formed, ready-to-use, daily note.
+
+**Dive deeper in Obsidian**
+
+Found this useful? I also wrote about my [People note template](https://dannb.org/blog/2022/obsidian-people-note-template/), as well as how I use Obsidian to [recall books I read](https://dannb.org/blog/2022/recalling-books-youve-read-made-easy/).

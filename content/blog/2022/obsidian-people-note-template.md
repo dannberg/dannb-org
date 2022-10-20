@@ -173,4 +173,4 @@ That'll create the new People note, in the correct directory, with an expanded t
 
 **Dive deeper in Obsidian**
 
-Found this useful? I also wrote about my [Daily Note template](http://localhost:1313/blog/2022/obsidian-daily-note-template/), as well as how I use Obsidian to [recall books I read](http://localhost:1313/blog/2022/recalling-books-youve-read-made-easy/).
+Found this useful? I also wrote about my [Daily Note template](https://dannb.org/blog/2022/obsidian-daily-note-template/), as well as how I use Obsidian to [recall books I read](https://dannb.org/blog/2022/recalling-books-youve-read-made-easy/).
