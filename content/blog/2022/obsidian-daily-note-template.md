@@ -1,6 +1,6 @@
 ---
 title: "My Obsidian Daily Note Template"
-date: 2022-10-19T09:09:50-04:00
+date: 2022-10-26T07:09:50-04:00
 description: "Updated October 2022. A brief tour of my Daily Note template for Obsidian, using the Templater and Dataview plugins."
 url: /blog/2022/obsidian-daily-note-template
 categories:
@@ -16,7 +16,7 @@ tags:
   - building a second brain
 draft: false
 ---
-![Dann's Daily Note template for Obsidian](/images/blog/2022/04/daily-note-template.png)
+![Dann's Daily Note template for Obsidian](/images/blog/2022/10/daily-note-template.png)
 
 ❗ _Feel free to skip the fluff and navigate directly to the **[raw Daily Note template](https://gist.github.com/dannberg/48ea2ba3fc0abdf3f219c6ad8bc78eb6)**._
 
@@ -49,7 +49,7 @@ You'll want to install the plugins [directly through Obsidian](https://help.obsi
 ❗ Feel free to jump directly to the [raw Obsidian Daily Note template](https://gist.github.com/dannberg/48ea2ba3fc0abdf3f219c6ad8bc78eb6), if you aren't interested in this fairly wordy tour.
 
 ### Metadata and Navigation
-![Dann's Daily Note metadata and navigation](/images/blog/2022/04/daily-note-metadata-nav.png)
+![Dann's Daily Note metadata and navigation](/images/blog/2022/10/daily-note-metadata-nav.png)
 
 I don't put too much information into the YAML front matter. Just a created date, using the following Templater code, inserts the current date:
 
@@ -61,9 +61,9 @@ I also use Templater to insert the day's date, in an easy-to-read format, with t
 
 `<% moment(tp.file.title,'YYYY-MM-DD').format("dddd, MMMM DD, YYYY") %>`
 
-I also include some Previous/Next navigation at the top, powered by Templater and formatted the same as the filename naming convention. Most frequently, I'm using today's note, which means the link to tomorrow's note doesn't exist. But these can both be useful when browsing older notes.
+I also include some Previous/Next navigation at the top[^1], powered by Templater and formatted the same as the filename naming convention. Most frequently, I'm using today's note, which means the link to tomorrow's note doesn't exist. But these can both be useful when browsing older notes.
 
-`<< [[<% tp.date.now("YYYY-MM-DD-dddd", -1, tp.file.title, "YYYY-MM-DD-dddd") %>]] | [[<% tp.date.now("YYYY-MM-DD-dddd", 1, tp.file.title, "YYYY-MM-DD-dddd") %>]]>>`
+`<< [[<% fileDate = moment(tp.file.title, 'YYYY-MM-DD-dddd').subtract(1, 'd').format('YYYY-MM-DD-dddd') %>|Yesterday]] | [[<% fileDate = moment(tp.file.title, 'YYYY-MM-DD-dddd').add(1, 'd').format('YYYY-MM-DD-dddd') %>|Tomorrow]] >>`
 
 ### Daily Questions
 ![Dann's Daily Note questions](/images/blog/2022/04/daily-note-daily-questions.png)
@@ -121,3 +121,5 @@ Once the file exists in your desired directory, enter the directory path int he 
 **Dive deeper in Obsidian**
 
 Found this useful? I also wrote about my [People note template](https://dannb.org/blog/2022/obsidian-people-note-template/), as well as how I use Obsidian to [recall books I read](https://dannb.org/blog/2022/recalling-books-youve-read-made-easy/).
+
+[^1]: This Templater code was updated Oct 2022 thanks to feedback from [Lopyter on Reddit](https://reddit.com/r/ObsidianMD/comments/yd62d1/my_obsidian_daily_note_template_using_templater/its9d7y/). The old format would have broke if you create Daily Notes for future dates.
