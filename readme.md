@@ -4,6 +4,8 @@
 
 This is the personal website for Dann Berg, available at https://dannb.org. It is a static website created using Hugo. I created a custom theme I've lovingly dubbed Danntheme.
 
+Theme is covered by [The MIT License](https://github.com/dannberg/dannb-org/blob/master/themes/danntheme/LICENSE). Have fun!
+
 # Quick reference
 
 ## Running the server
