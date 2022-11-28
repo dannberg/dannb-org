@@ -27,6 +27,7 @@ Images 644px width (700px)
 - [ ] Add _Dinners of Note_ section
 - [ ] Article categories in alphabetical order
 - [ ] Add sections for books?
+- [ ] Update Netlify image from Ubuntu Xenial to Focal
 - [x] Add [RSS feed](https://pakstech.com/blog/hugo-rss/)
 - [x] Add easter egg gif of me waving when hovering over my name in footer
 - [x] Create og image and [configure open graph](https://gohugo.io/templates/internal/#configure-open-graph) for sexier sharing
