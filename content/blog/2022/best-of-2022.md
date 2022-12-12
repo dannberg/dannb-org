@@ -57,7 +57,7 @@ I didn't realize that almost all my favorite shows this year were on HBO until I
 
 - **[Succession](https://www.youtube.com/watch?v=kevqiiYNFrc)** (HBO) - *The best show on television right now*
 - **[Barry](https://www.youtube.com/watch?v=b09aJdWqVp4)** (HBO) - *Funny, dark, and oh-so-well-written*
-- **[Severance](https://www.youtube.com/watch?v=xEQP4VVuyrY)** (HBO) - *Every episode presents a cobweb of rabbit holes to get lost in*
+- **[Severance](https://www.youtube.com/watch?v=xEQP4VVuyrY)** (Apple TV+) - *Every episode presents a cobweb of rabbit holes to get lost in*
 - **[The Rehearsal](https://www.youtube.com/watch?v=2fjPFt8cpic)** (HBO) - *Nathan Fielder's HBO-backed follow up to the genius [Nathan For You](https://www.youtube.com/watch?v=Sx8cRWbGlNo). Definitely falls in the category of "genius"*
 - **[Ziwe](https://www.youtube.com/watch?v=kTceoAGnF90)** (Showtime) - *Originally, I was turned off by the first episode. But after seeing clips from the series all over TikTok, I gave the series a second change. So glad I did.*
 
