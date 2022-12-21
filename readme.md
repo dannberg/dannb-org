@@ -16,7 +16,7 @@ Theme is covered by [The MIT License](https://github.com/dannberg/dannb-org/blob
 
 ## Creating a new post
 
-`hugo new blog/2021/post-name.md`
+`hugo new blog/2023/post-name.md`
 
 # Reference
 
