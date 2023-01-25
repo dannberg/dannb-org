@@ -5,6 +5,8 @@ description: "How FinOps Practitioners at SaaS companies can ditch traditional b
 url: /blog/2023/margins-are-the-new-budgets
 categories:
   - "FinOps"
+images:
+  - /images/blog/2023/01/margins-are-the-new-budgets-og.jpg
 tags:
   - finops
   - aws
