@@ -75,22 +75,22 @@ Install [1Password 8](https://1password.com/) from website (not App Store)
 - [Bartender](https://www.macbartender.com/)
     - Hide Menu Bar apps as they're installed
 - [Hyperkey](https://hyperkey.app/)
-  - Set capslock to Hyper Key (include Shift in hyper key)
+    - Set capslock to Hyper Key (include Shift in hyper key)
 - [Little Snitch](https://www.obdev.at/products/littlesnitch/index.html)
- - [Mailplane](https://mailplaneapp.com/) (RIP 🙁)
- - [Retrobatch](https://flyingmeat.com/retrobatch/)
- - [Downie 4](https://software.charliemonroe.net/downie/)
- - [Sublime Text](https://www.sublimetext.com/)
+- [Mailplane](https://mailplaneapp.com/) (RIP 🙁)
+- [Retrobatch](https://flyingmeat.com/retrobatch/)
+- [Downie 4](https://software.charliemonroe.net/downie/)
+- [Sublime Text](https://www.sublimetext.com/)
     - Help -> Install Package Control
     - Copy over `Packages` from NAS backup
     - Change defaults of all text files to open in Sublime Text
- - [Alfred](https://www.alfredapp.com/)
+- [Alfred](https://www.alfredapp.com/)
     - Connect to settings backup in Dropbox
     - Enable clipboard manager
     - Disable MacOS default Spotlight shortcut
       - System Preferences > Keyboard > Keyboard Shortcuts > Spotlight (left menu) > Uncheck shortcuts
     - Set Alfred to `Command-Space`
- - [Keyboard Maestro](https://www.keyboardmaestro.com/main/)
+- [Keyboard Maestro](https://www.keyboardmaestro.com/main/)
     - Enable Sync in Preferences, file saved in iCloud Drive
     - Make sure `Obsidian Sync to Github` is working
 - [iStat Menu](https://bjango.com/mac/istatmenus/)
@@ -98,11 +98,11 @@ Install [1Password 8](https://1password.com/) from website (not App Store)
     - Disable MacOS default time and battery
     - Disable default battery in Battery System Preferences
     - Enable seconds on MacOS clock
- - [Transmit 5](https://panic.com/transmit/)
+- [Transmit 5](https://panic.com/transmit/)
    - Import connection settings for Namecheap hosting & dedicated server
- - [Photomosh](https://photomosh.com/)
+- [Photomosh](https://photomosh.com/)
   - Current up-to-date link from Gumroad
- - [Cleanshot X](https://cleanshot.com/)
+- [Cleanshot X](https://cleanshot.com/)
 
 ### No software license
 - [iTerm2](https://iterm2.com/)
