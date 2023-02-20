@@ -94,10 +94,9 @@ Install [1Password 8](https://1password.com/) from website (not App Store)
     - Enable Sync in Preferences, file saved in iCloud Drive
     - Make sure `Obsidian Sync to Github` is working
 - [iStat Menu](https://bjango.com/mac/istatmenus/)
-    - CPU, Battery, Fuzzy Clock
+    - CPU, Battery, Clock (display seconds)
     - Disable MacOS default time and battery
     - Disable default battery in Battery System Preferences
-    - Enable seconds on MacOS clock
 - [Transmit 5](https://panic.com/transmit/)
    - Import connection settings for Namecheap hosting & dedicated server
 - [Photomosh](https://photomosh.com/)
