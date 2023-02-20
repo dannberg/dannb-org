@@ -207,7 +207,7 @@ Install [1Password 8](https://1password.com/) from website (not App Store)
 - Show all hidden files in Finder
   - In terminal type: `defaults write com.apple.Finder AppleShowAllFiles true`
   - Restart Finder: `killall Finder`
-- Connect to [[Synology NAS]]
+- Connect to Synology NAS
   - `afp://192.168.1.[XXX]`
   - Login/Pass are in 1Password
   - Go to Folder `/Volumes` and drag it over into sidebar
