@@ -82,7 +82,7 @@ Install [1Password 8](https://1password.com/) from website (not App Store)
 - [Downie 4](https://software.charliemonroe.net/downie/)
 - [Sublime Text](https://www.sublimetext.com/)
     - Help -> Install Package Control
-    - Settings > Browse Packages. Quite Sublime Text and copy over `Packages` from NAS backup
+    - Settings > Browse Packages. Quit Sublime Text and copy over `Packages` from NAS backup.
     - Change defaults of all text files to open in Sublime Text
 - [Alfred](https://www.alfredapp.com/)
     - Connect to settings backup in Dropbox
