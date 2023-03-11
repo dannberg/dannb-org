@@ -15,7 +15,7 @@ Hello, I'm Dann. I work at the intersection of engineering, finance, and cloud c
 
 Want to do a deep dive? There's more on my **[About](/about)** page, or you can check me out on **[LinkedIn](https://www.linkedin.com/in/dannberg/)**, **[Github](https://github.com/dannberg)**, **[AngelList](https://angel.co/u/dann-berg)** and **[Twitter](https://twitter.com/dannberg)**/**{{< mastodon >}}**. If you want something more personal, you can find me at the monthly **[NYC FinOps Meetup](https://www.meetup.com/New-York-City-Cloud-FinOps/)**, which I run. It's also pretty easy to find more about me with a quick **[Google search](https://www.google.com/search?q=dann+berg)**. Spelling Dann with two Ns is great for SEO.
 
-In a past life, I was a tech journalist, and my writing has appeared on MSNBC, Fox News, The Verge, Mashable, Laptop Magazine, and Tom’s Guide. I also co-authored two full-length plays with my wife, including **["The Floorshow"](http://combustioncollective.org/the-floorshow/)**, which is about a group of tap-dancing showgirls in the 1950s.
+In a past life (before the deep dive into FinOps), I was a tech journalist, and my writing has appeared on MSNBC, Fox News, The Verge, Mashable, Laptop Magazine, and Tom’s Guide. I also co-authored two full-length plays with my wife, including **["The Floorshow"](http://combustioncollective.org/the-floorshow/)**, which is about a group of tap-dancing showgirls in the 1950s.
 
 I live in Brooklyn, New York with **[my wife](http://asuleen.com)** and our cat.
 
