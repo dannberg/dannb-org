@@ -22,6 +22,8 @@ Theme is covered by [The MIT License](https://github.com/dannberg/dannb-org/blob
 
 Images 644px width (700px)
 
+Main OG Image URL: `https://dannb.org/dberg-main-og-image.jpg`
+
 # To Do
 
 - [ ] Add _Dinners of Note_ section
