@@ -125,6 +125,7 @@ Install [1Password 8](https://1password.com/) from website (not App Store)
 - [ProtonVPN](https://protonvpn.com/)
 - [Dropbox](https://www.dropbox.com/)
 - [Zoom](https://zoom.us/)
+- [Steam](https://store.steampowered.com/about/download)
 - [Handbrake](https://handbrake.fr/)
 - [Obsidian](https://obsidian.md/)
   - Vault located in `Documents` filter, sync through Obsidian Sync
