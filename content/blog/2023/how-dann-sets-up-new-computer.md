@@ -175,7 +175,7 @@ Install [1Password 8](https://1password.com/) from website (not App Store)
     - Accessibility -> Pointer Control -> Trackpad Options -> Enable Dragging: Three Finger Drag
   - Enable Mission Control gesture
     - Trackpad -> More Gestures - Enable **Mission Control** with *Swipe up with four fingers*
-  - Disable Chrome Back/Forward with two-finger swipe by opening Terminal and entering: `defaults write com.google.Chrome AppleEnableSwipeNavigateWithScrolls -bool FALSE`
+  - Disable Chrome Back/Forward with two-finger swipe by opening Terminal and entering: `defaults write com.brave.Browser AppleEnableSwipeNavigateWithScrolls -bool FALSE`
 - Set up mouse
   - Connect Bluetooth Mouse
   - Set speed to max
