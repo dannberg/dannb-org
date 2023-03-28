@@ -16,7 +16,6 @@ tags:
   - engineering
   - finops foundation
   - cloud cost optimization
-draft: true
 ---
 ![Fork](/images/blog/2023/03/fork.jpg)
 _Photo from [Usplash](https://unsplash.com/photos/6oo3SMGB_Lg)_

@@ -6,7 +6,9 @@ description: "Dann Berg is the person who made this website. He's in New York Ci
 
 **Hello.** I am {{< dann >}} and this is my website. It hosts all my writing on technology, finance, productivity, entrepreneurship, writing, and more. It also serves as a centralized hub to link together my creative output.
 
-I am currently a _FinOps "free agent"_ (aka between roles) based in Brooklyn, New York. My most recent full-time role was as a _Senior Technical Program Manager for Cloud Costs_ at **[FullStory](https://www.fullstory.com/)**. Before that, I was a _Senior FinOps Analyst_ and _Team Lead_ at **[Datadog](https://www.datadoghq.com)**. FinOps, for those unfamiliar, is a burgeoning new engineering discipline helping organizations get maximum business value by leveraging the variable spend model of the cloud (learn more at **[FinOps.org](https://www.finops.org/)**). I'm also active in the wider FinOps community, a **[FinOps Foundation Ambassador](https://www.finops.org/about/ambassadors/#ambassadors)**, and run the monthly **[NYC FinOps Meetup](https://www.meetup.com/New-York-City-Cloud-FinOps/)**.
+I am the *Director of Community* at **[Vantage](https://www.vantage.sh/)**, a nifty tool that helps users understand cloud costs and automate savings. Previously, I've served in senior FinOps roles at several tech startups, including _Senior Technical Program Manager for Cloud Costs_ at **[FullStory](https://www.fullstory.com/)** and _Senior FinOps Analyst_ / _Team Lead_ at **[Datadog](https://www.datadoghq.com)**.
+
+FinOps, for those unfamiliar, is a burgeoning new engineering discipline helping organizations get maximum business value by leveraging the variable spend model of the cloud (learn more at **[FinOps.org](https://www.finops.org/)**). I'm also active in the wider FinOps community, previously serving as a **[FinOps Foundation Ambassador](https://www.finops.org/about/ambassadors/#ambassadors)**, and continuing to run (now as co-host) the monthly **[NYC FinOps Meetup](https://www.meetup.com/New-York-City-Cloud-FinOps/)**.
 
 In my free time, I'm an **[slow-but-steady reader](https://www.goodreads.com/dannb)** and an **[avid watcher of movies](https://letterboxd.com/dannb/)**. I also enjoy video games (_Binding of Isaac_, _Stardew Valley_, _Forager_) and board games (_Terraforming Mars_, _Codenames_, _Coup_).
 
@@ -25,6 +27,6 @@ Some of the links (such as those to **[Amazon](https://amzn.to/2WfxUFf)**) are a
 
 In terms of the **[Shop](https://dannberg.storenvy.com/)**, I've been printing stickers of my face since 2007. I just sort of think it's funny. I also think it's funny that there's now a store that sells stickers of my face. That's the sum total of it.
 
-If you have any feedback or want to get in contact with me, feel free to shoot me an email at **dann [at] dannb [dot] org**. Or just shoot me an DM on **[Twitter](https://twitter.com/dannberg)**.
+If you have any feedback or want to get in contact with me, feel free to shoot me an email at **dann [at] dannb [dot] org**. Or just shoot me an DM on **[LinkedIn](https://www.linkedin.com/in/dannberg/)**.
 
 **Disclosure:** _The opinions expressed here are my own and do not represent those of my employer, or any other party. Usually no one sees them before they're published._

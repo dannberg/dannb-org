@@ -1,7 +1,7 @@
 ---
 title: "Dann Berg: blog, newsletter, shop, and more"
 date: 2020-05-01T08:03:56-04:00
-description: "Hello, I'm Dann. I'm a Senior FinOps Leader (previously Datadog, FullStory) and a writer of blogs and plays. This is home to my thoughts on finops, technology, productivity, & more."
+description: "Hello, I'm Dann. I'm the Director of Community at Vantage (previously sr. FinOps @ Datadog, FullStory) and a writer of blogs and plays. This is home to my thoughts on finops, technology, productivity, & more."
 ---
 
 <!-- Text for the header is in the shortcode -->
