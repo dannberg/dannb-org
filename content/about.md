@@ -6,7 +6,7 @@ description: "Dann Berg is the person who made this website. He's in New York Ci
 
 **Hello.** I am {{< dann >}} and this is my website. It hosts all my writing on technology, finance, productivity, entrepreneurship, writing, and more. It also serves as a centralized hub to link together my creative output.
 
-I am the *Director of Community* at **[Vantage](https://www.vantage.sh/)**, a nifty tool that helps users understand cloud costs and automate savings. Previously, I've served in senior FinOps roles at several tech startups, including _Senior Technical Program Manager for Cloud Costs_ at **[FullStory](https://www.fullstory.com/)** and _Senior FinOps Analyst_ / _Team Lead_ at **[Datadog](https://www.datadoghq.com)**.
+I am the *Director of Community* at **[Vantage](https://www.vantage.sh/)**, a nifty tool that helps users understand cloud costs and automate savings. Previously, I've served in senior FinOps roles at several tech startups, including _Senior Technical Program Manager for Cloud Costs_ at **[FullStory](https://www.fullstory.com/)** and _Senior FinOps Analyst_ / _Team Lead_ at **[Datadog](https://www.datadoghq.com)**. I live in Brooklyn, New York.
 
 FinOps, for those unfamiliar, is a burgeoning new engineering discipline helping organizations get maximum business value by leveraging the variable spend model of the cloud (learn more at **[FinOps.org](https://www.finops.org/)**). I'm also active in the wider FinOps community, previously serving as a **[FinOps Foundation Ambassador](https://www.finops.org/about/ambassadors/#ambassadors)**, and continuing to run (now as co-host) the monthly **[NYC FinOps Meetup](https://www.meetup.com/New-York-City-Cloud-FinOps/)**.
 
