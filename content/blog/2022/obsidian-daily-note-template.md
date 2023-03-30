@@ -1,7 +1,7 @@
 ---
 title: "My Obsidian Daily Note Template"
-date: 2022-10-26T07:09:50-04:00
-description: "Updated October 2022. A brief tour of my Daily Note template for Obsidian, using the Templater and Dataview plugins."
+date: 2023-03-30T07:11:30-04:00
+description: "Updated March 2023. A brief tour of my Daily Note template for Obsidian, using the Templater and Dataview plugins."
 url: /blog/2022/obsidian-daily-note-template
 categories:
   - Productivity
@@ -64,6 +64,8 @@ I also use Templater to insert the day's date, in an easy-to-read format, with t
 I also include some Previous/Next navigation at the top[^1], powered by Templater and formatted the same as the filename naming convention. Most frequently, I'm using today's note, which means the link to tomorrow's note doesn't exist. But these can both be useful when browsing older notes.
 
 `<< [[<% fileDate = moment(tp.file.title, 'YYYY-MM-DD-dddd').subtract(1, 'd').format('YYYY-MM-DD-dddd') %>|Yesterday]] | [[<% fileDate = moment(tp.file.title, 'YYYY-MM-DD-dddd').add(1, 'd').format('YYYY-MM-DD-dddd') %>|Tomorrow]] >>`
+
+**Note:** this Previous/Next navigation Templater code can be imperfect if you're not creating Daily Notes every day. This can apparently be solved using [this method involving DataviewJS](https://forum.obsidian.md/t/dataviewjs-snippet-showcase/17847/20?u=gibson). I haven't tried this myself, but I've heard it works well.
 
 ### Daily Questions
 ![Dann's Daily Note questions](/images/blog/2022/04/daily-note-daily-questions.png)
