@@ -1,10 +1,12 @@
 ---
 title: "Convincing Your Company Adopt Finops"
-date: 2023-04-06T11:28:21-04:00
+date: 2023-04-07T08:28:21-04:00
 description: "Two tangible practices you can implement to positively foster a FinOps culture"
 url: /blog/2023/convincing-your-company-adopt-finops
 categories:
   - "FinOps"
+images:
+  - /images/blog/2023/04/finops-take-action-og.jpg
 tags:
   - finops
   - aws
@@ -16,7 +18,7 @@ tags:
   - cloud cost optimization
 draft: true
 ---
-![Woman holding film slate](/images/blog/2023/01/finops-take-action.jpg)
+![Woman holding film slate](/images/blog/2023/04/finops-take-action.jpg)
 _Photo from [Usplash](https://unsplash.com/photos/A-obUh61bKw)_
 
 *This post was originally [published by Vantage](https://www.vantage.sh/blog/convincing-your-company-adopt-finops) on April 6, 2023.*
