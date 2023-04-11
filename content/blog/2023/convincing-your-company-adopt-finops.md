@@ -1,6 +1,6 @@
 ---
 title: "Convincing Your Company Adopt Finops"
-date: 2023-04-07T08:28:21-04:00
+date: 2023-04-11T08:22:21-04:00
 description: "Two tangible practices you can implement to positively foster a FinOps culture"
 url: /blog/2023/convincing-your-company-adopt-finops
 categories:
@@ -16,7 +16,6 @@ tags:
   - engineering
   - finops foundation
   - cloud cost optimization
-draft: true
 ---
 ![Woman holding film slate](/images/blog/2023/04/finops-take-action.jpg)
 _Photo from [Usplash](https://unsplash.com/photos/A-obUh61bKw)_
