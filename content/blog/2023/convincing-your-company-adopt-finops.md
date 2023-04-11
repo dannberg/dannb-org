@@ -20,7 +20,7 @@ tags:
 ![Woman holding film slate](/images/blog/2023/04/finops-take-action.jpg)
 _Photo from [Usplash](https://unsplash.com/photos/A-obUh61bKw)_
 
-*This post was originally [published by Vantage](https://www.vantage.sh/blog/convincing-your-company-adopt-finops) on April 6, 2023.*
+*As the* Director of Community *at* Vantage, *I originally wrote and published this post **[on the Vantage blog](https://www.vantage.sh/blog/convincing-your-company-adopt-finops)** on April 6, 2023.*
 
 ---
 
@@ -72,3 +72,13 @@ If you're having trouble getting engineers to take action, it can be helpful to 
 
 This means empowering engineers with both cost data *and* context, and setting up situations where engineers can easily share information with each other. This takes the pressure off individual FinOps Practitioners, and instead fosters that FinOps culture that has huge long-term effects on cost efficiency and optimization.
 
+---
+### Full Disclosure
+
+*There's a reason I left my roles as* Senior FinOps Practitioner *at companies like Datadog and FullStory to join **[Vantage](https://www.vantage.sh/)**: I think it's a great product built by talented people.*
+
+*Vantage is a self-service cloud cost platform that gives developers the tools they need to analyze, report on and optimize costs from AWS, Azure, GCP and 10+ providers like Snowflake and Datadog.*
+
+*I know I'm biased, but I totally recommend checking them out.*
+
+---
