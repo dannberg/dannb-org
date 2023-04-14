@@ -192,6 +192,10 @@ Install [1Password 8](https://1password.com/) from website (not App Store)
 - Desktop & Dock
    - Scroll to Mission Control section, uncheck `Automatically rearrange Spaces based on most recent use`
    - Click Hot Corners, set bottom right to Lock Screen
+- Customize the Keyboard shortcut for "Paste and Match Style" to be `Command-Shift-V`
+   - In System Preferences, click Keyboard then the `Keyboard Shortcuts...` button.
+   - Go to App Shortcuts on the left menu and click the plus to add.
+   - In the "Menu Title" field, enter "`Paste and Match Style`" (including capitalization and spaces). In the "Keyboard Shortcut" field, type `Command-Shift-V`.
 
 [^2]: Tap-to-click is *vastly superior* to click-to-click. Fight me.
 
