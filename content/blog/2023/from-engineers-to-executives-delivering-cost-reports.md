@@ -14,7 +14,6 @@ tags:
   - engineering
   - finops foundation
   - cloud cost optimization
-draft: true
 ---
 
 ![Coin-operated binocularc](/images/blog/2023/06/coin-operated-binoculars.jpg)
