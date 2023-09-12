@@ -18,6 +18,10 @@ tags:
 ![We are hiring sign outside building](/images/blog/2023/09/we-are-hiring-unsplash-eric-prouzet.jpg)
 _Photo from [Usplash](https://unsplash.com/photos/B3UFXwcVbc4)_
 
+_This post was originally published on [the Vantage blog](https://www.vantage.sh/blog/how-to-grow-your-finops-team), where I am currently the Director of Community._
+
+---
+
 Being the first FinOps hire at a company can be a very rewarding challenge, but there inevitably comes a point when it's time to grow the team. Depending on the experience of the FinOps Practitioner, this threshold might be obvious or it might be fuzzy.
 
 This can lead to what I call *Lone FinOps Purgatory*. This is when a solo FinOps Practitioner remains a solo FinOps Practitioner long after the point at which the team should have grown. The result of Lone FinOps Purgatory is stagnation, boredom/burnout, and decreased morale.
