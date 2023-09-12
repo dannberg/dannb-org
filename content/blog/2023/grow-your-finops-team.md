@@ -34,7 +34,7 @@ It's time to demystify the process of growing a team. There are two parts we'll 
 There are two easy ways to justifiably grow a team:
 
 1. There is a new, specific function that you'd like your team to perform
-2. These is current, recurring work that you'd like to hand off
+2. There is current, recurring work that you'd like to hand off
 
 You can make a case to grow your FinOps team if you can identify a new, specific function that you'd like your team to do. For example, a cross-company initiative to overall tagging, a new team-specific cost showback program, or a major re-architecting of an application (or applications) to reduce cost.
 
