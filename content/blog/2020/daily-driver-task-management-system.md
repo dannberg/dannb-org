@@ -1,7 +1,7 @@
 ---
 title: "Daily Driver Task Management System"
-date: 2020-05-15T07:52:36-04:00
-description: "A robust task management system designed for people who have trouble sticking with task management systems. A cross between bullet journaling, GTD, and a simple to-do list."
+date: 2023-09-14T07:00:00-04:00
+description: "Updated September 2023. A robust task management system designed for people who have trouble sticking with task management systems. A cross between bullet journaling, GTD, and a simple to-do list."
 images: ["/images/blog/2020/05/daily-driver-task-management.jpg"]
 categories:
   - Productivity
@@ -19,25 +19,22 @@ tags:
 ---
 ![Daily Driver Task Management System](/images/blog/2020/05/daily-driver-task-management.jpg)
 
+*Originally published May 2020. Updated September 2023. I still use this system every day.*
+
 Sticking to a task-management system has been a long-time struggle for me. Before I discovered my current system (which I’ve lovingly dubbed The Daily Driver), I’d find some new productivity/to-do app, migrate my life into it, use it for anywhere between a week to several months before eventually falling off the wagon.
 
 The problems I had trying to keep up with these systems were usually either:
 
 1. The systems were overly complicated (ie [2Do](https://www.2doapp.com/), [Things](https://culturedcode.com/things/), [Omnifocus](https://www.omnigroup.com/omnifocus/)) and were great at capturing _everything_ in my life but too much work to be sustainable on a daily basis.
 2. I’d fall off the system (usually distracted by ad hoc work[^1]), and the system would become either partially or completely obsolete. The work required to get back on track would be significant enough that I’d procrastinate until I just didn’t come back.
-I also found that I needed a productivity system with a regular, _built-in_ review of all outstanding items, otherwise I’d be great at completing new tasks but would lose track of older ones. Likewise, it needed to be simple enough that I could leave and come back with minimal effort, yet robust enough to capture _all_ my work in order to free my mind for deep thinking.
 
-I’ve finally found that system.
+I also found that I needed a productivity system with a regular, _built-in_ review of all outstanding items[^2], otherwise I’d be great at completing new tasks but would lose track of older ones. Likewise, it needed to be simple enough that I could leave and come back with minimal effort, yet robust enough to capture _all_ my work in order to free my mind for deep thinking.
+
+The Daily Driver task management system solves all of this for me. I developed it on-and-off from about 2017 to 2020. By 2020, the process felt pretty solidified (and survived a few lengthy breaks from the system) so I decided to write and publish the original Daily Driver post. Now, three years later, I still use it every day. And don't see myself stopping any time soon.
 
 Detailed below is the Daily Driver System as I use it today. I’ve included a few pictures of my actual notebook to help you onboard with the system, if you so choose. You may notice from the Index that I’ve used this notebook for several years. There are gaps when I tried other systems and when I fell off the wagon, but I figured these actual photos would be most useful to people experimenting with their own productivity.
 
-Also, unlike many developers and entrepreneurs (who make up the bulk of the people writing articles like this), a large portion of my daily work is unplanned. As a cloud cost subject matter expert, my work day is filled with slack messages, emails, and tasks that need to be completed immediately.
-
-I don’t try to schedule all my meetings for one day per week in order to have uninterrupted days the other four. That’s just not how I work, or how I want to work. That makes it difficult to implement much of the productivity tips I find online.
-
-While this system will work for those who plan for big blocks of uninterrupted work, it’s also designed for everyone else. People like me.
-
-And always remember that motivation and productivity naturally ebbs and flows. A good productivity system should do two things: 1) take full advantage of those times you’re feeling motivated to squeeze out as much quality work as possible and 2) keep you productive and on-task when your natural motivation wanes.
+And always remember that motivation and productivity naturally ebbs and flows. Therefore, a good productivity system should do two things: 1) take full advantage of those times you’re feeling motivated to squeeze out as much quality work as possible and 2) keep you productive and on-task when your natural motivation wanes.
 
 With that said, let’s move on to the system itself.
 
@@ -55,32 +52,36 @@ Requirements:
 
 1. A physical notebook (I use a [Large Squared Moleskin](https://amzn.to/3cfTb7A))
 2. Digital Calendar (I use [Google Calendar](https://calendar.google.com/) with [Fantastical](https://flexibits.com/fantastical))
-3. A long-term storage system (I use [2Do](https://www.2doapp.com/))
+3. A long-term storage system (I use [Things](https://culturedcode.com/things/))
 
 The overall Daily Driver System is a stripped-down version of three different productivity systems: David Allen’s _[Getting Things Done](https://amzn.to/2Wfxsak)_, [bullet journaling](https://bulletjournal.com/), and a basic to-do list. By picking and choosing the elements I found most useful from each of these systems, I’d developed a daily practice that’s been sustainable for me in the long term.
 
-At its core are a few elements I’ve borrowed from David Allen’s Getting Things Done system. GTD is well-known in the productivity community for good reason: it works. The goal is to organize your work (and thus your brain) in order to achieve “mind like water” — a state in which your brain is free to focus on the task at hand because it isn’t worried about holding any other piece of information at the same time.
+At its core are a few elements I’ve borrowed from David Allen’s Getting Things Done system. In GTD, the goal is to organize your work (and thus your brain) in order to achieve “mind like water” — a state in which your mind is free to focus on the task at hand because it isn’t worried about holding any other piece of information at the same time.
 
 The GTD system is great, but overkill for my daily life. Instead, I’ve pulled out these useful elements:
 
-*   If a task takes less than two minutes, do it immediately
+*   If a task takes less than two minutes, do it immediately[^3]
 *   Capture everything in a reliable system you can trust
 *   Regularly review everything
 *   Have a way to organize and store long-term tasks and projects
 
-Productivity apps like [2Do](https://www.2doapp.com/), [Things](https://culturedcode.com/things/), and [Omnifocus](https://www.omnigroup.com/omnifocus/) are designed for the entire GTD workflow. I find them much more useful for long-term storage of information, while I keep my daily task list much lighter and more nimble. I describe the long-term storage system in more detail a bit farther down this post.
+Productivity apps like [Things](https://culturedcode.com/things/), [2Do](https://www.2doapp.com/), and [Omnifocus](https://www.omnigroup.com/omnifocus/) are designed for the entire GTD workflow. I find them much more useful for long-term storage of sometimes/maybe tasks, while I keep my daily task list much lighter and more nimble. I describe the long-term storage system in more detail a bit farther down this post.
 
-The crux of this system is a physical notebook. You may find you prefer a digital notebook (like [Bear](https://bear.app/), [Agenda](https://agenda.com/), or [Evernote](https://evernote.com/)), and I’ll describe a modified version of the system for digital apps, but for me there’s no beating a physical notebook. Physically writing things down helps with information processing and retention in a way that typing does not. Plus, I find it much more enjoyable to review past notes if they’re in a physical notebook.
+The crux of this system is a physical notebook. There's one step in this process (transfering tasks from one page to another every four to seven days, as described below) that has way more benefit when you're physically writing things down, as opposed to copy/pasting.
+
+I do include a note below about how you can modify the system and use a digital notebook (like [Bear](https://bear.app/), [Agenda](https://agenda.com/), or [Evernote](https://evernote.com/)) instead. But I encourage you to go physical if you want the full benefit of the system.
 
 ## Setting up the notebook
 
-First of all, you do _not_ need a journal dedicated strictly to your Daily Driver task list. In fact, I recommend against it. Journals are great for general note taking and thinking, in addition to task management. It’s your daily driver, and you should pretty much always have it handy.
+First of all, you do _not_ need a journal dedicated strictly to your Daily Driver task list. It's fun to have all your tasks alongside other notes, scribbles, or brainstorm sessions. When you're using the system, you'll have your notebook with you all the time, so use it any time you need to take notes or think-by-writing. We'll keep things organized with *page numbers* and an *Index*.
 
 The notebook setup borrows partially from the Bullet Journal setup. The main thing keeping your notebook organized is the Index, which serves as the table of contents. Turn to the first page of your notebook, and write the word “Index” across the first two pages. Turn the page and write “Index” at the top of the next two pages. This reserves four pages for our journal’s Index. We’ll come back to this shortly.
 
 ![Daily Driver Index Heading](/images/blog/2020/05/daily-driver-index-heading.jpg)
 
-Turn the page and write the month and year at the top of each page. On the left side, write the numbers one through [however many days are in the month]. Next to them, write a letter for the day of the month: M T W T F S S.
+The first thing we need to do is kick off the month. You'll do this at the start of every month.
+
+Turn to the next clean two pages and write the month and year at the top of each page. On the left side, write the numbers one through [however many days are in the month]. Next to them, write a letter for the day of the month: M T W T F S S.
 
 If any of these dates are dates-of-note, write that down next to the date. These can be holidays, birthdays, events, travel, etc. We’re not going to use this actively in our system, only to provide color and context during your review.
 
@@ -110,7 +111,7 @@ The Daily Driver task management system works _a page at a time_. This means you
 
 This is key, because re-writing your tasks forces you to review each one individually and re-evaluate its priority. This review isn’t set to a specific day of the week or month, but instead based on the number of tasks you _have_ and the tasks you _have completed_.
 
-If this is your first time setting up a Daily Driver notebook, you won’t have any task items to carry over. Just write the date and day (I like the format 5/8/F for Friday, May 8th). Below this, you’ll add a bullet point for each task.
+If this is your first time setting up a Daily Driver notebook, you won’t have any task items to carry over. Just write the date and day (I like the format `5/8/F` for Friday, May 8th). Below this, you’ll add a bullet point for each task.
 
 As you work throughout the day, put an `X` through a bullet point as a task is completed. Add additional tasks as they come up, keeping in mind that you should complete tasks that are less than two minutes immediately rather than writing them down.
 
@@ -150,7 +151,7 @@ Migrating once a page is full means that you’re doing the work _when it’s ne
 
 **Digital Notebook Apps**
 
-I moved the task management system out of a physical notebook and into a digital app for about a year before going back to physical. While it worked, I personally found the cons to outweigh the pros. If you’re determined to use an app instead of a notebook, or you try both and find an app works better for you, here are some tips for what worked for me:
+I moved the task management system out of a physical notebook and into a digital app for about a year before going back to physical. While it semi-worked, I personally found the cons to outweigh the pros. If you’re determined to use an app instead of a notebook, or you try both and find an app works better for you, here are some tips for what worked for me:
 
 *   Have a dedicated “folder” for Daily Driver Tasks, and have different notes inside the folder work as “pages.”
 *   Create a new note/“page” either for every day or every week. I found weekly pages worked better for me.
@@ -158,7 +159,7 @@ I moved the task management system out of a physical notebook and into a digital
 
 I personally used Agenda, but Bear, Evernote, or Apple Notes will work just as well. Find an app that you like that matches your priorities (design, compatibility, markdown support, exportability, etc) and just start using it. It’s easy to get distracted hunting for the perfect tool. It’s the system, not the tool, that will make you productive.
 
-I personally found it a lot more challenging in the long term to stick with a digital app, which is why I went back to the physical notebook. For me, the biggest hurdle with digital apps was building a strong system around migration and review. I just didn’t do that as often (if at all) with digital notes. Whereas with a physical notebook, I found myself often browsing old notes or tasks in free moments, like before meetings or prepping for work. This often helps with my current work.
+I personally found it a lot more challenging in the long term to stick with a digital app, which is why I went back to the physical notebook. For me, the biggest hurdle with digital apps was building a strong system around *migration and review*. I just didn’t do that as often (if at all) with digital notes. Whereas with a physical notebook, I found myself often browsing old notes or tasks in free moments, like before meetings or prepping for work. This often helps with my current work.
 
 If you’ve never used a physical notebook for task management and note taking, I recommend giving it a try. There’s a chance it’s not for you. But you may find you love it.
 
@@ -195,7 +196,7 @@ You should design your calendar so that you look at it when you _want_ to, not b
 
 ## Long-term storage
 
-![Daily Driver Task Management System](/images/blog/2020/05/2do-folders.jpg)
+![Daily Driver Task Management System](/images/blog/2023/09/daily-driver-things-folders.png)
 
 In order to achieve David Allen’s “mind like water,” we need a place to store everything that doesn’t fit neatly into our system. Maybe you have an ambitious idea for a business that you’d like to start someday. Maybe you have several. It could be a book you want to write, or even future goals to take up, like painting.
 
@@ -203,7 +204,7 @@ All these amorphous ideas are taking up real estate in your brain, even if you d
 
 I’ve found a robust productivity app to be a fantastic place to document and flesh out all these miscellaneous ideas, and then just leave them alone for long-term storage.
 
-A premium application such as [2Do](https://www.2doapp.com/) (what I use) is probably overkill for this, but I’ve found that I like the structure of these advanced apps better than simpler solutions. I encourage you to review the process below and choose the long-term storage solution that works best for you.
+A premium application such as [Things](https://culturedcode.com/things/) (what I use) is probably overkill for this, but I’ve found that I like the structure of these advanced apps better than simpler solutions. I encourage you to review the process below and choose the long-term storage solution that works best for you.
 
 **First-time Collection**
 
@@ -273,6 +274,8 @@ If you make any useful modifications, let me know. I’m always looking to impro
 
 <!-- Footnotes themselves at the bottom. -->
 ### Notes
-[^1]:
+[^1]: Ad hoc work, or Unplanned Work as it is called in _[The Phoenix Project](https://amzn.to/2Lt3Vnm)_, consists of tasks outside of regular projects and operations. This can be an emergency that requires immediate attention, taking you away from your planned work, or a slack message or email that requires immediate action (much more likely in my case).
 
-     Ad hoc work, or Unplanned Work as it is called in _[The Phoenix Project](https://amzn.to/2Lt3Vnm)_, consists of tasks outside of regular projects and operations. This can be an emergency that requires immediate attention, taking you away from your planned work, or a slack message or email that requires immediate action (much more likely in my case).
+[^2]: It blows my mind that robust, feature-filled To Do apps don't have some sort of *Review Everything* mode. I want to be able to press a button and be shown each of my To Do items, one by one, with the ability to edit/move/trash as applicable.
+
+[^3]: If there's only one thing you impliment from this blog post, I hope it's this.
