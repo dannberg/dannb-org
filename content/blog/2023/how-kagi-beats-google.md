@@ -13,7 +13,6 @@ tags:
   - Kagi
   - Search Engine
   - Browser
-draft: true
 ---
 ![Kagi search dog and logo](/images/blog/2023/09/kagi-search-logo-dog.jpg)
 
