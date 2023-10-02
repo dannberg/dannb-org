@@ -16,49 +16,53 @@ tags:
 ---
 ![Kagi search dog and logo](/images/blog/2023/09/kagi-search-logo-dog.jpg)
 
-I've been a vocal supporter of [Kagi search](https://kagi.com/) since first switching in July of 2022, frequently mentioning it in [my newsletter](https://dannberg.substack.com/) and encouraging everyone to switch whenever the opportunity arises.
+I'm a [Kagi](https://kagi.com) convert, having switched from Google Search in July of 2022 and never looking back. I'm also a vocal supporter of Kagi, frequently mentioning it in [my newsletter](https://dannberg.substack.com/) and encouraging people to give Kagi a try whenever the opportunity arises.
 
-This is not an ad. I'm just a happy customer. And I'm happy to pay for a product I like, and hope others do, too, so that the products I like can survive.
+For those unfamiliar, Kagi is a search engine with a novel[^1] business model: end users pay for a service. Instead of monetizing users through advertising and affiliate marketing (like every other search engine), Kagi charges a monthly fee.
 
-Usually, for me, the topic of Kagi will only come up in passing, which doesn't allow me to fully explain why I like the service and think it's so important. So, that's what I hope to do with this article.
+[^1]: It's novel — unthinkable! — for search engines, but is really the oldest business model in the world.
 
-But first, a little background on Internet Search as it exists today.
+I'm both a user and vocal supporter of Kagi, and I also have big *thoughts and opinions*. Both on the state of search today, where it's going in the future, and why it's important to support companies like Kagi. Additionally, I was blown away by the quality of Kagi's search results, which is what first encouraged me to make the switch, and I wanted to dive into the details in case anyone reading is on the cusp of trying this new search engine.
 
-## Google Search *sucks*
-Among the chronically online, it's no surprise that [Google Search is dying](https://dkb.blog/p/google-search-is-dying). Search results are dominated by ads SEO-optimized junk. More and more, people are append "reddit" to the end of their search to try and bubble up any semblance of a useful response.
+This post is not an ad; I'm just a happy customer. And I'll gladly pay for products I like, and actively hope others support these products, too, so that the companies that make them can survive.
 
-According to the author above (with whom I agree): "serving ads creates misaligned incentives for search engines." It's impossible to both provide the best search results *and* try to optimize for highest amount of ad-clicks. And if you're a public company with an ad-based business model, you are *legally required* to optimize for the latter.
+With that said, let's kick things off with a little background on *Internet Search* as it exists today.
 
-But Google continues to dominate as the most-used search engine worldwide. I think part of this has to do with the fact that it's so ingrained into people's lives, that its flaws go unnoticed or overlooked. People just amend their behavior (like adding "reddit" to the end of a search, or immediately scrolling through pages of junk to get to a recipe) to compensate for Google's shortcomings.
+## Wow, Google Search *sucks*
+It may be easy to miss, but [Google Search is dying](https://dkb.blog/p/google-search-is-dying). Search results are dominated by ads SEO-optimized junk. More and more, people append words like "reddit" to the end of their search to try and bubble up any semblance of a useful response.
 
-Google reigns supreme, too, in no small part because historically its competitors all suck. Let's take a quick look at the mainstream alternatives. As of August 2023, [US desktop search engine market share](https://gs.statcounter.com/search-engine-market-share/desktop/united-states-of-america) is as follows:
+According to the author above blog post (with whom I agree): "serving ads creates misaligned incentives for search engines." It's impossible to both provide the best search results *and* try to optimize for the highest amount of ad-clicks. And if you're a public company with an ad-based business model, you are *legally required* to optimize for the latter. Ads *inherently* create misaligned incentives.
+
+But Google continues to dominate as the most-used search engine worldwide. I think part of this has to do with the fact that it's so ingrained into people's lives that its flaws go unnoticed or overlooked. People just amend their behavior (like adding "reddit" to the end of a search, or immediately scrolling through pages of SEO-junk to get to a recipe) to compensate for Google's shortcomings.
+
+Google reigns supreme, too, in no small part because historically all its competitors all suck even more. Let's take a quick look at the mainstream alternatives. As of August 2023, [US desktop search engine market share](https://gs.statcounter.com/search-engine-market-share/desktop/united-states-of-america) is as follows:
 
 1. Google (78.96%)
 2. Bing (14.42%)
 3. Yahoo (3.89%)
 4. DuckDuckGo (2.11%)
 
-That's *rough*. If a user gets fed up with Google Search's flaws and tries a competitor as their default search engine, it's only a matter of time before they come crawling back to Google.
+That's *rough*. If a user gets fed up with Google Search's flaws and tries one of these big competitors as their default search engine, it's only a matter of time before they come crawling back to Google.
 
 This was best tested en masse in mid-2020 when [rumors were swirling](https://www.forbes.com/sites/johnkoetsier/2020/06/08/apple-could-cost-google-15-billion-by-buying-duckduckgo-analyst-says/?sh=4c218fb21920) of Apple purchasing DuckDuckGo. I, like many others, saw the news and figured that maybe DuckDuckGo was possibly more of a competitor to Google than I originally thought. I made it my default search engine.
 
-I only lasted a few months before switching back to Google Search. I valued the privacy aspect of DuckDuckGo, and it feels good to support an underdog, but the search results were straight up *lacking*. A vast majority of the time, the article or piece of information I was searching for was straight up missing from the DuckDuckGo results. In these cases, I'd switch back to Google search and find the result I wanted almost immediately. It wasn't long before I switched my default back to Google to simply save time and effort.
+That only lasted a few months before I switched back to Google Search. I valued the privacy aspect of DuckDuckGo but the search results were straight up *lacking*. A vast majority of the time, the article or piece of information I was searching for was completely missing from the DuckDuckGo results. Other times, it was buried in the muck. I'd then switch back to Google search and find the result I wanted almost immediately. It wasn't long before I switched my default back to Google to simply save time and effort.
 
 I've experimented with Bing and Yahoo, but never felt inspired to even attempt either as my default search engine. As I result, I felt trapped by Google Search — painfully aware of its flaws but without a reasonable alternative.
 
-I forget how I first heard of Kagi, but the value proposition was instantly appealing: *search as a service I can pay for*. This solves the misaligned incentives that hamstring Google, which in *theory* should product a better product. But historically, I had never used a search engine that matches, let alone exceeds, even the low bar that Google sets.
+I first heard about Kagi in [a tweet from indie gamemaker Zach Gage](https://twitter.com/helvetica/status/1552140803866230785), and the value proposition was instantly appealing: *search as a service I can pay for*. This solves the misaligned incentives that hamstring Google (and other search engines), which in *theory* should produce a better product. But historically, I had never used a search engine that matches in quality, let alone exceeds, even the low bar that Google sets.
 
-I want to say[^1] that I experimented with Kagi on an informal basis for maybe a week before feeling confident enough to set it as my default browser. Initially, I'd do side-by-side searches on both Kagi and Google to compare results, but stopped after another week or two. Kagi has been my daily driver workhorse search engine, on both my personal and work computer, as well as my smartphone, ever since. I've not looked back once.
+I want to say[^2] that I experimented with Kagi on an informal basis for maybe a week before feeling confident enough to set it as my default search engine. Initially, I'd frequently do side-by-side searches on both Kagi and Google to compare results, but stopped after another week or two. Kagi has been my daily driver workhorse search engine, on both my personal and work computer, as well as my smartphone, ever since. I've not looked back once.
 
-[^1]: Forgive the fuzzy details. It was over a year ago, and I wasn't taking close notes on what I thought would be a short-lived experiment.
+[^2]: Forgive the fuzzy language around these details. It was over a year ago, and I wasn't taking close notes on what I thought would be a short-lived experiment.
 
 ## Why Kagi is better
-I don't think side-by-side comparisons of search results from different providers is the best way to qualitatively compare quality. This is because most results can look relatively similar at first blush, and nitpicking the small differences can come off overly critical and possibly exaggerated.
+I don't think side-by-side comparisons of search results from different providers is the best way to qualitatively compare quality (although they *are* [sometimes compelling](https://twitter.com/helvetica/status/1555182325239091200)). This is because most results can look relatively similar at first blush, and nitpicking the small differences can come off overly critical and exaggerated.
 
-Instead of providing screenshots from different search providers for different search terms, and delving into the differences and how they impact search quality, I'm instead going to talk about *how* I think about search, and provide you a foundation to think about your own search experiences. Then, I encourage you to give Kagi a try (and even test a few other Google Search alternatives) and come to your own conclusions.
+Instead of providing screenshots from different search providers for different search terms, and delving into the differences and how they impact search quality, I'm instead going to talk about *how* I think about search, and provide you a foundation to think about your own search experiences. Then, I encourage you to give Kagi a try (and also test a few other Google Search alternatives) and come to your own conclusions.
 
 ### Framework for thinking about search
-Almost every search engine you use will eventually serve a satisfying answer. Instead, the quality of a search engine depends on how long it takes to get to this end state, how complicated the journey to this end state, and the quality of user experience (UX) of the whole process.
+Almost every search engine you use will eventually serve a satisfying answer. Instead, the quality of a search engine depends on how *long it takes* to get to this end state, *how complicated the journey* to this end state, and the *quality of user experience* (UX) of the whole process.
 
 Most online search queries fall into one of the following categories:
 
@@ -81,7 +85,7 @@ Most searches are ad hoc — you will be performing some work or a task and hit 
 
 Alternatively (and less frequently) searches can be relaxed, which is to say exploratory and meandering. You might be researching a vacation to Istanbul, or coming up with activities for kids on rainy days. The goal is to look at several different websites and sources, collect data, and process it at a leisurely basis. There is no right or wrong answer, per say. Your goal instead is to have a greater understanding of a topic based on multiple sources.
 
-When attempting to kick the tires of a search engine, often times we'll import a more relaxed search query and attempt to measure the quality of the engine by the results. Instead, it's really ad hoc searches where the differences in quality are most apparent.
+When attempting to kick the tires of a search engine, often times we'll input a more relaxed search query and attempt to measure the quality of the engine by the results. Instead, it's really ad hoc searches where the differences in quality are most apparent.
 
 This is why setting a new search engine as your default is really the best way to measure its quality. It's those times when you're working on something else and need a quick answer from a search engine when you'll really be able to tell which results are up-to-snuff and which are lacking.
 
@@ -95,7 +99,7 @@ Kagi search results are already good, but users have powerful options to tweak a
 This is *really* powerful. By subtly tweaking and adjusting my website ranking preferences over the past year+, I can almost guarantee that the search result I'm hoping for is near the very top of my results.
 
 ### Lenses
-I recently started using [Lenses](https://help.kagi.com/kagi/features/lenses.html), and it's helped me refine my searches quickly and reliably, with as little extra work as possible.
+I recently started using [Lenses](https://help.kagi.com/kagi/features/lenses.html) more frequently, and it has helped me refine my searches quickly and reliably, with as little extra work as possible.
 
 Essentially, Lenses allow users to pre-set search parameters — narrowing results by domain(s), region(s), keyword(s), date(s), and more. With Google, you can do this with [search operators](https://ahrefs.com/blog/google-advanced-search-operators/) (which also exist on Kagi), but lenses allow you to pre-set frequently-used operators and thus easily narrow your search to various online worlds. Best of all, lenses are *sharable*!
 
@@ -108,7 +112,7 @@ I also find myself using the [Universal Summarizer](https://blog.kagi.com/univer
 
 If I'm not sure if the article is worth saving to read later, I'll use Kagi's Universal Summarizer to get a gist of the article. This will either convince me to save it, or at least allow me to make peace with releasing it back into the wild unconsumed.
 
-But one of the coolest part of Kagi's Universal Summarizer is that it works on *YouTube videos* and *podcast episodes*. Feed it a YouTube URL or a podcast mp3 and within seconds you'll get a detailed, high-quality summary. I know this is available through other third-party services, but Kagi makes it so easy when you're fully integrated that I use it way more.
+But one of the coolest parts of Kagi's Universal Summarizer is that it works on *YouTube videos* and *podcast episodes*. Feed it a YouTube URL or a podcast mp3 and within seconds you'll get a detailed, high-quality summary. I know this is available through other third-party services, but Kagi makes it so easy when you're fully integrated that I use it way more.
 
 ### Assistant (Closed Beta)
 Kagi is continuing to grow in the direction of AI search augmentation with tools like [Assistant](https://help.kagi.com/kagi/ai/assistant.html). Currently in closed beta, Assistant is a research tool backed by Kagi Search and large language models.
@@ -134,7 +138,7 @@ For example, setting Kagi as your default desktop search for Chromium, Firefox, 
 
 Likewise, using Kagi in a Private Browsing window requires a Private Session Link, a URL that can be found in your Kagi settings, which needs to be entered into the plugin. It's easy when following instructions, but otherwise may be unintuitive for those who like to plow ahead without reading documentation.
 
-Setting Kagi as your default search engine for Safari on iOS also involves a browser plugin. I got this to work immediately, but David Pierce at *The Verge* mentioned that [he's had trouble doing the same](https://www.theverge.com/23896415/kagi-search-google-meta-quest-3-chatgpt-macos-sonoma-installer-newsletter). I guess YMMV?
+Setting Kagi as your default search engine for Safari on iOS also involves a mobile browser plugin. I got this to work immediately, but David Pierce at *The Verge* mentioned that [he's had trouble doing the same](https://www.theverge.com/23896415/kagi-search-google-meta-quest-3-chatgpt-macos-sonoma-installer-newsletter). I guess YMMV?
 
 ## Should you switch?
 A paid search engine is definitely a luxury item that's not for everyone. Free search democratizes the internet, and will always be a necessary. But I'm happy that there's now a viable alternative that has a more traditional business-to-consumer monetization structure.
