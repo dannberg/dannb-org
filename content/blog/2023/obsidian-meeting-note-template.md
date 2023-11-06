@@ -1,12 +1,17 @@
 ---
 title: "Obsidian Meeting Note Template"
 date: 2023-11-06T16:41:09-05:00
-description: ""
+description: "A brief tour of my Obsidian Meeting Note Template, using "
 url: /blog/2023/obsidian-meeting-note-template
 categories:
-  - ""
+  - Productivity
 tags:
-  - TKTK
+  - obsidian
+  - notetaking
+  - journaling
+  - getting things done
+  - macOS
+  - building a second brain
 draft: true
 ---
 ![Dann's Meeting Note template for Obsidian](/images/blog/2023/11/obsidian-meeting-note-template.png)
@@ -30,7 +35,7 @@ I designed this Meeting Note system with the following criteria in mind:
 
 I've developed both a Meeting Note template as well as a system that satisfied all the above criteria for me. I wanted to share it, because maybe it'll work wholesale for you. Or maybe you'll be able to pick and choose individual pieces that fit into your existing workflow.
 
-# The big meeting-note picture
+## The big meeting-note picture
 When you want to create a new meeting note page, you click Command-O and type "Meetings." Select your Meetings MOC to open it.[^3]
 
 [^3]: Alternately, you can type Command-P to open the command palate and create a new meeting note from there, but I like creating it from the `Meeting MOC` ([map-of-contents](https://notes.linkingyourthinking.com/Cards/MOCs+Overview)) page. It's all a matter of personal preference.
@@ -45,7 +50,7 @@ During the meeting, take notes in the Notes section. Next actions can go in the 
 
 Once the meeting is complete, make sure you enter a short summary in the YAML section of the note, to make this meeting easier to find later. Process the note (filing away important information, adding action steps into another system) as necessary.
 
-# Set up
+## Set up
 These are the plugins you'll need:
 
 1. [Templater](https://github.com/SilentVoid13/Templater)
@@ -58,10 +63,10 @@ Additionally, there are two separate pages that make this system work: a Meeting
 
 ❗ Feel free to jump directly to the [Obsidian Meeting MOC template](https://gist.github.com/dannberg/7617aa7f4198938352431b7a9f77f8d1) or the  [Obsidian Meeting Note template](https://gist.github.com/dannberg/9056b89437110e62766689772437fe46) if you don't need any of the supplementary setup help.
 
-# Directory Organization
+## Directory Organization
 First, let's take a look at my directory organization as it relates to timestamped notes:
 
-```sh
+```
 Timestamps/
 ├── 2021/
 ├── 2022/
@@ -85,11 +90,11 @@ The meeting note naming convention (`[date] [meeting title]`) is automatically c
 
 The "meeting title" is usually three or four words that describe the meeting at a *super* high level (like an email subject). This is separate from a meeting *summary*, which should be longer, and is part of the YAML in each meeting note.
 
-## Quick Note: Title vs Summary
+### Quick Note: Title vs Summary
 In our `🗣 Meetings MOC` file, we'll build a Dataview table that shows
 
-# Meetings MOC
-TKTK IMAGE
+## Meetings MOC
+![Dann's Meeting Note template for Obsidian](/images/blog/2023/11/dannb-meetings-moc-template.png)
 
 My `Meetings MOC` is  fairly simple, with three specific things I use:
 
@@ -103,20 +108,20 @@ I've added my [full Meetings MOC file to Github](https://gist.github.com/dannber
 2. Copying and pasting the Button code *probably* won't work. You should instead use the actual Button Maker function of the Button plugin.
 3. For the Dataview table to work, your meeting notes will need to be located in the `Timestamps/Meetings` directory. If you use a different directory, update the Dataview query to reflect your path.
 
-## Creating New Meeting button
+### Creating New Meeting button
 I like being able to create a new meeting note by clicking a button directly on the Meetings MOC page.
 
 In order to create the button on the Meetings MOC page, you'll need to create the template first. So for now, create the Meetings MOC page, in the designated directory, and leave the button section blank. We'll come back and create the button after we've created the template.
 
-# Meeting Note Template
+## Meeting Note Template
 This Meeting Note is designed to be created *at the beginning of a meeting*. This is a personal preference for me, as I'll click the button to create the meeting note and start filling in details while everyone is saying hello in the first few minutes. You might want to create a Meeting Note *before* a meeting, taking time to fill in metadata and prepare for the conversation. Others still might create the Meeting Note after a meeting — taking notes on a blank page during the meeting, and then organizing everything after-the-fact. You should make adjustments to the template as needed to optimize for your preferences.
 
 Most of the time, I'm hopping into a Zoom call or jumping into a conference room, and *then* creating this note. Because this is my preferred workflow, this template is designed to automate essential metadata, and create the structure that I need to immediately start using the note.
 
 Let's walk through the template, line by line.
 
-```markdown
-\---
+```
+---
 date: <% tp.file.creation_date() %>
 type: meeting
 company:
@@ -135,7 +140,7 @@ I include `type: meeting` in the metadata as well, although I don't actually use
 In the `company` field, I typically link to *my* company's MOC page if the meeting is related to work. Then, on my company's MOC page, I include a Dataview table that shows all meetings related to my company.
 
 Then, outside the metadata:
-```markdown
+```
 tags: [[🗣 Meetings MOC]]
 Date: [[<% tp.date.now("YYYY-MM-DD-dddd") %>]]
 <% await tp.file.move("/Timestamps/Meetings/" + tp.date.now("YYYY-MM-DD") + " " + tp.file.title) %>
@@ -154,7 +159,7 @@ Finally, we're creating an H1 tag (`#`) that links back to this page (notice the
 
 And finally, there's the meat of the note:
 
-```markdown
+```
 **Attendees**:
 -
 
@@ -175,10 +180,10 @@ Finally, `Notes` is where I take notes throughout the meeting. These are just yo
 
 **Pro Tip:** There's one section that I do not include in this template, but makes it into maybe 50% of my meeting notes: `Next Steps`. If there are any action items that are a result of this meeting, I'll add this section below `Notes` and include both 1) the action item and 2) who is responsible for completing this item. Bonus points if you then move your action items into your [Daily Driver Task Management System](https://dannb.org/blog/2020/daily-driver-task-management-system/) after the meeting. :)
 
-## Creating New Meeting button (continued)
+### Creating New Meeting button (continued)
 Now that our Meeting Note Template has been created, we can make a button in our Meeting MOC file that creates a new meeting note for us. The cool thing about creating this button is that the button will both 1) create the new note using the template and 2) automatically run the Templater plugin code to fill in the dynamic metadata and move the note to the proper directory.
 
-TKTK IMAGE
+![Obsidian New Meeting Button Maker](/images/blog/2023/11/obsidian-new-meeting-button-maker.png)
 
 Here are the step-by-step instructions for making a button that will create a new meeting note and execute the template script:
 
@@ -195,7 +200,7 @@ Once your button is created, click it to test. If you did things correctly, it s
 
 You did it! Congrats.
 
-# Building Obsidian Habits
+## Building Obsidian Habits
 When trying to build a new productivity habit, it's important to focus on two things: build your *minimum viable system*, and then *iterate*.
 
 By this I mean: don't get distracted spending hours upon hours trying to set up the perfect system to anticipate every single possible future need. Instead, get working minimal version of your system running, and then just start using it. Don't be too precious about it. Then, iterate on this system, and change it as you go.
@@ -204,7 +209,7 @@ It makes more sense to copy this system wholesale, and then continue on with *ac
 
 Productivity work is fun, and it feels like you're doing work. But you're not really doing work. You're just futzing around. Try not to get so distracted by the system that you're not doing any real work.
 
-### Liked this post?
+#### Liked this post?
 Check out my other Obsidian posts:
 - [My Obsidian Daily Note Template](https://dannb.org/blog/2022/obsidian-daily-note-template/)
 - [My Obsidian People Note Template](https://dannb.org/blog/2022/obsidian-people-note-template/)
