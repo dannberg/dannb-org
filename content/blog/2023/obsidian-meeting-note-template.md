@@ -187,14 +187,16 @@ Now that our Meeting Note Template has been created, we can make a button in our
 
 Here are the step-by-step instructions for making a button that will create a new meeting note and execute the template script:
 
-1. Navigate to your Meeting MOC file, and put your cursor where you want the button to go
+1. Navigate to your Meeting MOC file, and place the text insertion point where you want the button to go
 2. Press Command-P (Mac) to open the Obsidian Palette, type and select "Button Maker"
 3. For the Button Name field, type: New Meeting
 4. For the Button Type dropdown, select: `Template - insert or create notes from templates`
 5. In the Template section, change `Do This` to "Note". In the `My Template` field select the Meeting note template you created (I called mine `Template, Meeting`, All your template files should automatically appear in the drop down here, assuming your templates are in a designated directory that has been specified in the Templates section of your Obsidian preferences)
-6. For your `Note Name`, type [TKTK](https://en.wikipedia.org/wiki/To_come_(publishing)). This will be the default name for new notes (after the date), which you can update after the note is created
+6. For the `Note Name` field, type the full directory path followed by a default file name. For example, I use `Timestamps/Meetings/TKTK` [^4]
 7. Scroll down until you see the setting for Templater (keeping everything else disabled) and toggle *on* Templater
 8. Click "Insert Button"
+
+[^4]: "TKTK" is a an [extremely useful writing tool](https://en.wikipedia.org/wiki/To_come_(publishing)) I picked up from my years as a journalist. You should use it, too, if you're not already!
 
 Once your button is created, click it to test. If you did things correctly, it should create a new note, in a new tab, using the template you created with all the Templater code expanded.
 
