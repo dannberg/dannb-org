@@ -5,6 +5,8 @@ description: "A detailed tour of my Obsidian Meeting Note Template, a full-featu
 url: /blog/2023/obsidian-meeting-note-template
 categories:
   - Productivity
+images:
+  - /images/blog/2023/11/obsidian-meeting-note-template-og.jpg
 tags:
   - obsidian
   - notetaking
