@@ -91,9 +91,6 @@ The meeting note naming convention (`[date] [meeting title]`) is automatically c
 
 The "meeting title" is usually three or four words that describe the meeting at a *super* high level (like an email subject). This is separate from a meeting *summary*, which should be longer, and is part of the YAML in each meeting note.
 
-### Quick Note: Title vs Summary
-In our `🗣 Meetings MOC` file, we'll build a Dataview table that shows
-
 ## Meetings MOC
 ![Dann's Meeting Note template for Obsidian](/images/blog/2023/11/dannb-meetings-moc-template.png)
 
