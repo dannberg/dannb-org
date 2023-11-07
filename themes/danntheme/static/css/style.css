@@ -234,3 +234,36 @@ pre {
   margin-top: -100%;
   margin-left: -100%;
 }
+
+/*special table formatting*/
+.special-tables {
+  width: 95vw;
+  max-width: 100%;
+  overflow-x: auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.special-tables table {
+  width: 100%;
+  border-collapse: separate;
+  border-spacing: 0;
+  table-layout: fixed;
+}
+
+.special-tables table th,
+.special-tables table td {
+  border: none;
+  padding: 10px;
+}
+
+.special-tables table td {
+  border-right: 15px solid black;
+  border-bottom: 15px solid black;
+}
+
+.special-tables table th:last-child,
+.special-tables table td:last-child {
+  border-right:none;
+}
