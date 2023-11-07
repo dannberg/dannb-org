@@ -106,6 +106,18 @@ I've added my [full Meetings MOC file to Github](https://gist.github.com/dannber
 2. Copying and pasting the Button code *probably* won't work. You should instead use the actual Button Maker function of the Button plugin.
 3. For the Dataview table to work, your meeting notes will need to be located in the `Timestamps/Meetings` directory. If you use a different directory, update the Dataview query to reflect your path.
 
+### Quick Note: Title vs Summary
+In our `🗣 Meetings MOC` file, we'll build a Dataview table that shows the filename, created date, and a short summary. Some of this data is redundant (the filename contains the date, so a separate column for Created Date is unnecessary) but this is how I like it. Feel free to modify the Dataview table for your needs.
+
+Likewise, the Dataview table shows two separate descriptions of the meeting: the filename (Title) and the summary. These might seem redundant, but have the potential to be powerful. When naming your meeting notes, and writing your summaries, think of the Title as an email subject, and the summary as a tl;dr. It makes browsing your meeting notes via the `🗣 Meetings MOC` page a breeze.
+
+### Meeting MOC Dataview Table
+![Dann's Meeting Note template for Obsidian](/images/blog/2023/11/obsidian-meeting-moc-dataview-table.png)
+
+On the `🗣 Meetings MOC` page, we want a button to create a new Meeting Note (described below) and a table of all our meeting notes for easy browsing. We'll create that table using Dataview.
+
+Check out the [Meetings MOC](https://gist.github.com/dannberg/7617aa7f4198938352431b7a9f77f8d1) to see the full code block. Essentially, what this renders to is a table of all your notes, with three columns (File, Created, summary) in order from most recent to least.
+
 ### Creating New Meeting button
 I like being able to create a new meeting note by clicking a button directly on the Meetings MOC page.
 
