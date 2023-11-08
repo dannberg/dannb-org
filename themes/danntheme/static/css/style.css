@@ -256,14 +256,39 @@ pre {
 .special-tables table td {
   border: none;
   padding: 10px;
+  text-align: left;
+  vertical-align: top;
 }
 
 .special-tables table td {
-  border-right: 15px solid black; /*change black to transparent*/
-  border-bottom: 15px solid black; /*change black to transparent*/
+  border-right: 15px solid transparent; /*change black to transparent*/
+  border-bottom: 15px solid transparent; /*change black to transparent*/
 }
 
 .special-tables table th:last-child,
 .special-tables table td:last-child {
   border-right:none;
+}
+
+/*Button Link*/
+.button-link {
+  display: inline-block;
+  width: 80%;
+  padding: 10px 2%;
+  color: #c00;
+  background-color: transparent;
+  text-transform: uppercase;
+  font-family: sans-serif;
+  font-size: 70%;
+  border: 1px solid #c00;
+  text-decoration: none;
+  text-align: center;
+  border-radius: 5px;
+  box-shadow: 4px 4px 0px #c00;
+  transition: all 0.2s ease;
+  margin: 10px;
+}
+
+.button-link:hover {
+  box-shadow: 6px 6px 0px #c00;
 }
