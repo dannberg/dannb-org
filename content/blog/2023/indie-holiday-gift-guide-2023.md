@@ -5,11 +5,18 @@ description: "Why do newspapers and magazines get to have all the fun? Here's Da
 url: /blog/2023/indie-holiday-gift-guide-2023
 categories:
   - Life
+images:
+  - /images/blog/2023/11/gift-guide/holiday-gift-guide-og.jpg
 tags:
   - Shopping
   - Holiday
   - Guide
-draft: true
+  - Gadgets
+  - Productivity
+  - Consumerism
+  - Games
+  - Snacks
+  - Lars Von Trier
 ---
 ![A collage of all the items recommended on this list](/images/blog/2023/11/gift-guide/indie-2023-holiday-gift-guide-main.jpg)
 
