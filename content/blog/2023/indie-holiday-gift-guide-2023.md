@@ -26,7 +26,7 @@ Now that we have the Internet and online shopping, those types of catalogues jus
 
 But why do newspapers and magazines get to have all the fun? I want to make my own Holiday Gift Guide, full of items I think are interesting in one way or another.
 
-This is a 2024 Indie Holiday Gift Guide, because it's just me, Dann Berg, in partnership with The Dann Chronicles newsletter, putting together this post.
+This is a 2023 Indie Holiday Gift Guide, because it's just me, Dann Berg, in partnership with The Dann Chronicles newsletter, putting together this post.
 
 It's all just for fun. Browse at your leisure. Buy an item or don't (Amazon links are affiliate, but I've included non-Amazon, non-affiliate links where ever possible). Maybe you'll see something you already use and enjoy. Maybe you'll find something new.
 
