@@ -1,6 +1,6 @@
 ---
 title: "Dann's Indie Holiday Gift Guide 2023"
-date: 2023-11-08T18:22:21-05:00
+date: 2023-11-10T06:59:00-05:00
 description: "Why do newspapers and magazines get to have all the fun? Here's Dann's 2023 Holiday Gift Guide! An assortment of cool and unusual gifts to buy yourself and/or others."
 url: /blog/2023/indie-holiday-gift-guide-2023
 categories:
