@@ -17,7 +17,6 @@ tags:
   - Games
   - Snacks
   - Lars Von Trier
-draft: true
 ---
 ![A collage of all the items recommended on this list](/images/blog/2023/11/gift-guide/indie-2023-holiday-gift-guide-main.jpg)
 
@@ -36,19 +35,23 @@ You're a kid again, and a new catalog just arrived in the mail. Enjoy.
 ---
 
 {{< special-table-div >}}
+
 | ![Yogasleep Dohm Uno](/images/blog/2023/11/gift-guide/yogasleep-dohm-uno.jpg) | ![Orbitkey](/images/blog/2023/11/gift-guide/orbitkey.jpg) |
 |------|-------|
 | **Yogasleep Dohm Uno**    | **Orbitkey Key Organizer**    |
 | Some bedrooms are quieter than others, and it can be hard to get good rest when there's a flurry of activity around. This can be solved with a running fan, but sometimes that added breeze is too much. And most white noise machines just play digital recordings, which can feel strangely artificial. Enter Yogasleep Dohm Uno. It's a dedicated white noise machine with an actual engine inside, producing natural sounds. Perfect for slipping into a deep sleep.{{< br >}} **Price: $36.99**     | For many men, a set of front-pocket keys is a source of constant annoyance. They just never sit right, and twist and poke at numerous points throughout the day. That's because it's literally impossible for keys on a keyring to lay flat. The Orbitkey Key Organizer is a pocket saver, by turning that mess of keys into a small rod-shaped fob that doesn't hurt when you sit the wrong way.{{< br >}} **Price: $43.50**    |
 | {{< class "button-link" >}} <a href="https://yogasleep.com/products/dohm-uno">Yogasleep</a> {{< /class >}}<br> {{< class "button-link" >}}<a href="https://amzn.to/3sneXn9">Amazon</a> {{< /class >}}   | {{< class "button-link" >}} <a href="https://www.orbitkey.com/collections/all-keys/products/orbitkey-2-0-leather">OrbitKey</a> {{< /class >}}<br> {{< class "button-link" >}}<a href="https://amzn.to/473uJT0">Amazon</a> {{< /class >}}    |
+
 {{< div-close >}}
 
 {{< special-table-div >}}
+
 | ![Pulsetto](/images/blog/2023/11/gift-guide/pulsetto.jpg) | ![Ninja CREAMi](/images/blog/2023/11/gift-guide/ninja-creami.jpg) |
 |------|-------|
 | **Pulsetto**    | **Ninja CREAMi Deluxe**    |
 | Everyone knows a little yoga or meditation can help calm an anxious mind, but do you know why these particular practices have that effect? Both activities stimulate the vagus nerve, the pathway with parasympathetic control of the brain and the heart/lungs/digestive tract. Now there's a lazy-person's way to tickle that same nerve, and reap all the benefits of a robust mindful practice without any of the exercises.{{< br >}} **Price: $289.00+**     | For many, it was the viral kitchen gadget of the summer, inescapable at every turn. Others have yet to hear about this wonderful gadget. It's a consumer-grade version of the Pacojet, a much-loved ice cream device and longtime staple of high-end commercial kitchens. Now you, too, can turn protein shakes into a Wendy's Frosty (literally) and so much more.{{< br >}} **Price: $219.99+**    |
 | {{< class "button-link" >}} <a href="https://pulsetto.tech/">Pullsetto.tech</a> {{< /class >}}<br> {{< class "button-link" >}}<a href="https://amzn.to/47nyT85">Amazon</a> {{< /class >}}   | {{< class "button-link" >}} <a href="https://www.ninjakitchen.com/page/ice-cream-makers">Ninja Kitchen</a> {{< /class >}}<br> {{< class "button-link" >}}<a href="https://amzn.to/45YGgBS">Amazon</a> {{< /class >}}    |
+
 {{< div-close >}}
 
 {{< special-table-div >}}
