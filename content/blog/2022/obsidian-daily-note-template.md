@@ -63,7 +63,11 @@ I also use Templater to insert the day's date, in an easy-to-read format, with t
 
 I also include some Previous/Next navigation at the top[^1], powered by Templater and formatted the same as the filename naming convention. Most frequently, I'm using today's note, which means the link to tomorrow's note doesn't exist. But these can both be useful when browsing older notes.
 
+[^1]: This Templater code was updated Oct 2022 thanks to feedback from [Lopyter on Reddit](https://reddit.com/r/ObsidianMD/comments/yd62d1/my_obsidian_daily_note_template_using_templater/its9d7y/). The old format would have broke if you create Daily Notes for future dates.
+
 `<< [[<% fileDate = moment(tp.file.title, 'YYYY-MM-DD-dddd').subtract(1, 'd').format('YYYY-MM-DD-dddd') %>|Yesterday]] | [[<% fileDate = moment(tp.file.title, 'YYYY-MM-DD-dddd').add(1, 'd').format('YYYY-MM-DD-dddd') %>|Tomorrow]] >>`
+
+
 
 **Note:** this Previous/Next navigation Templater code can be imperfect if you're not creating Daily Notes every day. This can apparently be solved using [this method involving DataviewJS](https://forum.obsidian.md/t/dataviewjs-snippet-showcase/17847/20?u=gibson). I haven't tried this myself, but I've heard it works well.
 
@@ -118,10 +122,19 @@ Originally, all my daily notes were in that single directory, but I've since mov
 
 Create a new note, and name it `Daily Note Template`. Move it to your templates directory if you have one (I use `Bins/Templates/Daily Note Template`).
 
-Once the file exists in your desired directory, enter the directory path int he Daily Notes settings page. Each time you click the menu button to create your Daily Note, it will use that template file, along with the Templater plugin, to generate a fully-formed, ready-to-use, daily note.
+Once the file exists in your desired directory, enter the directory path in the Daily Notes settings page. Each time you click the menu button to create your Daily Note, it will use that template file, along with the Templater plugin, to generate a fully-formed, ready-to-use, daily note.
+
+![Templater setting to run when new file is created](/images/blog/2022/10/obsidian-templater-trigger-new-file.jpg)
+
+Additionally, in the Templater settings, make sure that you enable `Trigger Templater on new file creation`. With this enabled, you'll have a new Daily Note, complete with the dynamic text that we created, when you click the Open Today's Daily Note button[^2].
+
+[^2]: An alternate option is to use `<%+ %>` instead of `<% %>`, but this isn't the cleanest way to run code on file creation. For a longer discussion, see the comments of the [gist on Github](https://gist.github.com/dannberg/48ea2ba3fc0abdf3f219c6ad8bc78eb6?permalink_comment_id=4761287#gistcomment-4761287).
 
 **Dive deeper in Obsidian**
 
-Found this useful? I also wrote about my [People note template](https://dannb.org/blog/2022/obsidian-people-note-template/), as well as how I use Obsidian to [recall books I read](https://dannb.org/blog/2022/recalling-books-youve-read-made-easy/).
+Did you find this post useful? Check out my other Obsidian posts:
+- [My Obsidian Meeting Note Template](http://localhost:1313/blog/2023/obsidian-meeting-note-template/)
+- [My Obsidian People Note Template](https://dannb.org/blog/2022/obsidian-people-note-template/)
+- [Recalling Books You've Read, Made Easy](https://dannb.org/blog/2022/recalling-books-youve-read-made-easy/)
 
-[^1]: This Templater code was updated Oct 2022 thanks to feedback from [Lopyter on Reddit](https://reddit.com/r/ObsidianMD/comments/yd62d1/my_obsidian_daily_note_template_using_templater/its9d7y/). The old format would have broke if you create Daily Notes for future dates.
+If you've read this far, you might also really enjoy my free monthly newsletter [_The Dann Chronicles_](https://dannberg.substack.com/). Each month, I share five cool new things I found. These can be products, articles, apps, movies, concepts, and anything else. Feel free to [check out the archive](https://dannberg.substack.com/archive) to see if it's something you might like, and subscribe to get each edition in your email.
