@@ -133,7 +133,7 @@ Additionally, in the Templater settings, make sure that you enable `Trigger Temp
 **Dive deeper in Obsidian**
 
 Did you find this post useful? Check out my other Obsidian posts:
-- [My Obsidian Meeting Note Template](http://localhost:1313/blog/2023/obsidian-meeting-note-template/)
+- [My Obsidian Meeting Note Template](https://dannb.org/blog/2023/obsidian-meeting-note-template/)
 - [My Obsidian People Note Template](https://dannb.org/blog/2022/obsidian-people-note-template/)
 - [Recalling Books You've Read, Made Easy](https://dannb.org/blog/2022/recalling-books-youve-read-made-easy/)
 
