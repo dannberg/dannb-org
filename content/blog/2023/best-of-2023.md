@@ -141,7 +141,7 @@ This year, I published my [2023 Indie Holiday Gift Guide](https://dannb.org/blog
 - Planned a successful surprise birthday *weekend* for Avi
 - Kicked off season one of *Dann & Avi Film School* with six movie screening hosting ~25 people total
 
-## Plans for 2023
+## Plans for 2024
 - Carry [*The Dann Chronicles*](https://dannberg.substack.com) newsletter into its fourth consecutive year (maybe with a few new surprises!)
 - Add 100 new subscribers to *The Dann Chronicles* newsletter
 - In addition to the newsletter, publish at least ten posts to [this website](https://dannb.org)
