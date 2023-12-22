@@ -13,7 +13,6 @@ tags:
   - new year
   - plans
   - resolutions
-draft: true
 ---
 ![Collage of several of the items listed in this Best of 2023 post](/images/blog/2023/12/best-of-2023-og.jpg)
 
