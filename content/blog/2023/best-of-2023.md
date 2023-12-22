@@ -24,7 +24,7 @@ I feel like 2023 was, however, fairly strong in terms of friends and networking.
 
 [^1]: Season one of *Dann & Avi Film School* included: *The Third Man* (1950), *The Seventh Seal* (1958), *Breathless* (1961), *8 ½* (1963), *El Topo* (1970), and *Wild at Heart* (1990).
 
-This best of 2023 post is a continuation of a long tradition  (see [2012](http://novicenolonger.com/my-best-of-2012/), [2013](http://novicenolonger.com/my-best-of-2013/), [2015](http://novicenolonger.com/my-best-of-2015-a-year-in-review/), [2016](https://novicenolonger.com/best-of-2016/), [2018](https://novicenolonger.com/exhaustive-list-favorite-things-2018/), [2020](https://dannb.org/blog/2020/best-of-2020/), [2021](https://dannb.org/blog/2021/best-of-2021/)). I've adjusted the format somewhat this year (mainly, revealing more detailed about the performance of this website), which I feel better captures my year and will be more interesting to readers.
+This best of 2023 post is a continuation of a long tradition  (see [2012](http://novicenolonger.com/my-best-of-2012/), [2013](http://novicenolonger.com/my-best-of-2013/), [2015](http://novicenolonger.com/my-best-of-2015-a-year-in-review/), [2016](https://novicenolonger.com/best-of-2016/), [2018](https://novicenolonger.com/exhaustive-list-favorite-things-2018/), [2020](https://dannb.org/blog/2020/best-of-2020/), [2021](https://dannb.org/blog/2021/best-of-2021/), [2022](https://dannb.org/blog/2022/best-of-2022/)). I've adjusted the format somewhat this year (mainly, revealing more detailed about the performance of this website), which I feel better captures my year and will be more interesting to readers.
 
 
 ## This website's performance
