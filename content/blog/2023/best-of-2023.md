@@ -89,12 +89,12 @@ According to Letterboxd, I watched 96 movies in 2023—a slightly-inflated numbe
 These were the favorite movies I watched this year (some were released in 2023, others are older):
 
 - **[Beau is Afraid](https://www.youtube.com/watch?v=PuiWDn976Ek)** (2023) - *I'm one of the weirdos who loved this movie. I saw it twice in theaters. After, I went back and watched all of [Ari Aster's short films](https://archive.org/details/ari-aster-short-films) I'll admit it*.
+- **[Poor Things](https://www.youtube.com/watch?v=RlbR5N6veqw)** (2023) - *The trailer didn't really do much for me, but I decided to give it a try anyway. Absolutely* loved *it*.
 - **[Dicks: The Musical](https://www.youtube.com/watch?v=SQDmT_Cih2Q)** (2023) - *It makes me so happy that this movie got made. I also saw this twice in theaters, bringing different people with me each time*.
 - **[Saltburn](https://www.youtube.com/watch?v=lALMdJf6UUE)** (2023) - *I agree with all the criticisms, and absolutely love the movie anyway. Barry Keoghan is a treasure, and I'll watch him in anything*.
 - **[Inside](https://www.youtube.com/watch?v=DjODCllZj4w)** (2023) - *No, not the Bo Burnham special—the movie of the same title starring Willam Defoe. I feel like this slipped sadly under most people's radar. Superbly acted (by one person!!) and filmed, a wild claustrophobic ride*.
-- **[Bottoms](https://www.youtube.com/watch?v=vH5NAahf76s)** (2023) - *If you've ever wondered what* American Pie *might look like with a female creative team and modern sensibilities, it's* Bottoms. *So fun*.
 
-**Honorable mentions:** *Talk to Me* (2022), *How to Blow Up a Pipeline* (2022), *Anatomy of a Fall* (2023), *Jules* (2023), *Totally Killer* (2023), *Mother* (2009).
+**Honorable mentions:** *Talk to Me* (2022), *Bottoms* (2023), *How to Blow Up a Pipeline* (2022), *Anatomy of a Fall* (2023), *Jules* (2023), *Totally Killer* (2023), *Mother* (2009).
 
 ## Favorite TV Shows
 Looking back at my watch history for 2023, I'm realizing that this was a *strong* year for TV series. Once again, HBO makes the strongest showing, but this time Netflix creeps back in with several fantastic shows.
