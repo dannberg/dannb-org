@@ -1,7 +1,7 @@
 ---
 title: "Dann Berg: blog, newsletter, shop, and more"
 date: 2020-05-01T08:03:56-04:00
-description: "Hello, I'm Dann. I'm the Director of Community at Vantage (previously sr. FinOps @ Datadog, FullStory) and a writer of blogs and plays. This is home to my thoughts on finops, technology, productivity, & more."
+description: "Hello, I'm Dann. I'm a self-employed FinOps Aficionado (previously sr. FinOps @ Datadog, FullStory) and a writer of blogs and plays. This is home to my thoughts on finops, technology, productivity, & more."
 ---
 
 <!-- Text for the header is in the shortcode -->
@@ -13,7 +13,7 @@ description: "Hello, I'm Dann. I'm the Director of Community at Vantage (previou
 Hello, I'm Dann. I work at the intersection of engineering, finance, and cloud cost optimization. In simpler terms, I help make big, scary cloud bills not so big or scary.
 {{% /class %}}
 
-Want to do a deep dive? There's more on my **[About](/about)** page, or you can check me out on **[LinkedIn](https://www.linkedin.com/in/dannberg/)**, **[Github](https://github.com/dannberg)**, **[AngelList](https://angel.co/u/dann-berg)** and **[Bluesky](https://bsky.app/profile/dann.fun)**/**[Twitter](https://twitter.com/dannberg)**. If you want something more personal, you can find me at the monthly **[NYC FinOps Meetup](https://www.meetup.com/nyc-finops-and-friends/)**, which I run. It's also pretty easy to find more about me with a quick **[Google search](https://www.google.com/search?q=dann+berg)**. Spelling Dann with two Ns is great for SEO.
+Want to do a deep dive? There's more on my **[About](/about)** page, or you can check me out on **[LinkedIn](https://www.linkedin.com/in/dannberg/)**, **[Github](https://github.com/dannberg)**, **[AngelList](https://angel.co/u/dann-berg)** and **[Threads](https://www.threads.net/@iamdannberg)**/**[Twitter](https://twitter.com/dannberg)**. If you want something more personal, you can find me at the monthly **[NYC FinOps Meetup](https://www.meetup.com/nyc-finops-and-friends/)**, which I run. It's also pretty easy to find more about me with a quick **[Google search](https://www.google.com/search?q=dann+berg)**. Spelling Dann with two Ns is great for SEO.
 
 In a past life (before the deep dive into FinOps), I was a tech journalist, and my writing has appeared on MSNBC, Fox News, The Verge, Mashable, Laptop Magazine, and Tom’s Guide. I also co-authored two full-length plays with my wife, including **["The Floorshow"](http://combustioncollective.org/the-floorshow/)**, which is about a group of tap-dancing showgirls in the 1950s.
 
