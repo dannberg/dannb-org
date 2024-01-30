@@ -139,9 +139,9 @@ Did you find this post useful? Check out my other Obsidian posts:
 - [My Obsidian People Note Template](https://dannb.org/blog/2022/obsidian-people-note-template/)
 - [Recalling Books You've Read, Made Easy](https://dannb.org/blog/2022/recalling-books-youve-read-made-easy/)
 
-[![Thumbnail for this Daily Note post in video format on YouTube](/images/blog/2024/01/obsidian-daily-note-youtube-thumbnail.jpg)](https://youtu.be/v84uSIqqVPQ)
+{{< youtube v84uSIqqVPQ >}}
 
-**Prefer video content?** Check out the [video tour of this Daily Note template post](https://youtu.be/v84uSIqqVPQ) on YouTube.
+**Prefer video content?** Check out the above video tutorial version of this post. It shows you exactly how to set up your own Daily Note template system.
 
 ---
 
