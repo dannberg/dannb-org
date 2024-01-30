@@ -20,7 +20,7 @@ draft: false
 
 ❗ _Feel free to skip the fluff and navigate directly to the **[raw Daily Note template](https://gist.github.com/dannberg/48ea2ba3fc0abdf3f219c6ad8bc78eb6)**._
 
-Also, this tutorial is now available as a _YouTube video_! Watch **[📆 Obsidian Daily Note Template Tour and Tutorial](https://youtu.be/N7PltDEp-pk)** to see me set up the system from scratch.
+Also, this tutorial is now available as a _YouTube video_! Watch **[📆 Obsidian Daily Note Template Tour and Tutorial](https://youtu.be/v84uSIqqVPQ)** to see me set up the system from scratch.
 
 ---
 
@@ -139,9 +139,9 @@ Did you find this post useful? Check out my other Obsidian posts:
 - [My Obsidian People Note Template](https://dannb.org/blog/2022/obsidian-people-note-template/)
 - [Recalling Books You've Read, Made Easy](https://dannb.org/blog/2022/recalling-books-youve-read-made-easy/)
 
-[![Thumbnail for this Daily Note post in video format on YouTube](/images/blog/2024/01/obsidian-daily-note-youtube-thumbnail.jpg)](https://youtu.be/N7PltDEp-pk)
+[![Thumbnail for this Daily Note post in video format on YouTube](/images/blog/2024/01/obsidian-daily-note-youtube-thumbnail.jpg)](https://youtu.be/v84uSIqqVPQ)
 
-**Prefer video content?** Check out the [video tour of this Daily Note template post](https://youtu.be/N7PltDEp-pk) on YouTube.
+**Prefer video content?** Check out the [video tour of this Daily Note template post](https://youtu.be/v84uSIqqVPQ) on YouTube.
 
 ---
 
