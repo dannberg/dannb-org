@@ -1,7 +1,7 @@
 ---
 title: "My Obsidian Daily Note Template"
-date: 2023-03-30T07:11:30-04:00
-description: "Updated March 2023. A brief tour of my Daily Note template for Obsidian, using the Templater and Dataview plugins."
+date: 2024-01-30T11:55:30-04:00
+description: "Updated January 2024. A brief tour of my Daily Note template for Obsidian, using the Templater and Dataview plugins."
 url: /blog/2022/obsidian-daily-note-template
 categories:
   - Productivity
@@ -19,6 +19,8 @@ draft: false
 ![Dann's Daily Note template for Obsidian](/images/blog/2022/10/daily-note-template.png)
 
 ❗ _Feel free to skip the fluff and navigate directly to the **[raw Daily Note template](https://gist.github.com/dannberg/48ea2ba3fc0abdf3f219c6ad8bc78eb6)**._
+
+Also, this tutorial is now available as a _YouTube video_! Watch **[📆 Obsidian Daily Note Template Tour and Tutorial](https://youtu.be/N7PltDEp-pk)** to see me set up the system from scratch.
 
 ---
 
@@ -120,7 +122,7 @@ Originally, all my daily notes were in that single directory, but I've since mov
 
 ### Setting up your Daily Note template
 
-Create a new note, and name it `Daily Note Template`. Move it to your templates directory if you have one (I use `Bins/Templates/Daily Note Template`).
+Create a new note, and name it `Template, Daily Note`. Move it to your templates directory if you have one (I use `Extras/Templates/`).
 
 Once the file exists in your desired directory, enter the directory path in the Daily Notes settings page. Each time you click the menu button to create your Daily Note, it will use that template file, along with the Templater plugin, to generate a fully-formed, ready-to-use, daily note.
 
@@ -136,5 +138,11 @@ Did you find this post useful? Check out my other Obsidian posts:
 - [My Obsidian Meeting Note Template](https://dannb.org/blog/2023/obsidian-meeting-note-template/)
 - [My Obsidian People Note Template](https://dannb.org/blog/2022/obsidian-people-note-template/)
 - [Recalling Books You've Read, Made Easy](https://dannb.org/blog/2022/recalling-books-youve-read-made-easy/)
+
+[![Thumbnail for this Daily Note post in video format on YouTube](/images/blog/2024/01/obsidian-daily-note-youtube-thumbnail.jpg)](https://youtu.be/N7PltDEp-pk)
+
+**Prefer video content?** Check out the [video tour of this Daily Note template post](https://youtu.be/N7PltDEp-pk) on YouTube.
+
+---
 
 If you've read this far, you might also really enjoy my free monthly newsletter [_The Dann Chronicles_](https://dannberg.substack.com/). Each month, I share five cool new things I found. These can be products, articles, apps, movies, concepts, and anything else. Feel free to [check out the archive](https://dannberg.substack.com/archive) to see if it's something you might like, and subscribe to get each edition in your email.
