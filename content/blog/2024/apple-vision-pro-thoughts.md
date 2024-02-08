@@ -11,7 +11,7 @@ tags:
   - Apple
   - Virtual Reality
   - Technology
-  - Spacial Computing
+  - Spatial Computing
 ---
 ![Dann wearing the Apple Vision Pro, taking a photo in the mirror. The text reads "Apple Vision Pro's Future"](/images/blog/2024/01/apple-vision-pro-og.jpg)
 
@@ -21,7 +21,7 @@ The [Apple Vision Pro](https://www.apple.com/apple-vision-pro/) isn't the first 
 There were three epiphany moments I had when using the Vision Pro. The first occurred when using the controls (eye and hand tracking). The second happened while watching an immersive show produced by Apple TV+. And the third epiphany came to me the moment I connected my laptop to the headset via virtual display.
 
 ## Epiphany 1: Why this feels like the future
-When Apple first announced the product, they immediately let reporters at the keynote try the upcoming headset. A comment from many was that the experience felt like *peek into the future*. I was both skeptical and intrigued by this comment. "Skeptical" because we already had VR (ie the Oculus Rift, HTC Vive, PS VR), so why would the Vision Pro be a peek into the future that wasn't already clear from these other headsets? And I was "intrigued" for pretty much the exact same reason—because most of these reports *had* tried other VR devices and were *still* making that comment.
+When Apple first announced the product, they immediately let reporters at the keynote try the upcoming headset. A comment from many was that the experience felt like a *peek into the future*. I was both skeptical and intrigued by this comment. "Skeptical" because we already had VR (ie the Oculus Rift, HTC Vive, PS VR), so why would the Vision Pro be a peek into the future that wasn't already clear from these other headsets? And I was "intrigued" for pretty much the exact same reason—because most of these reports *had* tried other VR devices and were *still* making that comment.
 
 After using the headset for myself, I can report having the exact same thoughts. Using the Vision Pro *is* like peeking into the future, in a novel way I never felt with other devices.
 
@@ -105,7 +105,7 @@ The Vision Pro is Apple's attempt to steer the ship in an entirely different dir
 
 So, *how* does a company sell a new vision for humans interacting in virtual worlds?
 
-First, it's very careful with language. According to Apple, the Vision Pro is *spacial computing*, not virtual reality. You're not actually entering a new world, just having an *immersive experience*. You can dip in and out (note: not *out* and *in*) to adjust *immersion* into digital *content*.
+First, it's very careful with language. According to Apple, the Vision Pro is *spatial computing*, not virtual reality. You're not actually entering a new world, just having an *immersive experience*. You can dip in and out (note: not *out* and *in*) to adjust *immersion* into digital *content*.
 
 Then, it has to design a product experience (and especially demo!) that highlights that reality is first priority, and immersive experiences second. When you first put the headset on, you're greeted by your familiar surroundings. The Encounter Dinosaurs interactive experience—pre-installed on all headsets and an important part of the product demo—begins in your physical space before opening a wall-sized window into a prehistoric world.
 
@@ -130,11 +130,11 @@ As a result, when a company like Meta presents a new vision (like the Oculus VR 
 
 Meta's business model also hurts its message. When a company makes money from ad revenue, the user is the *product*. User data and attention is sold to the highest bidder. Knowing this, it's not unfair to wonder if the Quest is just another way to sell ads. Maybe it's *not* filled with ads (yet?), but again, this is Meta starting from a place of defense.
 
-Apple doesn't have any of these same issues. It's business model is to sell premium products and services at a high price point. People can argue over the use of the word "premium" here, and whether the prices are justified, but you can't argue that Apple *devices and services* are the product, not the users.
+Apple doesn't have any of these same issues. Its business model is to sell premium products and services at a high price point. People can argue over the use of the word "premium" here, and whether the prices are justified, but you can't argue that Apple *devices and services* are the product, not the users.
 
 Additionally, Apple has a long history of releasing first generation devices that launch entire product categories. The iPod, iPhone, iPad, and Apple Watch weren't the first products with their respective features, but they were the first to make give these products *mass market appeal* and to make them *cool*.
 
-Admittedly, just because Apple has been successful in the past with products like the iPhone, iPad, and Apple Watch doesn't *guarantee* that it'll be successful with the Vision Pro. But these past wins do launch this product into a market of optimism rather than a place of defense (which increases the longterm chance of success).
+Admittedly, just because Apple has been successful in the past with products like the iPhone, iPad, and Apple Watch doesn't *guarantee* that it'll be successful with the Vision Pro. But these past wins do launch this product into a market of optimism rather than a place of defense (which increases the long-term chance of success).
 
 Still, market sentiment alone is not enough to create a breakthrough product that defines a new category. The product needs to actually be *revolutionary*.
 
@@ -175,7 +175,7 @@ I was mostly skeptical of Apple's rumored VR headset, with just a touch of optim
 
 Right now, our digital lives are trapped behind tiny screens. All our applications, digital communication, and connection feel one-step removed from us. All our lives, we haven't questioned this, because it's just how things were. We couldn't even imagine it any differently.
 
-Apple's vision for "spacial computing" isn't just an evolution of previous VR gaming devices. It solves a new problem that people didn't know they had: *how can I remove that distance between myself and my digital life*?
+Apple's vision for "spatial computing" isn't just an evolution of previous VR gaming devices. It solves a new problem that people didn't know they had: *how can I remove that distance between myself and my digital life*?
 
 The first generation Vision Pro isn't a perfect device. It doesn't actually solve this problem. But it makes users keenly aware that there *is* a problem to be solved. Once again, Apple is peering into the future in a way no one else can, and successfully solving a future problem.
 
