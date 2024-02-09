@@ -15,7 +15,7 @@ tags:
 ---
 ![Dann wearing the Apple Vision Pro, taking a photo in the mirror. The text reads "Apple Vision Pro's Future"](/images/blog/2024/01/apple-vision-pro-og.jpg)
 
-# I
+# I.
 The [Apple Vision Pro](https://www.apple.com/apple-vision-pro/) isn't the first AR/VR headset, but it still feels like the beginning of something new. I've been trying to pinpoint *why* it feels that way since first trying it on, and I think I finally figured it out. And it's not really something I've seen discussed in any other tech reviews.
 
 There were three epiphany moments I had when using the Vision Pro. The first occurred when using the controls (eye and hand tracking). The second happened while watching an immersive show produced by Apple TV+. And the third epiphany came to me the moment I connected my laptop to the headset via virtual display.
@@ -89,7 +89,7 @@ Thinking about the Vision Pro as a monitor that you can step inside makes the fi
 
 Stepping inside a *display* versus stepping inside a *virtual world* feels like splitting hairs. But when you actually try the Vision Pro, you see that it makes all the difference.
 
-# II
+# II.
 ## The future Apple is selling
 It's not all about specs. In the same way it doesn't make sense to compare iPhones vs Android phones based completely on benchmark test results, so, too, does it feel strange to try and compare the Vision Pro to other VR headsets.
 
@@ -140,7 +140,7 @@ Still, market sentiment alone is not enough to create a breakthrough product tha
 
 And it's here that I think Apple succeeds.
 
-# III
+# III.
 There are two approaches for bringing a new product to market. Entrepreneurs can either solve a problem that users *know* they have, or solve a problem users *didn't know* they have.
 
 The former is incremental progress. The latter is where we get *giant leaps* in innovation. It's going from zero to one.
