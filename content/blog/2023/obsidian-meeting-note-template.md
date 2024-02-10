@@ -1,7 +1,7 @@
 ---
 title: "Obsidian Meeting Note Template"
 date: 2024-02-10T08:59:00-05:00
-description: "Updated February 2024. A detailed tour of my Obsidian Meeting Note Template, a full-featured system for taking and recalling notes from both work and personal meetings. Uses Templater, Dataview, and Buttons plugins."
+description: "Updated February 2024. A detailed tour of my Obsidian Meeting Note Template, a full-featured system for taking and recalling notes from both work and personal meetings. Uses Templater, Dataview, and Meta Bind plugins."
 url: /blog/2023/obsidian-meeting-note-template
 categories:
   - Productivity
