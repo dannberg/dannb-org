@@ -21,6 +21,8 @@ tags:
 
 **UPDATED FEBRUARY 2024.** Updated guide to use [Meta Bind](https://github.com/mProjectsCode/obsidian-meta-bind-plugin) plugin to trigger the creation of a new meeting note, instead of the rarely-updated [Buttons](https://github.com/shabegom/buttons?tab=readme-ov-file) plugin.
 
+Also, this tutorial is now available as a _YouTube video_! Watch **[🗣 Obsidian Meeting Note Template Tour and Tutorial](https://www.youtube.com/watch?v=Ud16HOQoS5Q)** to see me set up this system from scratch.
+
 ---
 
 Obsidian is the perfect place for meeting notes. With the right type of organization and template, you'll be able to instantly take notes at the click of a button, and then have those notes available to you whenever you need them.
@@ -233,5 +235,11 @@ Check out my other Obsidian posts:
 - [My Obsidian Daily Note Template](https://dannb.org/blog/2022/obsidian-daily-note-template/)
 - [My Obsidian People Note Template](https://dannb.org/blog/2022/obsidian-people-note-template/)
 - [Recalling Books You've Read, Made Easy](https://dannb.org/blog/2022/recalling-books-youve-read-made-easy/)
+
+{{< youtube Ud16HOQoS5Q >}}
+
+**Prefer video content?** Check out the above video tutorial version of this post. It shows you exactly how to set up your own Daily Note template system.
+
+---
 
 If you've read this far, you might also really enjoy my [free monthly newsletter](https://dannberg.substack.com/). Each month, I share five cool new things I found. These can be products, articles, apps, movies, concepts, and anything else. Feel free to [check out the archive](https://dannberg.substack.com/archive) to see if it's something you might like, and subscribe to get each edition in your email.
