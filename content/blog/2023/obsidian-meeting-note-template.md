@@ -1,7 +1,7 @@
 ---
 title: "Obsidian Meeting Note Template"
-date: 2023-11-06T16:41:09-05:00
-description: "A detailed tour of my Obsidian Meeting Note Template, a full-featured system for taking and recalling notes from both work and personal meetings. Uses Templater, Dataview, and Buttons plugins."
+date: 2024-02-10T08:59:00-05:00
+description: "Updated February 2024. A detailed tour of my Obsidian Meeting Note Template, a full-featured system for taking and recalling notes from both work and personal meetings. Uses Templater, Dataview, and Buttons plugins."
 url: /blog/2023/obsidian-meeting-note-template
 categories:
   - Productivity
@@ -19,6 +19,9 @@ tags:
 
 ❗ _Feel free to skip the fluff and navigate directly to the **[raw Meeting Note template](https://gist.github.com/dannberg/9056b89437110e62766689772437fe46)**._
 
+**UPDATED FEBRUARY 2024.** Updated guide to use [Meta Bind](https://github.com/mProjectsCode/obsidian-meta-bind-plugin) plugin to trigger the creation of a new meeting note, instead of the rarely-updated [Buttons](https://github.com/shabegom/buttons?tab=readme-ov-file) plugin.
+
+---
 
 Obsidian is the perfect place for meeting notes. With the right type of organization and template, you'll be able to instantly take notes at the click of a button, and then have those notes available to you whenever you need them.
 
@@ -56,7 +59,7 @@ These are the plugins you'll need:
 
 1. [Templater](https://github.com/SilentVoid13/Templater)
 2. [Dataview](https://github.com/blacksmithgu/obsidian-dataview)
-3. [Buttons](https://github.com/shabegom/buttons)
+3. [Meta Bind](https://github.com/mProjectsCode/obsidian-meta-bind-plugin)
 
 You'll want to install the plugins [directly through Obsidian](https://help.obsidian.md/Advanced+topics/Community+plugins).
 
@@ -97,13 +100,13 @@ The "meeting title" is usually three or four words that describe the meeting at 
 My `Meetings MOC` is  fairly simple, with three specific things I use:
 
 1. A filename with an emoji (`🗣 Meetings MOC`) so it's alphabetical in the directory and easy to find at-a-glance
-2. A button to create new Meeting notes from my template
+2. A Meta Bind button to create new Meeting notes from my template
 3. A Dataview list of all my meeting notes, with date and summary
 
 I've added my [full Meetings MOC file to Github](https://gist.github.com/dannberg/7617aa7f4198938352431b7a9f77f8d1) for people to borrow and lift for their own use, with a few caveats:
 
 1. Your meeting note template (which we'll create below) will need to be named `Template, Meeting`, or else you'll need to update this note so that it links to your actual template
-2. Copying and pasting the Button code *probably* won't work. You should instead use the actual Button Maker function of the Button plugin.
+2. Copying and pasting the Button code *may* not work. You should instead use the actual Button Builder function of the Meta Bind plugin.
 3. For the Dataview table to work, your meeting notes will need to be located in the `Timestamps/Meetings` directory. If you use a different directory, update the Dataview query to reflect your path.
 
 ### Quick Note: Title vs Summary
@@ -193,22 +196,26 @@ Finally, `Notes` is where I take notes throughout the meeting. These are just yo
 ### Creating New Meeting button (continued)
 Now that our Meeting Note Template has been created, we can make a button in our Meeting MOC file that creates a new meeting note for us. The cool thing about creating this button is that the button will both 1) create the new note using the template and 2) automatically run the Templater plugin code to fill in the dynamic metadata and move the note to the proper directory.
 
-![Obsidian New Meeting Button Maker](/images/blog/2023/11/obsidian-new-meeting-button-maker.png)
+![Obsidian Meta Bind Button Builder with each field filled out, as instructed below](/images/blog/2024/02/obsidian-meta-bind-button-builder-tutorial.jpg)
 
-Here are the step-by-step instructions for making a button that will create a new meeting note and execute the template script:
+Here are the step-by-step instructions for making a Meta Bind button that will create a new meeting note and execute the template script:
 
 1. Navigate to your Meeting MOC file, and place the text insertion point where you want the button to go
-2. Press Command-P (Mac) to open the Obsidian Palette, type and select "Button Maker"
+2. Press Command-P (Mac) to open the Obsidian Palette, type `Meta Bind` and select "Open Button Builder"
 3. For the Button Name field, type: New Meeting
-4. For the Button Type dropdown, select: `Template - insert or create notes from templates`
-5. In the Template section, change `Do This` to "Note". In the `My Template` field select the Meeting note template you created (I called mine `Template, Meeting`, All your template files should automatically appear in the drop down here, assuming your templates are in a designated directory that has been specified in the Templates section of your Obsidian preferences)
-6. For the `Note Name` field, type the full directory path followed by a default file name. For example, I use `Timestamps/Meetings/TKTK` [^4]
-7. Scroll down until you see the setting for Templater (keeping everything else disabled) and toggle *on* Templater
-8. Click "Insert Button"
+4. Under Actions, select `templaterCreateNote` and click Add Action
+5. Next to Template File, click Change and select your template file (ie `Template, Meeting.md`)
+6. Next to Folder, click Change and choose the directory where you want your meeting notes (ie `Timestamps/Meetings`)
+7. For File Name, I use TKTK[^4] but you can use whatever you want.
+8. Click `Copy to Clipboard` to close the modal, and paste the contents of your clipboard into your Meeting MOC note
 
 [^4]: "TKTK" is a an [extremely useful writing tool](https://en.wikipedia.org/wiki/To_come_(publishing)) I picked up from my years as a journalist. You should use it, too, if you're not already!
 
-Once your button is created, click it to test. If you did things correctly, it should create a new note, in a new tab, using the template you created with all the Templater code expanded.
+When you paste the contents of your clipboard into your note, you'll get a big code block. Click out of that code block, and it should automatically render your New Meeting button in place of that code.
+
+Once you have your button, click it to test. If you did things correctly, it should create and open a new note, using the template you created with all the Templater code expanded.
+
+**Tip:** If you're getting a Templater parsing error when trying to create a new Meeting note, make sure you don't already have a note with the same name, in the same directory, as the one you're trying to create. This can happen if you're testing the button multiple times without deleting or renaming the Meeting note you created.
 
 You did it! Congrats.
 
