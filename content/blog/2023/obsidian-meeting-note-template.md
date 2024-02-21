@@ -234,6 +234,7 @@ Productivity work is fun, and it feels like you're doing work. But you're not re
 Check out my other Obsidian posts:
 - [My Obsidian Daily Note Template](https://dannb.org/blog/2022/obsidian-daily-note-template/)
 - [My Obsidian People Note Template](https://dannb.org/blog/2022/obsidian-people-note-template/)
+- [My Obsidian Physical Object System](https://dannb.org/blog/2024/obsidian-physical-object-template/)
 - [Recalling Books You've Read, Made Easy](https://dannb.org/blog/2022/recalling-books-youve-read-made-easy/)
 
 {{< youtube Ud16HOQoS5Q >}}

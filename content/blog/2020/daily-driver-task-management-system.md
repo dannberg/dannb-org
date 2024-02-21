@@ -272,8 +272,17 @@ If you make any useful modifications, let me know. I’m always looking to impro
 *   Make sure calendar alerts actually get your attention. That means a push notification to your computer, phone, or watch, rather than an email that you might miss.
 *   You don’t need to have an expensive notebook or pen, but make sure you find ones that spark joy, in the [Marie Kondo sense](https://amzn.to/2LxonU4). It will make working within the system a pleasure.
 
-<!-- Footnotes themselves at the bottom. -->
-### Notes
+## Digital Notes
+
+Just because a physical notebook is my productivity "daily driver," it doesn't mean I don't also have several digital systems to help organize my life and knowledge. If you enjoyed this post, you may also like some of my Obsidian content:
+
+- [My Obsidian Daily Note Template](https://dannb.org/blog/2022/obsidian-daily-note-template/)
+- [My Obsidian People Note Template](https://dannb.org/blog/2022/obsidian-people-note-template/)
+- [My Obsidian Physical Object System](https://dannb.org/blog/2024/obsidian-physical-object-template/)
+- [Recalling Books You've Read, Made Easy](https://dannb.org/blog/2022/recalling-books-youve-read-made-easy/)
+
+Also, if you've read this far, you might really enjoy my [free monthly newsletter](https://dannberg.substack.com/). Each month, I share five cool new things I found. These can be products, articles, apps, movies, concepts, and anything else. Feel free to [check out the archive](https://dannberg.substack.com/archive) to see if it's something you might like, and subscribe to get each edition in your email.
+
 [^1]: Ad hoc work, or Unplanned Work as it is called in _[The Phoenix Project](https://amzn.to/2Lt3Vnm)_, consists of tasks outside of regular projects and operations. This can be an emergency that requires immediate attention, taking you away from your planned work, or a slack message or email that requires immediate action (much more likely in my case).
 
 [^2]: It blows my mind that robust, feature-filled To Do apps don't have some sort of *Review Everything* mode. I want to be able to press a button and be shown each of my To Do items, one by one, with the ability to edit/move/trash as applicable.
