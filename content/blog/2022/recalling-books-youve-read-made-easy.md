@@ -117,3 +117,17 @@ Happy note taking.
 
 ### A quick note about fiction
 This system also works for fiction books, but it's a bit more abstract. Highlight sentences or paragraphs that speak to you in some way (however you want to interpret that). For your summary, don't summarize the plot (you can always grab that from Amazon or Wikipedia). Instead, focus on the themes of the book, or structure. What did you like about the book? What didn't you like? What would you like to remember about this book in ten years?
+
+#### Liked this post?
+
+I organize all my book notes in Obsidian. In fact, I do a _ton_ of things in Obsidian, many of which I've documented on this blog. If you're interested, check out:
+
+- [My Obsidian Daily Note Template](https://dannb.org/blog/2022/obsidian-daily-note-template/)
+- [My Obsidian Meeting Note Template](https://dannb.org/blog/2023/obsidian-meeting-note-template/)
+- [My Obsidian People Note Template](https://dannb.org/blog/2022/obsidian-people-note-template/)
+- [My Obsidian Physical Object System](https://dannb.org/blog/2024/obsidian-physical-object-template/)
+- [Recalling Books You've Read, Made Easy](https://dannb.org/blog/2022/recalling-books-youve-read-made-easy/)
+
+---
+
+If you've read this far, you might also really enjoy my [free monthly newsletter](https://dannberg.substack.com/). Each month, I share five cool new things I found. These can be products, articles, apps, movies, concepts, and anything else. Feel free to [check out the archive](https://dannberg.substack.com/archive) to see if it's something you might like, and subscribe to get each edition in your email.
