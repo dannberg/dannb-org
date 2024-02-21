@@ -22,6 +22,8 @@ draft: false
 
 **UPDATED FEBRUARY 2024.** Updated guide to use [Meta Bind](https://github.com/mProjectsCode/obsidian-meta-bind-plugin) plugin to trigger the creation of a new people note. Updated the _process_ a bit to better represent how I actually use the People Note system today.
 
+This tutorial is now available as a _YouTube video_! Watch **[👥 Obsidian People Note System and Template](https://youtu.be/N8K41HDRI3o)** to see me set up the system from scratch.
+
 ---
 
 This People Note Template post is part of a series of [Obsidian](https://obsidian.md) content I've created to document my various productivity systems:
@@ -197,6 +199,10 @@ Did you find this post useful? Check out my other Obsidian posts:
 - [My Obsidian Daily Note Template](https://dannb.org/blog/2022/obsidian-daily-note-template/)
 - [My Obsidian Meeting Note Template](https://dannb.org/blog/2023/obsidian-meeting-note-template/)
 - [Recalling Books You've Read, Made Easy](https://dannb.org/blog/2022/recalling-books-youve-read-made-easy/)
+
+{{< youtube N8K41HDRI3o >}}
+
+**Prefer video content?** Check out the above video tutorial version of this post. It shows you exactly how to set up your own People Note system.
 
 ---
 
