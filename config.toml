@@ -11,24 +11,33 @@ googleAnalytics = "G-93Y1XRNTS1"
 
 [params]
   author = "Dann Berg"
-  description = "Hello, I'm Dann. I'm Director of Community at Vantage (ex-Datadog, ex-FullStory) and writer of blogs and plays on the side. Here be thoughts on finops, technology, productivity, & more."
+  description = "Hello, I'm Dann. I'm a Sr. FinOps Aficianado (ex-Datadog, ex-FullStory) and writer of blogs and plays on the side. Here be thoughts on finops, technology, productivity, & more."
   images = ["dberg-main-og-image.jpg"]
 
 [[menu.main]]
   name = "About"
   url = "/about"
+  weight = 1
+
+[[menu.main]]
+  name = "Start here"
+  url = "/start-here"
+  weight = 2
 
 [[menu.main]]
   name = "Articles"
   url = "/blog"
+  weight = 3
 
 [[menu.main]]
   name = "Newsletter"
   url = "/newsletter"
+  weight = 4
 
 [[menu.main]]
   name = "Shop"
   url = "https://dannberg.storenvy.com/"
+  weight = 5
 
 [related]
     threshold = 0
