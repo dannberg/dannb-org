@@ -21,6 +21,8 @@ tags:
 
 This tutorial is now available as a _YouTube video_! Watch **[🛍️ Obsidian Physical Objects System and template](https://youtu.be/v4qc-GNrv7Q)** to see me set up this system from scratch.
 
+---
+
 One of the most useful Obsidian systems I have is for tracking physical objects. It's actually a system that I built slightly later than my others (such as my [Daily Note](https://dannb.org/blog/2022/obsidian-daily-note-template/), [Meeting Notes](https://dannb.org/blog/2023/obsidian-meeting-note-template/), and [People Notes](https://dannb.org/blog/2022/obsidian-people-note-template/)). It's also a system that largely fell into place over time, rather than being fully designed from the outset.
 
 I think the reason that I had some resistance to this Physical Object system was because I didn't feel like I *needed* an inventory of my stuff. I'm not a retail store, nor am I a minimalist (or aspiring minimalist) trying to keep track of every [item I own](https://manvsdebt.com/stuff/).
