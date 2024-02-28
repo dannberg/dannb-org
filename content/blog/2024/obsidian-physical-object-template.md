@@ -19,6 +19,8 @@ tags:
 
 ❗ _Feel free to skip the fluff and navigate directly to the **[Physical Object Template](https://gist.github.com/dannberg/87e712916fab68c32fa2c759f98bfc42)** or the **[Physical Object MOC template](https://gist.github.com/dannberg/1ee8fd5947a02e3a65e312fc417d541e)**._
 
+This tutorial is now available as a _YouTube video_! Watch **[🛍️ Obsidian Physical Objects System and template](https://youtu.be/v4qc-GNrv7Q)** to see me set up this system from scratch.
+
 One of the most useful Obsidian systems I have is for tracking physical objects. It's actually a system that I built slightly later than my others (such as my [Daily Note](https://dannb.org/blog/2022/obsidian-daily-note-template/), [Meeting Notes](https://dannb.org/blog/2023/obsidian-meeting-note-template/), and [People Notes](https://dannb.org/blog/2022/obsidian-people-note-template/)). It's also a system that largely fell into place over time, rather than being fully designed from the outset.
 
 I think the reason that I had some resistance to this Physical Object system was because I didn't feel like I *needed* an inventory of my stuff. I'm not a retail store, nor am I a minimalist (or aspiring minimalist) trying to keep track of every [item I own](https://manvsdebt.com/stuff/).
@@ -149,6 +151,8 @@ Check out my other Obsidian posts:
 - [My Obsidian Meeting Note Template](https://dannb.org/blog/2023/obsidian-meeting-note-template/)
 - [Recalling Books You've Read, Made Easy](https://dannb.org/blog/2022/recalling-books-youve-read-made-easy/)
 
-You can also now find me on [YouTube](https://www.youtube.com/@DannBerg), where I post about Obsidian and other things that interest me.
+{{< youtube v4qc-GNrv7Q >}}
+
+**Prefer video content?** Check out the above video tutorial version of this post. It shows you exactly how to set up your own Physical Object note template system.
 
 If you've read this far, you might also really enjoy my [free monthly newsletter](https://dannberg.substack.com/). Each month, I share five cool new things I found. These can be products, articles, apps, movies, concepts, and anything else. Feel free to [check out the archive](https://dannberg.substack.com/archive) to see if it's something you might like, and subscribe to get each edition in your email.
