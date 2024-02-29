@@ -132,6 +132,12 @@ Additionally, in the Templater settings, make sure that you enable `Trigger Temp
 
 [^2]: An alternate option is to use `<%+ %>` instead of `<% %>`, but this isn't the cleanest way to run code on file creation. For a longer discussion, see the comments of the [gist on Github](https://gist.github.com/dannberg/48ea2ba3fc0abdf3f219c6ad8bc78eb6?permalink_comment_id=4761287#gistcomment-4761287).
 
+Additionally, we need to make sure that the Yesterday and Tomorrow links work both to navigate to an existing note, or to create a new note from our template if there isn't yet a Daily Note for that date.
+
+In Obsidian Settings, go to Templater settings, and scroll down to Folder Templates. Toggle the "Enable Folder Templates" switch on. For folder, select `Timestamps/` (or whereever you keep your Daily Notes) and for Template, choose our new Daily Note template[^3].
+
+[^3]: Thank you to [Robiton](https://gist.github.com/Robiton) for his [helpful comment](https://gist.github.com/dannberg/48ea2ba3fc0abdf3f219c6ad8bc78eb6?permalink_comment_id=4948882#gistcomment-4948882) on the template code to get this working correctly.
+
 **Dive deeper in Obsidian**
 
 Did you find this post useful? Check out my other Obsidian posts:
