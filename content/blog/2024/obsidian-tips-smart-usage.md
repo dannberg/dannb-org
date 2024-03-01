@@ -24,13 +24,13 @@ Do you have any additions of your own you'd want to see on this list? Let me kno
 
 ---
 
-**1. There's a difference between working on your note taking system, and using your note taking system to do real work. Always know which you're doing.**
+## 1. There's a difference between working on your note taking system, and using your note taking system to do real work. Always know which you're doing.
 
 With a tool as powerful and fun as Obsidian, it's easy to spend all your time tweaking the system and perfecting your set up. This can *feel* like work, but it's not real work.
 
 It's okay to spend time working *on* your system instead of *in* your system, but just be consciously aware of which you're doing. What is your current ratio and do you want it to improve?
 
-**2. Obsidian is super powerful when you start thinking in systems**
+## 2. Obsidian is super powerful when you start thinking in systems
 
 An Obsidian system consists of three things: a MOC (map of contents), a template, and a Dataview table.
 
@@ -42,7 +42,7 @@ I've written about several of my Obsidian systems: [daily notes](https://dannb.o
 
 When you start thinking in systems, you can increase your productivity, speed, and note recall.
 
-**3. Build systems based on how you're working. Don't create a system first and then try to change your behavior to fit the system**
+## 3. Build systems based on how you're working. Don't create a system first and then try to change your behavior to fit the system
 
 The best way to build a new system is to just start creating and taking notes. Figure out what information is important to you, and in what format. Pay attention to how you're working.
 
@@ -52,7 +52,7 @@ When you create a system first, and try to predict how you'll use it, you'll ine
 
 Let your real work drive your Obsidian tweaking work, not vice versa.
 
-**4. Taking notes is easy, actually *using* those notes is hard.**
+## 4. Taking notes is easy, actually *using* those notes is hard.
 
 The biggest challenge with complex note taking systems, and "building a second brain,"[^2] is actually *using* the notes that you're taking. Most people take notes and then never look at them again. This is *default behavior*.
 
@@ -62,7 +62,7 @@ You need to make a *conscious effort* if you want to change this default behavio
 
 Find a habit that works for you.
 
-**5. Productivity ebbs and flows—build systems that support this**
+## 5. Productivity ebbs and flows—build systems that support this
 
 The [Seinfeld Strategy](https://jamesclear.com/stop-procrastinating-seinfeld-strategy) isn't for everyone. It certainly doesn't work for me. Instead, the best advice I have for people like me is that *it's okay to be unproductive*. Forgive yourself. Productivity naturally ebbs and flows, and the best way to harness it is to try and create as much tangible output as possible when you're in a productivity phase, and to allow yourself to rest when you're just not feeling it.
 
@@ -72,7 +72,7 @@ As you're taking notes and designing your Obsidian systems, keep your future sel
 
 Build your productivity systems that gracefully stop and start again. If you fall off the wagon, forgive yourself, rest, and pick back up when you're ready.
 
-**6. Your notes are a living knowledge base, not an archive.**
+## 6. Your notes are a living knowledge base, not an archive.
 
 Sometimes when I'm reading an old note, I'll feel a strong urge to *just leave it be*, keep it as-is to preserve it's natural state.
 
@@ -80,13 +80,13 @@ That's nonsense. It's your note and everything is mutable. You should always be 
 
 Remember to use your notes, don't just archive them.
 
-**7. New ideas come from the intersection of existing ideas**
+## 7. New ideas come from the intersection of existing ideas
 
 If you take notes on two different articles, then those ideas are from those respective authors. If you find some interesting way that those different ideas connect, that's *something new*.
 
 The best way to come up with new ideas is to try and figure out how two seemingly unrelated ideas intersect.
 
-**8. Writing is thinking**
+## 8. Writing is thinking
 
 Most people think that writing is something you do *after* thinking up a new idea. This is incorrect.
 
@@ -94,7 +94,7 @@ Instead, the act of writing *is* thinking. Putting your ideas into words helps y
 
 Be quick to write about a topic, even if it's just for you in your private note taking system. It's the best way to think.
 
-**9. Publish, even if no one is watching**
+## 9. Publish, even if no one is watching
 
 You should be publishing your writing. You're doing 90% of the work anyway, if you'e built out an Obsidian system and regularly take notes.
 
@@ -104,7 +104,7 @@ All of my professional success I attribute to sharing my writing online. Even my
 
 As you learn new things, share what you're learning. There's always going to be someone out there who doesn't yet have that information.
 
-**10. Mimicry is a shortcut to success**
+## 10. Mimicry is a shortcut to success
 
 Whenever you're starting a new project or learning a new skill, first identify the masters in the space. Look at their output and think about the details and aspects that make it look so professional and high quality.
 
