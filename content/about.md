@@ -12,6 +12,8 @@ FinOps, for those unfamiliar, is a burgeoning new engineering discipline helping
 
 In my free time, I'm an **[slow-but-steady reader](https://www.goodreads.com/dannb)** and an **[avid watcher of movies](https://letterboxd.com/dannb/)**. I also enjoy video games (_Binding of Isaac_, _Balatro_, _Stardew Valley_, _Forager_) and board games (_Terraforming Mars_, _Codenames_, _Coup_). I also spend a good amount of time writing (in case that wasn't obvious from this website or my newsletter).
 
+Want to know more about _how_ I work? Check out my tools-of-the-trade on [my gear](https://dannb.org/my-gear/) page.
+
 I also have a _free_ monthly newsletter where I share five interesting things I learned or discovered in the past month. You should **[sign up](https://dannb.org/newsletter)**.
 
 -------
