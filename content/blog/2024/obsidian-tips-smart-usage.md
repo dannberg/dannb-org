@@ -14,7 +14,7 @@ tags:
   - productivity
   - building a second brain
 ---
-![MacOS desktop with Obsidian open to graph view. Also an iPhone with Obsidian app open to daily note. Obsidian icon in the top right corner](/images/blog/2024/03/obsidian-tips-main.jpg)
+![MacOS desktop with Obsidian open to graph view. Also an iPhone with Obsidian app open to daily note. Obsidian icon in the top right corner](/images/blog/2024/03/obsidian-tips-lead.jpg)
 
 As I've been creating more content about my various Obsidian systems (not just here, but [on YouTube, too](https://www.youtube.com/playlist?list=PLbLZFa8mR_FmeTHxU2DB0MLypoIWfPiZy)!), I've been thinking about my overall philosophy about note taking and productivity.
 
