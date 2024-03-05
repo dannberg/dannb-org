@@ -16,15 +16,15 @@ tags:
 ---
 ![MacOS desktop with Obsidian open to graph view. Also an iPhone with Obsidian app open to daily note. Obsidian icon in the top right corner](/images/blog/2024/03/obsidian-tips-lead.jpg)
 
-This post is now available as a _YouTube video_! Watch **[Use these 10 Obsidian tips to level up your note taking productivity](https://youtu.be/hD-sSRGynpM)** to see me set up this system from scratch.
+This post is now available as a _YouTube video_! Watch **[Use these 10 Obsidian tips to level up your note taking productivity](https://youtu.be/hD-sSRGynpM)** instead of reading, or _go wild_ and do both.
+
+---
 
 As I've been creating more content about my various Obsidian systems (not just here, but [on YouTube, too](https://www.youtube.com/playlist?list=PLbLZFa8mR_FmeTHxU2DB0MLypoIWfPiZy)!), I've been thinking about my overall philosophy about note taking and productivity.
 
 I put together ten tips for smart Obsidian usage, based on my own experiences building *and using* my note taking system.
 
 Do you have any additions of your own you'd want to see on this list? Let me know!
-
----
 
 ## 1. There's a difference between working on your note taking system, and using your note taking system to do real work. Always know which you're doing.
 
