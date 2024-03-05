@@ -16,6 +16,8 @@ tags:
 ---
 ![MacOS desktop with Obsidian open to graph view. Also an iPhone with Obsidian app open to daily note. Obsidian icon in the top right corner](/images/blog/2024/03/obsidian-tips-lead.jpg)
 
+This post is now available as a _YouTube video_! Watch **[Use these 10 Obsidian tips to level up your note taking productivity](https://youtu.be/hD-sSRGynpM)** to see me set up this system from scratch.
+
 As I've been creating more content about my various Obsidian systems (not just here, but [on YouTube, too](https://www.youtube.com/playlist?list=PLbLZFa8mR_FmeTHxU2DB0MLypoIWfPiZy)!), I've been thinking about my overall philosophy about note taking and productivity.
 
 I put together ten tips for smart Obsidian usage, based on my own experiences building *and using* my note taking system.
@@ -125,6 +127,8 @@ You might like:
 - [My Obsidian Meeting Note Template](https://dannb.org/blog/2023/obsidian-meeting-note-template/)
 - [My Obsidian Physical Object Template](https://dannb.org/blog/2024/obsidian-physical-object-template/)
 
-**Prefer video?** Check out my [Obsidian content on YouTube](https://www.youtube.com/playlist?list=PLbLZFa8mR_FmeTHxU2DB0MLypoIWfPiZy).
+{{< youtube hD-sSRGynpM >}}
+
+**Prefer video content?** Check out this post on YouTube! There's a bunch of other Obsidian and productivity content there, too.
 
 If you've read this far, you might also really enjoy my [free monthly newsletter](https://dannberg.substack.com/). Each month, I share five cool new things I found. These can be products, articles, apps, movies, concepts, and anything else. Feel free to [check out the archive](https://dannberg.substack.com/archive) to see if it's something you might like, and subscribe to get each edition in your email.
