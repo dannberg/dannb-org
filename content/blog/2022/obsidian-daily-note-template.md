@@ -20,6 +20,7 @@ draft: false
 
 ❗ _Feel free to skip the fluff and navigate directly to the **[raw Daily Note template](https://gist.github.com/dannberg/48ea2ba3fc0abdf3f219c6ad8bc78eb6)**._
 
+
 Also, this tutorial is now available as a _YouTube video_! Watch **[📆 Obsidian Daily Note Template Tour and Tutorial](https://youtu.be/v84uSIqqVPQ)** to see me set up the system from scratch.
 
 ---
