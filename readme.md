@@ -21,7 +21,7 @@ Theme is covered by [The MIT License](https://github.com/dannberg/dannb-org/blob
 # Reference
 
 ## Callouts
-Callouts based on hugo-callout by mr-islam. To enter a callout:
+Callouts based on [hugo-callout](https://github.com/mr-islam/hugo-callout) by mr-islam. To enter a callout:
 
 ```
 {{< callout emoji="🔥" text="This is the text. Must be one paragraph." >}}
