@@ -20,6 +20,15 @@ Theme is covered by [The MIT License](https://github.com/dannberg/dannb-org/blob
 
 # Reference
 
+## Callouts
+Callouts based on hugo-callout by mr-islam. To enter a callout:
+
+```
+{{< callout emoji="🔥" text="This is the text. Must be one paragraph." >}}
+```
+
+Callout styling is located in `layouts/shortcodes/callout.html`.
+
 Images 644px width (700px)
 
 Main OG Image URL: `https://dannb.org/dberg-main-og-image.jpg`
