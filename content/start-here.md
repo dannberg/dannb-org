@@ -22,7 +22,9 @@ Every year since 2012 (with a few exceptions), I've done a _Year in Review_ post
 #### My Productivity
 Daily todos and tasks are managed in a physical notebook, in a system I've dubbed the **[Daily Driver Task Management System](https://dannb.org/blog/2020/daily-driver-task-management-system/)**.
 
-I use **[Obsidian](https://obsidian.md)** as a second brain, and I've written about various systems to manage different workflows:
+I use **[Obsidian](https://obsidian.md)** as a second brain, syncing across all my devices with **[Obsidian Sync](https://obsidian.md/sync)** ($8/mo) and **[backing everything up to Github](https://dannb.org/blog/2024/obsidian-backup-github/)** for free.
+
+There's a **[tour of my personal Obsidian vault](https://youtu.be/VdJoWe0Wwkg)** on YouTube, and I've shared various systems both on my YouTube channel and here:
 
 - [My Obsidian Daily Note Template](https://dannb.org/blog/2022/obsidian-daily-note-template/)
 - [My Obsidian People Note Template](https://dannb.org/blog/2022/obsidian-people-note-template/)
@@ -38,3 +40,4 @@ I've also published FinOps content sharing what I've learned. Here are my favori
 - [Convincing Your Company Adopt Finops](https://dannb.org/blog/2023/convincing-your-company-adopt-finops/)
 - [Avoiding Lone FinOps Purgatory: When and how to grow your FinOps team](https://dannb.org/blog/2023/grow-your-finops-team/)
 
+I'm in the process of writing a book called _FinOps for Startups_ and I'm **[documenting the entire book research process](https://finopsforstartups.com)** in an effort to _Learn in Public_. You can **[subscribe](https://subscribe.finopsforstartups.com/)** to follow along.
