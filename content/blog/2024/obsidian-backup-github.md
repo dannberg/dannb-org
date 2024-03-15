@@ -5,6 +5,8 @@ description: "How to back up your Obsidian vault to Github for free, and automat
 url: /blog/2024/obsidian-backup-github
 categories:
   - Productivity
+images:
+  - /images/blog/2024/03/obsidian-github-backup-og.jpg
 tags:
   - obsidian
   - notetaking
