@@ -1,12 +1,18 @@
 ---
-title: "Obsidian Backup Github"
+title: "How I back up my Obsidian vault to Github (free & cheap options)"
 date: 2024-03-15T08:25:27-04:00
-description: ""
+description: "How to back up your Obsidian vault to Github for free, and automate recurring backups"
 url: /blog/2024/obsidian-backup-github
 categories:
-  - ""
+  - Productivity
 tags:
-  - TKTK
+  - obsidian
+  - notetaking
+  - journaling
+  - getting things done
+  - macOS
+  - building a second brain
+  - backup
 draft: true
 ---
 ![Illustration of backing up your obsidian vault to github. Both logos with an arrow between them](/images/blog/2024/03/obsidian-github-backup-main.jpg)
