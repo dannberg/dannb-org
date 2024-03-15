@@ -13,7 +13,6 @@ tags:
   - macOS
   - building a second brain
   - backup
-draft: true
 ---
 ![Illustration of backing up your obsidian vault to github. Both logos with an arrow between them](/images/blog/2024/03/obsidian-github-backup-main.jpg)
 
