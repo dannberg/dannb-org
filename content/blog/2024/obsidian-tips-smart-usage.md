@@ -14,7 +14,7 @@ tags:
   - productivity
   - building a second brain
 ---
-![MacOS desktop with Obsidian open to graph view. Also an iPhone with Obsidian app open to daily note. Obsidian icon in the top right corner](/images/blog/2024/03/obsidian-tips-lead.jpg)
+![MacOS desktop with Obsidian open to graph view. Also an iPhone with Obsidian app open to daily note. Obsidian icon on the top right corner](/images/blog/2024/03/obsidian-tips-lead.jpg)
 
 This post is now available as a _YouTube video_! Watch **[Use these 10 Obsidian tips to level up your note taking productivity](https://youtu.be/hD-sSRGynpM)** instead of reading, or _go wild_ and do both.
 
