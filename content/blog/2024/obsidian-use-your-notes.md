@@ -16,6 +16,10 @@ tags:
 ---
 ![MacOS desktop with Obsidian open to graph view. Also an iPhone with Obsidian app open to daily note. Obsidian icon on the left side. Obsidian logo wearing a hard hat. Construction barrier on right side.](/images/blog/2024/03/obsidian-use-your-notes-main.jpg)
 
+This post is now available as a 📺 _YouTube video_! Watch **[5 Ways to Actually USE the Notes You Take](https://youtu.be/t8XQNtv6nIY)** instead of reading, or _go wild_ and do both.
+
+---
+
 Congratulations. You're now a diligent note-taker. Your Obsidian Graph makes internet strangers green with envy. You've got systems upon systems, and specific homes for every piece of information you want to squirrel away.
 
 Now what?
@@ -95,8 +99,8 @@ You might like:
 - [My Obsidian Meeting Note Template](https://dannb.org/blog/2023/obsidian-meeting-note-template/)
 - [My Obsidian Physical Object Template](https://dannb.org/blog/2024/obsidian-physical-object-template/)
 
-{{< youtube hD-sSRGynpM >}}
+{{< youtube t8XQNtv6nIY >}}
 
-**Prefer video content?** Check out my other Obsidian content on YouTube!
+**Prefer video content?** This entire post is now a 📺 YouTube video. Watch, like, comment over there, and then subscribe to keep up-to-date with future videos.
 
 If you've read this far, you might also really enjoy my [free monthly newsletter](https://dannberg.substack.com/). Each month, I share five cool new things I found. These can be products, articles, apps, movies, concepts, and anything else. Feel free to [check out the archive](https://dannberg.substack.com/archive) to see if it's something you might like, and subscribe to get each edition in your email.
