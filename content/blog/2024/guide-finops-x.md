@@ -60,7 +60,7 @@ Alternately—and this is what I'm doing—you can add the sessions you want to 
 ### Think about after-hours
 FinOps X offers a full day and evening of activities. But there are also tons of after-hours, both official and unofficial. Start thinking about how you want to be spending *this* time.
 
-First, check out the [Conference Parties website for FinOps X](https://conferenceparties.com/finopsx2024/). It's an unofficial list of all the vendor-sponsored events happening in and around the conference. My advice is to RSVP to all of these[^3], that way you have the flexibility to attend the events that you want to attend in the moment.
+The official FinOps X agenda lists several afterparties. These sponcored events on on the conference grounds, so they're all easy to attend. My advice is to RSVP to all of these[^3], that way you have the flexibility to attend the events that you want to attend in the moment.
 
 [^3]: RSVPing is "free" but also not free—you're exchanging entrance to their party in exchange for being added to their lead list. This is totally a fair trade in my mind. Even if you're not actively looking for a new FinOPs product now, you may be in the future. And hearing different companies' pitches will help you stay on top of what's happening in the industry.
 
