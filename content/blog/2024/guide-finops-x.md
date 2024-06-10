@@ -31,7 +31,7 @@ First, to give some background for anyone unfamiliar, FinOps X is *the* event in
 
 [^1]: This definition is my own, and way over simplifies things. If you want to learn more about FinOps, check out [finops.org](https://finops.org).
 
-Now in its third year, **FinOps X** is a week-long conference organized and hosted by the FinOps Foundation, a non-profit organization that's part of the Linux Foundation. The Foundation works hard all year to "advance the people who manage the value of the cloud." FinOps X is where all the people who work in this small-but-growing field can come together, network, and share knowledge.
+Now in its third year, **FinOps X** is a half-week conference organized and hosted by the FinOps Foundation, a non-profit organization that's part of the Linux Foundation. The Foundation works hard all year to "advance the people who manage the value of the cloud." FinOps X is where all the people who work in this small-but-growing field can come together, network, and share knowledge.
 
 Needless to say, it's an *extremely valuable* conference to attend for anyone in FinOps or FinOps-adjacent roles.
 
@@ -81,9 +81,9 @@ Write down a list of names. Or you can keep it in your head, but I recommend wri
 
 Next, think about *how* you plan to grow your network. Meaning, how do you want people to contact you? How do you want to contact other people? What sort of tangible connections do you want to make?
 
-For example, maybe you'll want to connect with people on LinkedIn. Did you know that you can just [give people a QR code](https://www.linkedin.com/help/linkedin/answer/a525286/using-a-linkedin-qr-code-to-connect-with-members) that links to your profile? You should know how to quickly access that code, or (pro-tip) *take a screenshot and keep it handy in your phone's photos*.
+For example, maybe you'll want to connect with people on LinkedIn. From what I hear, each attendee's badge will include a QR code on the back that links to their LinkedIn profile. These can be scanned with any smartphone's camera app to navigate directly to someone's profile. You may also want to review how to [pull up that QR code yourself](https://www.linkedin.com/help/linkedin/answer/a525286/using-a-linkedin-qr-code-to-connect-with-members), just in case. (Pro-tip for other conferences: *take a screenshot of that QR code and keep it handy in your phone's photos*.)
 
-My personal preference is LinkedIn. But maybe you want people to connect with you a different way. You might want to make your own QR code that links directly there. [QRCode Monkey](https://www.qrcode-monkey.com) is a free website to generate QR codes that don't expire.
+I personally like using LinkedIn, but maybe you want to connect with people a different way. You can generate _your own_ free QR code that links whereever you want. [QRCode Monkey](https://www.qrcode-monkey.com) is a great website to generate basic QR codes that don't expire.
 
 Whatever system you choose, I recommend also have a place where you can jot quick notes *about* people you meet. This will make your post-conference life so much easier, since you'll be meeting a LOT of people.
 
