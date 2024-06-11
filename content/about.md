@@ -3,6 +3,7 @@ title: "About"
 date: 2020-10-12T08:00:00-04:00
 description: "Dann Berg is the person who made this website. He's in New York City."
 ---
+![Dann looking at his black iPhone 14 Pro Max and smiling awkwardly. Studio photography, teal shirt with a black background.](/images/dann-looking-at-phone.jpg)
 
 **Hello.** I am {{< dann >}} and this is my website. It hosts all my writing on technology, finance, productivity, entrepreneurship, writing, and more. It also serves as a centralized hub to link together my creative output.
 
