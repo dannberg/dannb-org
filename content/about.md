@@ -32,4 +32,6 @@ In terms of the **[Shop](https://dannberg.storenvy.com/)**, I've been printing s
 
 If you have any feedback or want to get in contact with me, feel free to shoot me an email at **dann [at] dannb [dot] org**. Or just shoot me an DM on **[LinkedIn](https://www.linkedin.com/in/dannberg/)**.
 
+📸 Photography on About page by [Brian Goldfarb](https://www.briangophoto.com).
+
 **Disclosure:** _The opinions expressed here are my own and do not represent those of my employer, or any other party. Usually no one sees them before they're published._
