@@ -1,6 +1,6 @@
 ---
 title: "How Kagi finally let me lay Google Search to rest"
-date: 2023-10-01T08:40:27-04:00
+date: 2024-08-01T08:40:27-04:00
 description: "Google Search is dead to me. Here's how and why Kagi's high quality results and compelling value proposition allowed me to fully make the switch."
 url: /blog/2023/how-kagi-beats-google
 categories:
@@ -16,20 +16,22 @@ tags:
 ---
 ![Kagi search dog and logo](/images/blog/2023/09/kagi-search-logo-dog.jpg)
 
+*Originally published 2023-10-01.*
+
 I'm a [Kagi](https://kagi.com) convert, having switched from Google Search in July of 2022 and never looking back. I'm also a vocal supporter of Kagi, frequently mentioning it in [my newsletter](https://dannberg.substack.com/) and encouraging people to give Kagi a try whenever the opportunity arises.
 
 For those unfamiliar, Kagi is a search engine with a novel[^1] business model: end users pay for a service. Instead of monetizing users through advertising and affiliate marketing (like every other search engine), Kagi charges a monthly fee.
 
-[^1]: It's novel — unthinkable! — for search engines, but is really the oldest business model in the world.
+[^1]: It's novel — unthinkable! — for search engines to be a paid service, but that's really the oldest business model in the world.
 
 I'm both a user and vocal supporter of Kagi, and I also have big *thoughts and opinions*. Both on the state of search today, where it's going in the future, and why it's important to support companies like Kagi. Additionally, I was blown away by the quality of Kagi's search results, which is what first encouraged me to make the switch, and I wanted to dive into the details in case anyone reading is on the cusp of trying this new search engine.
 
-This post is not an ad; I'm just a happy customer. And I'll gladly pay for products I like, and actively hope others support these products, too, so that the companies that make them can survive.
+This post is not an ad; I'm just a happy customer. And I'll gladly pay for products I like and actively hope others support these products, too, so that the companies that make them can survive.
 
 With that said, let's kick things off with a little background on *Internet Search* as it exists today.
 
 ## Wow, Google Search *sucks*
-It may be easy to miss, but [Google Search is dying](https://dkb.blog/p/google-search-is-dying). Search results are dominated by ads SEO-optimized junk. More and more, people append words like "reddit" to the end of their search to try and bubble up any semblance of a useful response.
+It may be easy to miss, but [Google Search is dying](https://dkb.blog/p/google-search-is-dying). Search results are dominated by ads and SEO-optimized junk. More and more, people append words like "reddit" to the end of their search to try and bubble up any semblance of a useful response.
 
 According to the author above blog post (with whom I agree): "serving ads creates misaligned incentives for search engines." It's impossible to both provide the best search results *and* try to optimize for the highest amount of ad-clicks. And if you're a public company with an ad-based business model, you are *legally required* to optimize for the latter. Ads *inherently* create misaligned incentives.
 
@@ -67,7 +69,7 @@ Almost every search engine you use will eventually serve a satisfying answer. In
 Most online search queries fall into one of the following categories:
 
 1. Instructions (ie coding, recipe, how to)
-2. Event (ie past or current news, )
+2. Event (ie past or current news)
 3. Fact (ie movie run time, celebrity age)
 4. Solution (ie product recommendation)
 5. Exploration (ie research, education)
@@ -83,7 +85,7 @@ In addition to different search categories, there are two main contexts for sear
 
 Most searches are ad hoc — you will be performing some work or a task and hit a knowledge-based road block. In these cases, you want to be able to immediately execute a search, quickly find a satisfying result, and return to your previous context.
 
-Alternatively (and less frequently) searches can be relaxed, which is to say exploratory and meandering. You might be researching a vacation to Istanbul, or coming up with activities for kids on rainy days. The goal is to look at several different websites and sources, collect data, and process it at a leisurely basis. There is no right or wrong answer, per say. Your goal instead is to have a greater understanding of a topic based on multiple sources.
+Alternatively (and less frequently) searches can be relaxed, which is to say exploratory and meandering. You might be researching a vacation to Istanbul, or coming up with activities for kids on rainy days. The goal is to look at several different websites and sources, collect data, and process it at a leisurely pace. There is no right or wrong answer, per say. Your goal instead is to have a greater understanding of a topic based on multiple sources.
 
 When attempting to kick the tires of a search engine, often times we'll input a more relaxed search query and attempt to measure the quality of the engine by the results. Instead, it's really ad hoc searches where the differences in quality are most apparent.
 
@@ -108,7 +110,7 @@ The two I use most frequently are a [Reddit lens](https://kagi.com/lenses/IRpSaJ
 Additionally, I've found several of the default lenses to be useful and interesting, especially PDFs, Forums, and Small Web.
 
 ### Universal Summarizer
-I also find myself using the [Universal Summarizer](https://blog.kagi.com/universal-summarizer) feature *all the time*. Often, an article or blog post will look interesting but I don't have the time or mental capacity to read it immediately. I use Readwise's [Reader](https://readwise.io/read) as a read-it-later, but my reading queue there is long and grows faster than I read.
+I also find myself using the [Universal Summarizer](https://blog.kagi.com/universal-summarizer) feature *all the time*. Often, an article or blog post will look interesting but I don't have the time or mental capacity to read it immediately. I use [Omnivore](https://omnivore.app) as my read-it-later service of choice, but my reading queue there is long and grows faster than I read.
 
 If I'm not sure if the article is worth saving to read later, I'll use Kagi's Universal Summarizer to get a gist of the article. This will either convince me to save it, or at least allow me to make peace with releasing it back into the wild unconsumed.
 
@@ -123,6 +125,8 @@ This functionality isn't super useful to me — [TypingMind](https://www.typingm
 
 ### Orion Browser
 I'd be remiss if I didn't at least mention Kagi's web browser [Orion](https://browser.kagi.com/). I haven't put in the work to switch default browsers (which feels like a more Herculean task than switching search engines) but Orion seems like a compelling choice. Both speed and memory usage stats are compelling, and it's compatible with both [Chrome and Firefox extensions](https://help.kagi.com/orion/why-orion/orion-vs-safari.html), giving users "users access to the largest extensions ecosystem in the world."
+
+UPDATE August 2024: I've been using Orion for MacOS and iOS as my primary browser for eight months now. There are a [handful of bugs](https://orionfeedback.org/) but development happens fast, the team is very active, and overall I'm super happy with these products.
 
 ## The not-quite-there
 
