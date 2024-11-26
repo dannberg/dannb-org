@@ -7,7 +7,7 @@ description: "Dann Berg is the person who made this website. He's in New York Ci
 
 **Hello.** I am {{< dann >}} and this is my website. It hosts all my writing on technology, finance, productivity, entrepreneurship, writing, and more. It also serves as a centralized hub to link together my creative output.
 
-Professionally, I lead FinOps at [Squarespace](https://www.squarespace.com) and provide part-time community support for the non-profit trade association **[FinOps Foundation](https://finops.org)**. I'm also working on a few independent educational FinOps projects (like my upcoming book ***[FinOps for Startups](https://finopsforstartups.com)***!). Previously, I've served in senior FinOps roles at several tech startups, including _Senior FinOps Analyst_ / _Team Lead_ at **[Datadog](https://www.datadoghq.com)** and _Senior Technical Program Manager for Cloud Costs_ at **[FullStory](https://www.fullstory.com/)**. I was also *Director of Community* at **[Vantage](https://www.vantage.sh/)**, a cloud cost visibility tool in the FinOps space. I live in Brooklyn, New York.
+Professionally, I lead FinOps at **[Squarespace](https://www.squarespace.com)** and provide part-time community support for the non-profit trade association **[FinOps Foundation](https://finops.org)**. I'm also working on a few independent educational FinOps projects (like my upcoming book ***[FinOps for Startups](https://finopsforstartups.com)***!). Previously, I've served in senior FinOps roles at several tech startups, including _Senior FinOps Analyst_ / _Team Lead_ at **[Datadog](https://www.datadoghq.com)** and _Senior Technical Program Manager for Cloud Costs_ at **[FullStory](https://www.fullstory.com/)**. I was also *Director of Community* at **[Vantage](https://www.vantage.sh/)**, a cloud cost visibility tool in the FinOps space. I live in Brooklyn, New York.
 
 FinOps, for those unfamiliar, is a burgeoning new engineering discipline helping organizations get maximum business value by leveraging the variable spend model of the cloud (learn more at **[FinOps.org](https://www.finops.org/)**). I'm also active in the wider FinOps community, previously serving as a **[FinOps Foundation Ambassador](https://www.finops.org/about/ambassadors/#ambassadors)**, and running an open monthly **FinOps Meetup** from 2020 to 2023. Now that I'm officially at the FinOps Foundation part time, I'm helping run member-only **[Community Calls](https://www.finops.org/community/events/?prod_wp-events[toggle][has_spaces]=true&prod_wp-events[refinementList][tag][0]=Community%20Call&prod_wp-events[refinementList][region][0]=North%20America)**.
 
@@ -32,6 +32,6 @@ In terms of the **[Shop](https://dannberg.storenvy.com/)**, I've been printing s
 
 If you have any feedback or want to get in contact with me, feel free to shoot me an email at **dann [at] dannb [dot] org**. Or just shoot me an DM on **[LinkedIn](https://www.linkedin.com/in/dannberg/)**.
 
-📸 Photography on About page by [Brian Goldfarb](https://www.briangophoto.com).
+📸 Photography on About page by **[Brian Goldfarb](https://www.briangophoto.com)**.
 
 **Disclosure:** _The opinions expressed here are my own and do not represent those of my employer, or any other party. Usually no one sees them before they're published._
