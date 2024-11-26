@@ -3,7 +3,7 @@ languageCode = "en-us"
 title = "Dann Berg: blog, newsletter, shop, and more"
 theme = "danntheme"
 rssLimit = 20
-copyright = "2023 Dann Berg. All rights reserved."
+copyright = "2024 Dann Berg. All rights reserved."
 googleAnalytics = "G-93Y1XRNTS1"
 
 [markup]
@@ -11,7 +11,7 @@ googleAnalytics = "G-93Y1XRNTS1"
 
 [params]
   author = "Dann Berg"
-  description = "Hello, I'm Dann. I'm a Sr. FinOps Aficianado (ex-Datadog, ex-FullStory) and writer of blogs and plays on the side. Here be thoughts on finops, technology, productivity, & more."
+  description = "Hello, I'm Dann. I lead FinOps at Squarespace (ex-Datadog, ex-FullStory) and write newsletters, blogs, and plays on the side. Here be thoughts on finops, technology, productivity, & more."
   images = ["dberg-main-og-image.jpg"]
 
 [[menu.main]]
