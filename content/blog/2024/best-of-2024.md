@@ -219,3 +219,9 @@ The right objects or tools can have an outsized impact on quality of life and pr
 - Add 400+ new subscribers to *The Dann Chronicles* newsletter
 - In addition to the newsletter, publish at least ten posts to [dannb.org](https://dannb.org)
 - Attend Burning Man for the first time
+
+Thanks for reading! I hope you've all had a successful year (however you define success).
+
+These days, I publish on three main platforms, so if you want to follow me in 2025, subscribe to 1) this site via [RSS](https://dannb.org/index.xml), 2) my [newsletter](https://thedannchronicles.com), or 3) [YouTube](https://www.youtube.com/@dannberg).
+
+Have a great year! 🎊
