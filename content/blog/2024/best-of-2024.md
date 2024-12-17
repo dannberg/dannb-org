@@ -1,7 +1,7 @@
 ---
-title: "My best of 2024: a year in review"
+title: "My stats and more in 2024: a year in review"
 date: 2024-12-16T10:20:00-05:00
-description: "As 2024 wraps up, here's a reflection on my accomplishments and favorite moments, from website performance to fun and entertainment"
+description: "As 2024 wraps up, here's a roundup of stats and analytics from my various online properties, plus reflections on my accomplishments and favorite moments/things"
 url: /blog/2024/best-of-2024
 categories:
   - Life
