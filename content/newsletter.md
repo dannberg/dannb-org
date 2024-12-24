@@ -16,6 +16,6 @@ It's way more than just a bare-bones link dump — each month you'll find short 
 
 I know that sounds vague, so feel free to **[read a sample](https://dannberg.substack.com/)** or two before you subscribe.
 
-**Join >800 people and sign up to get next month's newsletter!**
+**Join >1,000 people and sign up to get next month's newsletter!**
 
 {{< substack >}}
