@@ -3,7 +3,7 @@ title: "Start Here"
 date: 2024-02-22T09:39:35-05:00
 description: "New here? Start your journey into Dann Berg’s key content, productivity tips, FinOps expertise, and annual insights."
 ---
-![A blue geolocation pin, casting a small shadow](/images/blog/2024/02/geolocation-pin.png)
+![A blue geolocation pin, casting a small shadow](/images/blog/2025/01/map-icon.png)
 
 As I create more content, I feel like it's easier for certain things to get buried or forgotten. Likewise, I share content across this website, an email newsletter, and YouTube, so it can be hard to get a full picture of all the things I'm putting out into the world.
 
