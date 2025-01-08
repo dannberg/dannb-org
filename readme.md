@@ -36,6 +36,7 @@ Main OG Image URL: `https://dannb.org/dberg-main-og-image.jpg`
 # To Do
 
 - [ ] Add cookie consent banner, since this website uses Google Analytics
+- [ ] Switch to [Tailwind CSS](https://tailwindcss.com)
 - [ ] Article categories in alphabetical order
 - [ ] ~~Add sections for books?~~
 - [ ] ~~Add _Dinners of Note_ section~~
