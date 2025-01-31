@@ -13,6 +13,7 @@ My solution? A "Start here" page for this website. This will be updated as neces
 - [Articles](https://dannb.org/blog) ([RSS](https://dannb.org/index.xml))
 - [Newsletter](https://thedannchronicles.com)
 - [YouTube](https://www.youtube.com/@DannBerg)
+- [Github](https://github.com/dannberg)
 
 ### How I work
 Every time I set up a new MacOS laptop (not *often*, but enough) I always tend to do the same tasks to customize my digital life. Here's **[what they are](https://dannb.org/blog/2023/how-dann-sets-up-new-computer/)**.
