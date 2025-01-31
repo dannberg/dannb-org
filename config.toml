@@ -3,11 +3,14 @@ languageCode = "en-us"
 title = "Dann Berg: blog, newsletter, shop, and more"
 theme = "danntheme"
 rssLimit = 20
-copyright = "2024 Dann Berg. All rights reserved."
+copyright = "2025 Dann Berg. All rights reserved."
 googleAnalytics = "G-93Y1XRNTS1"
 
 [markup]
   defaultMarkdownHandler = "goldmark"
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
 
 [params]
   author = "Dann Berg"
