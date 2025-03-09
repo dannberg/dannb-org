@@ -5,6 +5,8 @@ description: "A deep dive into my personal experience with Function Health's 100
 url: /blog/2025/function-health
 categories:
   - "Life"
+images:
+  - /images/blog/2025/03/function-health-100-tests-og.jpg
 tags:
   - function health review
   - Health data tracking
@@ -15,7 +17,7 @@ tags:
   - Wellness testing reviews
   - How to monitor your health
 ---
-![Blood collection vials at a Function Health testing center - A Function Health blood test experience.](/images/blog/2025/03/function-health-og.jpg)
+![Blood collection vials at a Function Health testing center - A Function Health blood test experience.](/images/blog/2025/03/function-health-100-tests-og.jpg)
 
 The healthcare system in the United States *sucks* for a multitude of reasons. At its core, many of these issues stem from a system that disempowers both patients and doctors. For-profit insurance companies act as middlemen, often making essential care unaffordable—or completely out of reach—by overruling the decisions of highly trained physicians.
 
