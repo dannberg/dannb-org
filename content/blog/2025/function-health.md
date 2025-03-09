@@ -32,7 +32,7 @@ If you found this article interesting and decide to try *Function Health* yourse
 Let's start zoomed out and talk about how I see a service like Function Health fitting in to my life.
 
 # My general life philosophy
-My **general life philosophy** can be drilled down to two things:
+My **general life philosophy** boils down to two principles:
 
 1. Find the minimum amount of effort that outputs the greatest results
 2. Identify experts in various fields, and use their vast experience to drive my actions and decision making
@@ -52,9 +52,9 @@ And that brings us back to **Function Health**, a service I feel provides *exact
 # Before Function Health
 I've been getting an annual-ish Physical since my mid-20's. Part of these physicals is blood work, which is typically the most enlightening part of these exams.
 
-In 2023, my Lipid Profile results showed a few components that were out-of-range: Cholesterol, LDL Cholesterol (Calc), and Non-HDL Cholesterol. These numbers weren't *dramatically* high, but I were something I knew I wanted to address, despite a followup note from my doctor saying he wasn't actually concerned with these results.
+In 2023, my Lipid Profile results showed a few components that were out-of-range: Cholesterol, LDL Cholesterol (Calc), and Non-HDL Cholesterol. These numbers weren't *dramatically* high, but they were something I knew I wanted to address, despite a followup note from my doctor saying he wasn't actually concerned with these results.
 
-For the next few months after the test, I made some minor dietary changes that I hoped would help address these numbers. Then, I got less motivated and stopped eating quite as healthy. Throughout the year, I'd slip in and out of these positive habits, never knowing if they were actually impacting my Cholesterol levels or not.
+For the next few months after the test, I made some minor dietary changes that I hoped would help address these numbers. Then, my motivation waned and my healthy eating habits slipped. Throughout the year, I'd slip in and out of these positive habits, never knowing if they were actually impacting my Cholesterol levels or not.
 
 A year is a long time to stay motivated when there are no indicators of positive progress. I don't feel any difference when my blood markers are *in range* versus *out of range*.
 
@@ -71,7 +71,7 @@ From their [FAQ](https://www.functionhealth.com/faq):
 >
 > To get all the tests included in your Function membership, you would need to work with a doctor willing to request these 100+ tests. Doctors rarely have the time needed to review this many tests, let alone to understand and explain your results to you. They also want to avoid creating financial burdens on their patients who may be billed for any advanced lab tests. You would also likely miss out on insights from the world’s top doctors based on your specific results.
 
-The tests included in Function membership are curated by the company's medical team and are judged to be "both valid and important for revealing the deepest understanding of your health."
+The company's medical team curates tests they judge to be "both valid and important for revealing the deepest understanding of your health."
 
 This perfectly matches rule two of my general life philosophy: utilizing expert opinion to drive my actions and decision making. I'm not a doctor and have no idea what blood tests are helpful in determining overall health. It is appealing to me to have access to this thoughtfully-picked collection of tests that could provide the biggest bang for my buck.
 
@@ -146,13 +146,15 @@ For every test, you can see your results as compared to the optimal range.
 
 Each biomarker also has a detailed description in a section titled "Why it matters?" (sic). This provides information about the function of each biomarker, what impacts the biomarker, as well as the consequences of being out-of-range.
 
-Did I use all of this information? The answer is a definitive *no*. In fact, it feels sort of overwhelming—the sheer amount of information about each marker.
+Did I use all of this information? Definitely not. The sheer amount of information about each marker feels overwhelming.
 
 But I understand *why* it needs to be there. If you search for any individual one of these biomarkers, you'll get a barrage of information to sift through. Some of it will be more accurate than others. Instead, having a one-stop-shop for results and information about said results is the ideal UX design.
 
 At the bottom of the Function app home screen is a summary of all your results by category. It's easy to see how you're doing in each.
 
 ![Screenshot from Function Health, showing all the categories, such as Autoimmunity, Biological Age, Heart, Heavy Metals, Kidneys and more. Each category shows the number of in range and out of range markers.](/images/blog/2025/03/function-health-categories.jpg)
+
+The very first out-of-range biomarkers that started coming in were all related to Male Health: Estraiol (E2), Follicle Stimulating Hormone (FSH) and Sex Hormone Binding Globulin (SHBG). These were each *barely* over the threshold, and further reading said that these can be effected by the *exact* type of fish I had three days earlier. Phew.
 
 ## Clinician notes
 Having this abundance of raw data is all well and good, but it's really the expert opinion that's the true value of this service. As you can see, I have several biomarkers that are out-of-range, but it's hard to know *which ones are urgent* and which ones matter less. Twenty eight days after my initial test (exactly four weeks) I had my clinician notes available in my dashboard.
@@ -195,7 +197,7 @@ What role did Function Health play towards this achievement? It's hard to say. B
 
 There are two main components that occupy brain space as a direct result of Function Health: heart health and the need for supplements.
 
-My annual physical highlighted cholesterol as an area that needs focused attention. Function Health also pointed in this direction, with seven of the fifteen biomarkers testing out-of-range. I've cut red meat out of my diet entirely and am tried to eat more heart healthy foods.
+My annual physical highlighted cholesterol as an area that needs focused attention. Function Health also pointed in this direction, with seven of the fifteen biomarkers testing out-of-range. I've cut red meat out of my diet entirely and am tried to eat more heart-healthy foods.
 
 I also have started taking taking some daily supplements, including Bryan Johnson's [Longevity Mix](https://amzn.to/3DpMzpQ) and Nordic Naturals [Ultimate Omega](https://amzn.to/43yjiUz). The desire to add both of these to my diet is a direct result of my Function Health results.
 
@@ -210,9 +212,9 @@ I was shown to my room by a Medical Assistant, who took my weight and blood pres
 
 I explained the value proposition: that it gives you access to over a hundred blood tests that typically aren't available to patients. You can then test every six months to track your progress in each area.
 
-She seemed skeptical but intrigued. But had other work to do, so told me the doctor would be in soon and went about her business.
+She seemed skeptical but intrigued, though she had other work to do, so told me the doctor would be in soon and went about her business.
 
-When my doctor arrived, I asked him the same question. He stopped me before I even finished my question, and told me not to waste my money. In his opinion, one of the biggest problems with medical advances becoming more accessible is that totally benign things become big problems that suddenly need to be addressed.
+When my doctor arrived, I asked him the same question. He stopped me before I even finished my question and told me not to waste my money. In his opinion, one of the biggest problems with medical advances becoming more accessible is that totally benign things become big problems that suddenly need to be addressed.
 
 He told me the story of a rich friend of his who decided he wanted to get a full body preventative MRI. This isn't what Function Health does, but Function Health falls into the same category: making typically out-of-reach medical tests available to paying customers.
 
@@ -248,9 +250,9 @@ Ultimately, Function Health is just an expensive way to tell yourself: eat healt
 
 For some people, the Apple Watch is a huge motivator. Closing the daily rings, having competitions with other Apple Watch owners, getting hourly reminders to stand can all drive positive action in a certain type of person. But at the end of the day, each of these Apple Watch functions are all driving one thing: a more active lifestyle. If you can motivate yourself to be more active without an Apple Watch, you'll get the same results.
 
-Likewise, Function Health is a motivator for a certain type of person. Before purchasing, ask yourself: *am I the type of person who will be motivated be this?*
+Likewise, Function Health is a motivator for a certain type of person. Before purchasing, ask yourself: *am I the type of person who will be motivated by this?*
 
-For me, the answer is *yes*. At least, that's how I feel three months after the purchase. The real challenge will be next year, when it comes time to decide if I want to drop another $500 (plus lab fees) on another year or not.
+For me, the answer is *yes*. At least, that's my perspective three months in. The real challenge will be next year, when it comes time to decide if I want to drop another $500 (plus lab fees) on another year or not.
 
 If you, too, feel like you're the time of person to be motivated by something like this (and you have the money) I say go for it. But know that data is only as useful as you make it, so signing up and doing the testing is only the first step towards positive change.
 
