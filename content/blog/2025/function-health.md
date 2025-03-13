@@ -1,7 +1,7 @@
 ---
-title: "My Honest Function Health Review: 100+ Tests and What I Discovered"
+title: "My honest Function Health review: 100+ tests and what I discovered"
 date: 2025-03-08T14:46:35-05:00
-description: "A deep dive into my personal experience with Function Health's 100+ lab tests, including platform navigation, comprehensive results, and whether the $499 membership is worth your investment."
+description: "I recently signed up for Function Health and turned over ten vials of blood for testing. Here's my experience getting 100+ biomarker results and if I think the $499 membership is worth your investment."
 url: /blog/2025/function-health
 categories:
   - "Life"
