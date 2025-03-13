@@ -1,7 +1,7 @@
 ---
 title: "My honest Function Health review: 100+ tests and what I discovered"
 date: 2025-03-08T14:46:35-05:00
-description: "I recently signed up for Function Health and turned over ten vials of blood for testing. Here's my experience getting 100+ biomarker results and if I think the $499 membership is worth your investment."
+description: "I recently signed up for Function Health and handed over 20 vials of blood for testing. Here's my experience getting 100+ biomarker results and what I think could make this $499 membership worth it."
 url: /blog/2025/function-health
 categories:
   - "Life"
