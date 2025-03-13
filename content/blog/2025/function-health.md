@@ -121,7 +121,7 @@ Also, you're specifically instructed not to provide insurance to the lab testing
 
 When I arrived at Quest Diagnostics, I signed in on their iPad scanned my photo ID, and sat in the lobby to wait to be called. It took about ten minutes.
 
-Once I got into the blood draw room, the phlebotomist reviewed my information and I confirmed that I was there as part of Function Health. She commented that Function had been getting more popular recently, and this location now gets about five members per week as part of this program. Cool!
+Once I got into the blood draw room, the phlebotomist reviewed my information and I confirmed that I was there as part of Function Health. She commented that Function had been getting more popular recently, and this location now gets about five members per week as part of this program. Good job, Function Health! That piece of information alone made me feel more confident in my decision to join. Thank you, [social proof](https://en.wikipedia.org/wiki/Social_proof).
 
 I then had to pay Quest Diagnostics for their services: just over $200 for each of the two visits. This is *on top of* the Function Health cost, and the price varies from state to state.
 
@@ -150,7 +150,7 @@ Each biomarker also has a detailed description in a section titled "Why it matte
 
 Did I use all of this information? Definitely not. The sheer amount of information about each marker feels overwhelming.
 
-But I understand *why* it needs to be there. If you search for any individual one of these biomarkers, you'll get a barrage of information to sift through. Some of it will be more accurate than others. Instead, having a one-stop-shop for results and information about said results is the ideal UX design.
+But I understand *why* it needs to be there. If you search Google (or [Kagi](https://dannb.org/blog/2023/how-kagi-beats-google/)!)for any individual one of these biomarkers, you'll get a barrage of information to sift through. Some of it will be more accurate than others. Instead, having a one-stop-shop for results and information about said results is the ideal UX design.
 
 At the bottom of the Function app home screen is a summary of all your results by category. It's easy to see how you're doing in each.
 
@@ -161,24 +161,26 @@ The very first out-of-range biomarkers that started coming in were all related t
 ## Clinician notes
 Having this abundance of raw data is all well and good, but it's really the expert opinion that's the true value of this service. As you can see, I have several biomarkers that are out-of-range, but it's hard to know *which ones are urgent* and which ones matter less. Twenty eight days after my initial test (exactly four weeks) I had my clinician notes available in my dashboard.
 
-This is the meat of membership—the thing we're paying for. More than the raw data, this is the *action plan*. This sort of data is only as valuable as one's ability to *use that data to make positive changes*.
+This is the meat of membership—the thing we're paying for. More than the raw data, this is the *action plan*. But also, this sort of data is only as valuable as one's ability to *use it to make positive changes*.
 
-In my opinion, these notes are worth the cost of membership. By the time the physician notes arrive, you've had time to watch each biomarker roll in and explore your deficiencies. You've tried your best to read the tea leaves yourself and make sense of your results.
+By the time the physician's notes arrive, you've had time to watch each biomarker result roll in and research your deficiencies on your own. You've tried your best to read the tea leaves yourself using the generic information that Function Health provides. This note sheds light on the aspects of your health you're already thinking about.
 
-The clinician's note summary is particularly useful, since it hits on all the same points that you've been wondering about yourself. The summary section text feels totally personalized, with touches of stock phrases to ensure accuracy and professionalism.
+For me, these notes are worth the cost of membership. It feels like the type of information and advice I always *wanted* to get from my doctors, but never did.
+
+The clinician's note contains a summary section followed by details specific to each category. The summary is particularly useful, since it hits on all the same points that you've been wondering about (worrying about?) yourself. The summary section text feels totally personalized, with only touches of stock phrases that really just serve to ensure accuracy and professionalism.
 
 For my clinician report, this summary section was split into three paragraphs totally 415 words. The first section touched on the areas requiring attention as well as biomarkers that were out-of-range but aren't actually worrisome. The next section is the positives, and how each tie together to make a greater whole. The final paragraph is an overall summery with specific action steps.
 
-In addition to the summary section of the clinician note, each category also has it's own description paragraph. These also feel like a mix of stock responses and personalized text, especially for categories where there are zero biomarkers out of range. For the personalized touches, the clinician will refer back to your goals from the intake form.
+The category-specific sections of the physician's note is also personalized, but much more generic feeling (especially in categories where there are zero out-of-range biomarkers. Personalization comes from the note mentioning specific goals of yours from your intake survey, which means the clinition actually read my responses.
 
 ![Screenshot from Function Health, showing the clinician's note for Electrolytes. All markers are in range and the description is thorough and personalized.](/images/blog/2025/03/function-health-electrolytes-note.jpg)
 
-For categories with biomarkers that are out-of-range, the clinician notes provide detailed context for these results and how each component impacts the others to tell a broader story. These include possible recommendations for diet change or supplements to consider, with a caveat that all changes should be discussed with one's doctor.
+For categories with biomarkers that are out-of-range, the clinician notes provide detailed context for these results and how each component impacts the others to tell a broader story. These include possible recommendations for diet change or supplements to consider, with a disclaimer that all changes should be discussed with one's doctor.
 
 ## "Your Action Plan"
-There's a section of the app/website adjacent to the clinician notes called "Your Action Plan." This section is currently marked "ALPHA", meaning this feature is in a preliminary stage and subject to change and updates. Function Health needs to walk a find line with this section, in the same way a lawyer might say "this is not official legal advice" before providing their thoughts.
+There's a section of the app/website adjacent to the clinician notes called "Your Action Plan." This section is currently marked "ALPHA", implying that this feature is in a preliminary stage and subject to change and updates. Function Health needs to walk a find line with this section, in the same way a lawyer might say "this is not official legal advice" before providing their thoughts.
 
-The fine print at the bottom of the Function Health website makes it clear that all information provided is "strictly for general information purposes":
+The fine print at the bottom of the Function Health website makes it clear that all information provided is "strictly for general information purposes" (captured March 8, 2025):
 
 > Function health does not offer medical advice, laboratory services, a diagnosis, medical treatment, or any form of medical opinion, through our services or otherwise. Function health’s services are not a substitute for medical care, medical advice, and/or a detailed discussion with your primary care physician or other licensed provider.
 
@@ -188,73 +190,73 @@ With that legalese expressly stated, the Your Action Plan section includes both 
 
 While these recommendations are personalized based on your specific test results, I imagine they remain relatively similar for all members. But it's a nice reminder of changes one can make in order to improve one's results for next time.
 
-Overall, I found this information useful and have started incorporating minor changes into my diet. I'll be interested to see how these changes impact my results in subsequent follow up tests.
+Overall, I found this information useful and have started incorporating minor adjustments into my diet. I'll be interested to see how these changes impact my results in subsequent follow up tests.
 
 # Changes I've made
 Joining Function Health was part of a larger goal of being healthier and more active in 2025. It's being paired with tracking my caloric intake in [Lose It!](https://www.loseit.com) and tracking my weight in [Happy Scale](https://happyscale.com).
 
-So far, three months into the year, I'm still on top of all my goals. I've lost roughly ten pounds this year, more than half of the way towards my goal weight.
+So far, three months into the year, I'm still on top of all my health-related goals. I've lost roughly ten pounds so far this year, which is more than half way towards my goal weight.
 
-What role did Function Health play towards this achievement? It's hard to say. But I'm definitely still actively thinking about my results and the recommendations, and I'm excited to get my followup tests in another three months.
+What role did Function Health play towards this achievement? It's hard to say. But I'm definitely still actively thinking about my results and the recommendations and I'm excited to get my followup tests in another three months.
 
 There are two main components that occupy brain space as a direct result of Function Health: heart health and the need for supplements.
 
-My annual physical highlighted cholesterol as an area that needs focused attention. Function Health also pointed in this direction, with seven of the fifteen biomarkers testing out-of-range. I've cut red meat out of my diet entirely and am tried to eat more heart-healthy foods.
+My annual physical highlighted cholesterol as an area that needs focused attention, but the followup test showed things had improved. Function Health told me that this is *still* a good area to focus my energy, since seven of the fifteen Function Health heart biomarkers were out-of-range (compared to one out-of-range from my annual physical blood work). I've cut red meat out of my diet entirely and am trying to eat more heart-healthy foods.
 
 I also have started taking taking some daily supplements, including Bryan Johnson's [Longevity Mix](https://amzn.to/3DpMzpQ) and Nordic Naturals [Ultimate Omega](https://amzn.to/43yjiUz). The desire to add both of these to my diet is a direct result of my Function Health results.
 
-I'm feeling optimistic about sticking with these new habits. A strong motivator, for me, is my access to followup tests through Function Health to see if any of my biomarkers improve over time. I think it's super interesting to have hard data to support these behavioral changes.
+I'm feeling optimistic about sticking with these new habits. A strong motivator, for me, is my access to follow-up tests through Function Health to see if any of my biomarkers improve over time. I think it's super interesting to have hard data to support these behavioral changes.
 
-Beyond that, however, life is still largely the same. Did I need to purchase Function Health in order to make these changes? Maybe not. But what I do know is that I *didn't do this* before these tests, so it's seems straightforward to attribute this to my membership.
+Beyond that, however, life is still largely the same. Did I need to purchase Function Health in order to make these changes? Maybe not. But what I do know is that I *didn't make these changes* before these tests, so it's seems straightforward to attribute this to my membership.
 
 # The argument against Function Health
 Last week, I had my annual physical. It was my first time seeing my primary care physician since doing Function Health, and I was excited to share my results with my doctor. I had them all pulled up on my phone, ready to share.
 
-I was shown to my room by a Medical Assistant, who took my weight and blood pressure. I asked if she'd ever heard of Function Health, since Quest Diagnostics was definitely familiar with the company. She said she hadn't.
+I was shown to my room by a medical assistant, who took my weight and blood pressure. I asked if she'd ever heard of Function Health, since the phlebotomists at Quest Diagnostics were definitely familiar with the company. She said she hadn't.
 
 I explained the value proposition: that it gives you access to over a hundred blood tests that typically aren't available to patients. You can then test every six months to track your progress in each area.
 
 She seemed skeptical but intrigued, though she had other work to do, so told me the doctor would be in soon and went about her business.
 
-When my doctor arrived, I asked him the same question. He stopped me before I even finished my question and told me not to waste my money. In his opinion, one of the biggest problems with medical advances becoming more accessible is that totally benign things become big problems that suddenly need to be addressed.
+When my doctor arrived, I started to ask him the same question, but he stopped me before I could finish. He told me not to waste my money. In his opinion, patients having more and more access to tests like these is a huge problem, since totally benign conditions are suddenly perceived as significant problems that need to be addressed.
 
-He told me the story of a rich friend of his who decided he wanted to get a full body preventative MRI. This isn't what Function Health does, but Function Health falls into the same category: making typically out-of-reach medical tests available to paying customers.
+He told me the story of his rich friend who decided he wanted to get a full-body preventative MRI. This isn't what Function Health does, but the value proposition of the two companies is the same: making typically out-of-reach medical tests available to paying customers.
 
-He encouraged his friend not to do the scan, saying it was totally unnecessary, but the friend was determined.
+My doctor encouraged his friend not to do the scan, saying it was totally unnecessary. But the friend was determined.
 
-The full body MRI discovered a cyst in his pancreas. He had surgery to remove the cyst, but ended up in the hospital for five days due to complications with the procedure. The cyst was totally benign, and thus the procedure and accompanying risk was totally unnecessary.
+The full-body MRI discovered a cyst in his pancreas. He had no symptoms and his bloodwork was totally clean, but since they found the cyst, it had to be removed. He ended up in the hospital for *five days* due to complications with the surgery. It turned out the cyst was totally benign, and thus the procedure and accompanying risk were totally unnecessary.
 
-He followed up by saying that the blood tests that he orders for his annual physical are enough to catch the important things. When you test for everything, you'll inevitably find something, and you can drive yourself crazy trying to find something that doesn't actually matter. Everyone's body is different—some people will have naturally higher levels for certain biomarkers, and casting a net as wide as something like Function Health does more harm than good.
+After the story, my doctor emphasized that the blood tests he orders for his annual physicals are enough to catch important issues. When you test for everything, you'll inevitably find something, and you can drive yourself crazy trying to fix things that don't actually matter. Everyone's body is different—some people will have naturally higher levels for certain biomarkers—and casting a net as wide as something like Function Health does more harm than good.
 
-I pushed back, saying I was less interested in individual results than I am in the trends over time. I agree that a full body MRI is unnecessary, but having access to a time series of information on biomarker trends overtime can be incredibly useful.
+I pushed back, saying I was less interested in individual results than I was in the *trends over time*. I agreed that a full-body MRI is unnecessary, but having access to a time series of information on my own personal biomarker trends can be incredibly useful.
 
-But his eyes were already glazed over, and I knew I wasn't going to change anyone's opinion. I had my normal physical and my doctor was on his way to his next patent.
+But his eyes were already glazed over, and I knew I wasn't going to change anyone's opinion. I had my normal annual physical exam and then my doctor was on his way to his next patient.
 
-After he left, the Medical Assistant came back in for my blood draw. The first question she asked was how much blood Function Health needed to draw in order to do all these tests. I told her that it was two appointments with ten vials each.
+After he left, the medical assistant came back in for my blood draw. The first question she asked was how much blood Function Health needed to draw in order to do all these tests. I told her that it was two appointments with ten vials each.
 
-She laughed, and said she couldn't imagine her patient's reaction if she had to grab ten vials for a blood draw. People have a hard enough time with two.
+She laughed, and said she couldn't imagine her patients' reactions if she had to grab ten vials for a blood draw. People have a hard enough time with two.
 
-I told her about the doctor’s reaction, and that he didn’t seem to be a fan of the concept. She responded that she wasn’t surprised. “He’s old school,” she said. But she was definitely intrigued, and wanted to know more.
+I told her about the doctor's reaction, and that he didn't seem to be a fan of the concept. She responded that she wasn't surprised. "He's old school," she said. But she seemed intrigued and I wondered if she might look into the service after I left.
 
 # So, is Function Health worth it?
-All the points my doctor made against Function Health are valid. I think there’s a fine line between useful data and driving yourself crazy. Just as I don't think exploratory surgery on a healthy person is useful, so too can over-testing be problematic.
+All the points my doctor made against Function Health are valid. I think there’s a fine line between collecting useful data and overanalyzing insignificant metrics. Just as I don't think exploratory surgery on a healthy person is useful, so too can over-testing be problematic.
 
-To measure the value of Function Health, it's important to weigh the positives and negatives. This will also vary from individual to individual, since how one responds to this information is an important aspect of the value it provides.
+To measure the value of Function Health, it's important to weigh the positives and negatives. These will vary from individual to individual, since how one *responds and reacts* to this information is an important aspect of the value it provides.
 
-At the end of the day, health and fitness data is all about *behavior change*. When deciding whether or not Function Health is right for you, ask yourself the following questions:
+At the end of the day, collecting health and fitness data is all about *behavior change*. When deciding whether or not Function Health is right for you, ask yourself the following questions:
 
 - Do you believe that the data that Function Health provides will help you drive positive change in your life?
 - What is preventing you from making those changes now, without Function Health?
 - Are you the type of person who might drive yourself crazy by having this type of information?
 - Are you mentally prepared to incorporate this data and Action Plan into your life and mindset?
 
-Ultimately, Function Health is just an expensive way to tell yourself: eat healthy and exercise more. Sure, it the personalized results are way more granular than that, but when you abstract all those details away, the action items are no different than any other health journey.
+Ultimately, Function Health is just an expensive way to tell yourself: eat healthy and exercise more. Sure, the personalized results are way more granular than that, but when you abstract all those details away, the *action items* are no different than any other health journey.
 
-For some people, the Apple Watch is a huge motivator. Closing the daily rings, having competitions with other Apple Watch owners, getting hourly reminders to stand can all drive positive action in a certain type of person. But at the end of the day, each of these Apple Watch functions are all driving one thing: a more active lifestyle. If you can motivate yourself to be more active without an Apple Watch, you'll get the same results.
+For some people, the Apple Watch is a huge motivator. Closing the daily rings, having competitions with other Apple Watch owners, and getting hourly reminders to stand can all drive positive action in a certain type of person. But at the end of the day, each of these Apple Watch functions are all driving towards one thing: a more active lifestyle. If you can motivate yourself to be more active without an Apple Watch, you'll get the same results.
 
 Likewise, Function Health is a motivator for a certain type of person. Before purchasing, ask yourself: *am I the type of person who will be motivated by this?*
 
-For me, the answer is *yes*. At least, that's my perspective three months in. The real challenge will be next year, when it comes time to decide if I want to drop another $500 (plus lab fees) on another year or not.
+For me, the answer has proven to be *yes*. At least, that's my perspective three months in. The real challenge will be next year, when it comes time to decide if I want to drop another $500 (plus lab fees) on another year or not.
 
 If you, too, feel like you're the time of person to be motivated by something like this (and you have the money) I say go for it. But know that data is only as useful as you make it, so signing up and doing the testing is only the first step towards positive change.
 
