@@ -12,10 +12,23 @@
 </section>
 <section class="section">
     <h2 class="related">You may also enjoy:</h2>
-        {{ $related := (where (.Site.RegularPages.Related .) "Type" "blog") | first 3 }}
+    {{ $related := .Site.RegularPages.Related . | first 3 }}
+    {{ if $related }}
+        <ul>
         {{ range $related }}
-        <em><a href="{{ .Permalink }}">{{ .Title }}</a></em><br />
+            <li><em><a href="{{ .Permalink }}">{{ .Title }}</a></em></li>
         {{ end }}
+        </ul>
+    {{ else }}
+        <ul>
+        {{ $recent := where .Site.RegularPages "Type" "blog" | first 4 }}
+        {{ range $recent }}
+            {{ if ne .Permalink $.Permalink }}
+                <li><em><a href="{{ .Permalink }}">{{ .Title }}</a></em></li>
+            {{ end }}
+        {{ end }}
+        </ul>
+    {{ end }}
 </section>
 </div>
 {{ end }}
