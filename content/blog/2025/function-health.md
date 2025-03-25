@@ -19,6 +19,10 @@ tags:
 ---
 ![Blood collection vials at a Function Health testing center - A Function Health blood test experience.](/images/blog/2025/03/function-health-100-tests-og.jpg)
 
+---
+
+🎬 _This post is also a **[YouTube video](https://www.youtube.com/watch?v=oZ8QDyaLqwc)**!_
+
 The healthcare system in the United States *sucks* for a multitude of reasons. At its core, many of these issues stem from a system that disempowers both patients and doctors. For-profit insurance companies act as middlemen, often making essential care unaffordable—or completely out of reach—by overruling the decisions of highly trained physicians.
 
 In January, I signed up for a service that feels like a revelation: [Function Health](https://my.functionhealth.com/signup?code=DBERG12&_saasquatch=DBERG12). For $500 per year (plus a few hundred dollars for lab work, depending on your state), Function Health provides access to [over 100 blood tests](https://www.functionhealth.com/how-it-works) that would otherwise be nearly impossible for the average person to obtain. The results are then delivered in a "first-of-its-kind" Health Dashboard.
@@ -263,3 +267,9 @@ If you, too, feel like you're the time of person to be motivated by something li
 As I said at the beginning, you're welcome to use [my referral code](https://my.functionhealth.com/signup?code=DBERG12&_saasquatch=DBERG12) if you've found this useful and want to try Function Health for yourself.
 
 Here's to a healthier you. Cheers.
+
+---
+
+## Watch this on YouTube
+
+{{< youtube oZ8QDyaLqwc >}}
