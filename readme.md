@@ -35,11 +35,12 @@ Main OG Image URL: `https://dannb.org/dberg-main-og-image.jpg`
 
 # To Do
 
-- [ ] Add cookie consent banner, since this website uses Google Analytics
+
 - [ ] Switch to [Tailwind CSS](https://tailwindcss.com)
-- [ ] Article categories in alphabetical order
+- [ ] ~~Article categories in alphabetical order~~
 - [ ] ~~Add sections for books?~~
 - [ ] ~~Add _Dinners of Note_ section~~
+- [x] Add cookie consent banner, since this website uses Google Analytics
 - [x] Update Netlify image from Ubuntu Xenial to Focal
 - [x] Add [RSS feed](https://pakstech.com/blog/hugo-rss/)
 - [x] Add easter egg gif of me waving when hovering over my name in footer
