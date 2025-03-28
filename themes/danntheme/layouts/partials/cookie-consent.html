@@ -1,0 +1,55 @@
+<div id="cookie-consent-banner" class="cookie-consent-banner">
+    <div class="cookie-consent-content">
+        <div class="cookie-text">
+            <strong>Thanks for visiting</strong> 🍪<br><br>
+            This website uses <em>Google Analytics</em> (anonymously, of course) because I'm curious who is visiting this site and what they're reading.<br><br>
+            Is that okay with you?
+        </div>
+        <div class="cookie-buttons">
+            <button id="accept-cookies" class="cookie-accept-btn">Accept</button>
+            <button id="close-cookie-banner" class="cookie-close-btn">Decline</button>
+        </div>
+    </div>
+</div>
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+    const banner = document.getElementById('cookie-consent-banner');
+    const toggleLink = document.getElementById('toggle-cookies');
+
+    // Initial banner display
+    if (!localStorage.getItem('cookieConsent')) {
+        banner.style.display = 'block';
+    }
+
+    // Toggle cookies link
+    toggleLink.addEventListener('click', function(e) {
+        e.preventDefault();
+        banner.style.display = 'block';
+        localStorage.removeItem('cookieConsent');
+        // Revoke consent when toggling
+        gtag('consent', 'update', {
+            'analytics_storage': 'denied'
+        });
+    });
+
+    // Accept button
+    document.getElementById('accept-cookies').addEventListener('click', function() {
+        localStorage.setItem('cookieConsent', 'true');
+        banner.style.display = 'none';
+        // Update consent when accepted
+        gtag('consent', 'update', {
+            'analytics_storage': 'granted'
+        });
+    });
+
+    // Close button
+    document.getElementById('close-cookie-banner').addEventListener('click', function() {
+        banner.style.display = 'none';
+        // Ensure consent remains denied when banner is closed without accepting
+        gtag('consent', 'update', {
+            'analytics_storage': 'denied'
+        });
+    });
+});
+</script> 
