@@ -37,17 +37,25 @@ document.addEventListener('DOMContentLoaded', function() {
     document.getElementById('accept-cookies').addEventListener('click', function() {
         localStorage.setItem('cookieConsent', 'true');
         banner.style.display = 'none';
-        // Update consent when accepted
+        // Update consent when accepted with enhanced privacy settings
         gtag('consent', 'update', {
-            'analytics_storage': 'granted'
+            'analytics_storage': 'granted',
+            'functionality_storage': 'granted'
         });
         // Load GA script
         const gaScript = document.createElement('script');
         gaScript.src = 'https://www.googletagmanager.com/gtag/js?id={{ site.Config.Services.GoogleAnalytics.ID }}';
         gaScript.async = true;
+        gaScript.setAttribute('crossorigin', 'anonymous');
         document.head.appendChild(gaScript);
         gtag('js', new Date());
-        gtag('config', '{{ site.Config.Services.GoogleAnalytics.ID }}');
+        gtag('config', '{{ site.Config.Services.GoogleAnalytics.ID }}', {
+            'cookie_flags': 'SameSite=None;Secure',
+            'cookie_domain': 'auto',
+            'cookie_expires': 28 * 24 * 60 * 60, // 28 days
+            'cookie_prefix': 'dannb_',
+            'cookie_update': true
+        });
     });
 
     // Close button
@@ -55,7 +63,9 @@ document.addEventListener('DOMContentLoaded', function() {
         banner.style.display = 'none';
         // Ensure consent remains denied when banner is closed without accepting
         gtag('consent', 'update', {
-            'analytics_storage': 'denied'
+            'analytics_storage': 'denied',
+            'functionality_storage': 'denied',
+            'personalization_storage': 'denied'
         });
     });
 });
