@@ -41,6 +41,13 @@ document.addEventListener('DOMContentLoaded', function() {
         gtag('consent', 'update', {
             'analytics_storage': 'granted'
         });
+        // Load GA script
+        const gaScript = document.createElement('script');
+        gaScript.src = 'https://www.googletagmanager.com/gtag/js?id={{ site.Config.Services.GoogleAnalytics.ID }}';
+        gaScript.async = true;
+        document.head.appendChild(gaScript);
+        gtag('js', new Date());
+        gtag('config', '{{ site.Config.Services.GoogleAnalytics.ID }}');
     });
 
     // Close button
