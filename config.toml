@@ -38,8 +38,8 @@ googleAnalytics = "G-93Y1XRNTS1"
   weight = 4
 
 [[menu.main]]
-  name = "Shop"
-  url = "https://dannberg.storenvy.com/"
+  name = "Art"
+  url = "/art"
   weight = 5
 
 [related]
