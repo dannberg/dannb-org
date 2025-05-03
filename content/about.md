@@ -26,9 +26,9 @@ I created this specific blog as a way to process my own ideas. Explaining though
 
 It was also a good excuse to teach myself **[Hugo](https://gohugo.io/)**, the static site generator that powers this website. Take a peek at the **[source code](https://github.com/dannberg/dannb-org)** on Github. Feel free to remix/steal anything you like.
 
-Some of the links (such as those to **[Amazon](https://amzn.to/2WfxUFf)**) are affiliate links. This means that if you click one of these links and then purchase something from Amazon within the next hour — even if it's not the item I linked to — a small portion of your sale will go to me. That's the best way to show your appriciation if you like any of the content here.
+Some of the links (such as those to **[Amazon](https://amzn.to/2WfxUFf)**) are affiliate links. This means that if you click one of these links and then purchase something from Amazon within the next hour—even if it's not the item I linked to—a small portion of your sale will go to me. That's the best way to show your appriciation if you like any of the content here.
 
-In terms of the **[Shop](https://dannberg.storenvy.com/)**, I've been printing stickers of my face since 2007. I just sort of think it's funny. I also think it's funny that there's now a store that sells stickers of my face. That's the sum total of it.
+In terms of the **[Art](https://dannb.org)** page, I've been having fun designing various graphics and typographic logos for various personal projects. I'm no pro, but I'm pretty happy with how some of them have turned out and wanted to display them all somewhere. I'm not aspiring to be a graphic designer nor am I soliciting work. Everything was created in either Figma or Adobe Photoshop.
 
 If you have any feedback or want to get in contact with me, feel free to shoot me an email at **dann [at] dannb [dot] org**. Or just shoot me an DM on **[LinkedIn](https://www.linkedin.com/in/dannberg/)**.
 
