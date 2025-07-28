@@ -11,7 +11,9 @@ Professionally, I lead FinOps at **[Squarespace](https://www.squarespace.com)** 
 
 FinOps, for those unfamiliar, is a burgeoning new engineering discipline helping organizations get maximum business value by leveraging the variable spend model of the cloud (learn more at **[FinOps.org](https://www.finops.org/)**). I'm also active in the wider FinOps community, serving as a **[FinOps Foundation Ambassador](https://www.finops.org/about/ambassadors/#ambassadors)**, and previously running an open monthly **FinOps Meetup** from 2020 to 2023. Now, I'm officially helping the FinOps Foundation part time, running member-only **[Community Calls](https://www.finops.org/community/events/?prod_wp-events[toggle][has_spaces]=true&prod_wp-events[refinementList][tag][0]=Community%20Call&prod_wp-events[refinementList][region][0]=North%20America)** in various regions across North America.
 
-In my free time, I'm an **[slow-but-steady reader](https://www.goodreads.com/dannb)** and an **[avid watcher of movies](https://letterboxd.com/dannb/)**. I also enjoy video games (_Binding of Isaac_, _Balatro_, _Stardew Valley_, _Forager_) and board games (_Terraforming Mars_, _Codenames_, _Coup_). I also spend a good amount of time writing (in case that wasn't obvious from this website or my newsletter).
+In my free time, I'm an **[slow-but-steady reader](https://www.goodreads.com/dannb)** and an **[avid watcher of movies](https://letterboxd.com/dannb/)**. I also enjoy video games (_Binding of Isaac_, _Stardew Valley_, _Forager_, _Tap Force_) and board games (_Terraforming Mars_, _Codenames_, _Blood on the Clocktower_).
+
+I also spend a good amount of time writing (in case that wasn't obvious from this website or my newsletter). While I currently work in tech, I actually studied creative writing in college, with an emphasis in playwriting. I've co-written two full-lengh plays with [my wife](https://asuleen.com), which have been produced in New York City and China.
 
 Want to know more about _how_ I work? Check out my tools-of-the-trade on **[my gear](https://dannb.org/my-gear/)** page.
 
