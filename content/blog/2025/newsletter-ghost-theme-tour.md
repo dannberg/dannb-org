@@ -21,7 +21,7 @@ Visit my new newsletter site at [thedannchronicles.com](https://thedannchronicle
 
 ---
 
-I've wanted to move from Substack to Ghost for years and decided to really get serious about it a couple of months ago. After way more work than I expected (isn't it always?), the brand new *The Dann Chronicles* website is live!
+I've wanted to move from Substack to Ghost for years and decided to really get serious about it a couple of months ago. After way more work than I expected (isn't it always?), the brand new *[The Dann Chronicles](https://thedannchronicles.com)* website is live!
 
 To celebrate the launch of the new website (which I'm super excited about), I wanted to give a tour and a behind-the-scenes look at the making of. I built a new custom theme for my Ghost website (which is the reason it took so long) and there are a ton of little Easter eggs and fun sprinkled about that I don't want you to miss.
 
