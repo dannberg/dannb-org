@@ -1,7 +1,7 @@
 ---
-title: "How I Built a Custom Ghost Theme with AI (And Why I Left Substack)"
+title: "Building a custom Ghost theme w/AI (and leaving Substack)"
 date: 2025-12-07T12:38:25-05:00
-description: "After five years on Substack, I finally made the leap to Ghost and created a custom theme from scratch. Learn about my AI-powered development workflow, design choices, and the fun Easter eggs hidden throughout the site."
+description: "After 5 years on Substack, I built a custom Ghost theme using AI. Here's my workflow, design decisions, and the fun details I added."
 url: /blog/2025/newsletter-ghost-theme-tour
 categories:
   - "Writing"
