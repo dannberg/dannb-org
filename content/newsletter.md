@@ -18,4 +18,4 @@ I know that sounds vague, so feel free to **[read past editions](https://thedann
 
 **Join >1,000 people and sign up to get next month's newsletter!**
 
-{{< substack >}}
+{{< ghost >}}
