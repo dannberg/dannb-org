@@ -16,6 +16,6 @@ Each month you'll find short explorations into five topics, with relevant links 
 
 I know that sounds vague, so feel free to **[read past editions](https://thedannchronicles.com/archive)** before you subscribe. The newsletter is—and always will be—free.
 
-**Join >1,000 people and sign up to get next month's newsletter!**
+**Join 1,100+ people and sign up to get next month's newsletter!**
 
 {{< ghost >}}
