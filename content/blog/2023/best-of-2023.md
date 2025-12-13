@@ -116,7 +116,7 @@ For the past several years, I've been pouring most of my podcast-listening time 
 This "favorite podcasts" section is new this year, because I added a few additional podcasts to my listening playlist in 2023.
 
 - **[Your Kickstarter Sucks](https://podcasts.apple.com/us/podcast/your-kickstarter-sucks/id1204911385)** - *I've listened to every episode (at 1x speed!) for years. Ain't going to stop any time soon.*
-- **[Search Engine](https://pjvogt.substack.com/)** - *You may remember Search Engine from my [September newsletter](https://dannberg.substack.com/p/september-2023), and it's good enough to make my Best of 2023 list, too.*
+- **[Search Engine](https://pjvogt.substack.com/)** - *You may remember Search Engine from my [September newsletter](https://thedannchronicles.com/september-2023), and it's good enough to make my Best of 2023 list, too.*
 - **[Tangle](https://www.readtangle.com/)** - *Everyone talks about wanting unbiased news. The Tangle newsletter and podcast is the best implementation of that I've seen. Informative, smart, and urgent.*
 
 ## Notable Objects
@@ -134,15 +134,15 @@ This year, I published my [2023 Indie Holiday Gift Guide](https://dannb.org/blog
 
 ## Accomplishments
 - Joined Vantage as [Director of Community](https://www.vantage.sh/blog/dann-berg-joins-vantage-director-community)
-- Published fourteen new posts on [dannb.org](https://dannb.org), plus twelve [newsletters](https://dannberg.substack.com). Holy smokes.
-- Added 59 new email subscribers to *[The Dann Chronicles](https://dannberg.substack.com)*, up from just 16 new subscribers in 2022.
+- Published fourteen new posts on [dannb.org](https://dannb.org), plus twelve [newsletters](https://thedannchronicles.com). Holy smokes.
+- Added 59 new email subscribers to *[The Dann Chronicles](https://thedannchronicles.com)*, up from just 16 new subscribers in 2022.
 - Organized (and pulled off!) a 15-person Vantage trip to AWS re:Invent
 - Survived the regional Burning Man event Critical NW
 - Planned a successful surprise birthday *weekend* for Avi
 - Kicked off season one of *Dann & Avi Film School* with six movie screening hosting ~25 people total
 
 ## Plans for 2024
-- Carry [*The Dann Chronicles*](https://dannberg.substack.com) newsletter into its fourth consecutive year (maybe with a few new surprises!)
+- Carry [*The Dann Chronicles*](https://thedannchronicles.com) newsletter into its fourth consecutive year (maybe with a few new surprises!)
 - Add 100 new subscribers to *The Dann Chronicles* newsletter
 - In addition to the newsletter, publish at least ten posts to [this website](https://dannb.org)
 - Host season two of *Dann & Avi Film School*

@@ -18,7 +18,7 @@ tags:
 
 *Originally published 2023-10-01.*
 
-I'm a [Kagi](https://kagi.com) convert, having switched from Google Search in July of 2022 and never looking back. I'm also a vocal supporter of Kagi, frequently mentioning it in [my newsletter](https://dannberg.substack.com/) and encouraging people to give Kagi a try whenever the opportunity arises.
+I'm a [Kagi](https://kagi.com) convert, having switched from Google Search in July of 2022 and never looking back. I'm also a vocal supporter of Kagi, frequently mentioning it in [my newsletter](https://thedannchronicles.com/) and encouraging people to give Kagi a try whenever the opportunity arises.
 
 For those unfamiliar, Kagi is a search engine with a novel[^1] business model: end users pay for a service. Instead of monetizing users through advertising and affiliate marketing (like every other search engine), Kagi charges a monthly fee.
 

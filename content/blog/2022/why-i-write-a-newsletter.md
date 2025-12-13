@@ -55,11 +55,11 @@ With time, this gets easier. A monthly newsletter forces you to flex that muscle
 ## They're love letters to your future self
 As I mentioned previously, the newsletter is a fantastic way to stay connected with people. But my not-so-secret secret about my newsletter (and all my social media posting) is that it's not about you, *it's about me*.
 
-As I've [written before](https://dannberg.substack.com/p/september-2021),  nearly all my publicly posted content is for my own consumption later. I use the app [TimeHop](https://www.timehop.com/) every morning to browse every picture I've taken and tweet I've made on that date each year in the past. I regularly re-read my annual [Year in Review posts](https://dannb.org/tags/resolutions/) to try and ascertain how past thoughts and achievements can help me be better today.
+As I've [written before](https://thedannchronicles.com/september-2021),  nearly all my publicly posted content is for my own consumption later. I use the app [TimeHop](https://www.timehop.com/) every morning to browse every picture I've taken and tweet I've made on that date each year in the past. I regularly re-read my annual [Year in Review posts](https://dannb.org/tags/resolutions/) to try and ascertain how past thoughts and achievements can help me be better today.
 
 My newsletters are a personal time capsule that I'm sending to myself each month. My subscribers will likely just read it once before moving on with their lives, but I keep them all in a safe place for future consumption.
 
-If I'm feeling particularly nostalgic, I have a treasure trove of content to pour through. I can read my [very first newsletter](https://dannberg.substack.com/p/october) and my mind will instantly transport back to peak pandemic, along with all the thoughts, worries, and hopes I was mulling over at the time.
+If I'm feeling particularly nostalgic, I have a treasure trove of content to pour through. I can read my [very first newsletter](https://thedannchronicles.com/october) and my mind will instantly transport back to peak pandemic, along with all the thoughts, worries, and hopes I was mulling over at the time.
 
 For me, the idea that content created today will become a gift for my future self is a big motivator. So much of our lives and day-to-day thoughts are ephemeral. It's reassuring to know that I can preserve thoughts that will bring joy to my future self.
 
