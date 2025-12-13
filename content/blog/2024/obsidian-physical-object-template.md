@@ -157,4 +157,4 @@ Check out my other Obsidian posts:
 
 **Prefer video content?** Check out the above video tutorial version of this post. It shows you exactly how to set up your own Physical Object note template system.
 
-If you've read this far, you might also really enjoy my [free monthly newsletter](https://dannberg.substack.com/). Each month, I share five cool new things I found. These can be products, articles, apps, movies, concepts, and anything else. Feel free to [check out the archive](https://dannberg.substack.com/archive) to see if it's something you might like, and subscribe to get each edition in your email.
+If you've read this far, you might also really enjoy my [free monthly newsletter](https://thedannchronicles.com/). Each month, I share five cool new things I found. These can be products, articles, apps, movies, concepts, and anything else. Feel free to [check out the archive](https://thedannchronicles.com/archive) to see if it's something you might like, and subscribe to get each edition in your email.

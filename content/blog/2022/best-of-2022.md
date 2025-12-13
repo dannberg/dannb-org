@@ -79,7 +79,7 @@ I didn't realize that almost all my favorite shows this year were on HBO until I
 - Hosted an [NYC FinOps Meetup](https://events.finops.org/new-york-city-cloud-finops/) every month this year
 - Five-year wedding anniversary 🎉
 - Threw an epic *Fall Ball X* party, our final yearly event after a full decade. We certainly went out with a *bang*.
-- Another full year of my [monthly newsletter](https://dannberg.substack.com/)!
+- Another full year of my [monthly newsletter](https://thedannchronicles.com/)!
 
 ## Plans for 2023
 - Keep on truckin' with my monthly [newsletter](https://dannb.org/newsletter/)

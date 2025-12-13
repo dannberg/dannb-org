@@ -203,9 +203,9 @@ The right objects or tools can have an outsized impact on quality of life and pr
 
 ## Accomplishments
 - Joined [Squarespace](https://squarespace.com) in November! Excited to be back in a FinOps Practitioner role
-- Published seven new posts on [dannb.org](https://dannb.org) and updated several others, plus twelve [newsletters](https://dannberg.substack.com)
+- Published seven new posts on [dannb.org](https://dannb.org) and updated several others, plus twelve [newsletters](https://thedannchronicles.com)
 - Published 16 [YouTube videos](https://www.youtube.com/@dannberg)
-- Added 452 new subscribers to *[The Dann Chronicles](https://dannberg.substack.com)*, up from just 59 new subscribers in 2023. That's a *666.10%* increase(!)
+- Added 452 new subscribers to *[The Dann Chronicles](https://thedannchronicles.com)*, up from just 59 new subscribers in 2023. That's a *666.10%* increase(!)
 - Hosted five virtual FinOps Foundation Community Calls per month (in regions across North America) and two in-person meetups in NYC
 - Attended both FinOps X in San Diego and FinOps X Europe in Barcelona
 - Noticeable improvement in mental health thanks to talk therapy, a diagnosis of Persistent Depressive Disorder, and a low-dose perscription of Zoloft (Sertraline)
@@ -214,7 +214,7 @@ The right objects or tools can have an outsized impact on quality of life and pr
 ## Plans for 2025
 - Knock my new role at Squarespace out-of-the-park
 - Start hosting a local FinOps meetup at the Squarespace office
-- Continue publishing [*The Dann Chronicles*](https://dannberg.substack.com) each month
+- Continue publishing [*The Dann Chronicles*](https://thedannchronicles.com) each month
 - A rough draft of *[FinOps for Startups](https://finopsforstartups.com)* book
 - Add 400+ new subscribers to *The Dann Chronicles* newsletter
 - In addition to the newsletter, publish at least ten posts to [dannb.org](https://dannb.org)

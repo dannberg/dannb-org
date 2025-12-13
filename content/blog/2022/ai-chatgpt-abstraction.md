@@ -23,7 +23,7 @@ I've never before, in my life, witnessed the release of a new technology that I 
 
 I'm talking, of course, about artificial intelligence. Specifically OpenAI's [ChatGPT](https://chat.openai.com/chat). In case you missed it, this month an AI chatbot based on OpenAI's GPT-3.5 language model (an improved version of GPT-3) was released to the public, for free (for now).
 
-We've heard rumors of these types of AI before (I even talked about the ex-Googler who quit because he argued the AI was actually sentient [in a past newsletter](https://dannberg.substack.com/p/june-2022#details)) but never had a chance to play with one before.
+We've heard rumors of these types of AI before (I even talked about the ex-Googler who quit because he argued the AI was actually sentient [in a past newsletter](https://thedannchronicles.com/june-2022)) but never had a chance to play with one before.
 
 It created a buzz the likes of which I've never seen before. I think [Paul Graham says it best](https://twitter.com/paulg/status/1598698665337561088) (emphasis mine):
 

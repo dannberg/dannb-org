@@ -281,7 +281,7 @@ Just because a physical notebook is my productivity "daily driver," it doesn't m
 - [My Obsidian Physical Object System](https://dannb.org/blog/2024/obsidian-physical-object-template/)
 - [Recalling Books You've Read, Made Easy](https://dannb.org/blog/2022/recalling-books-youve-read-made-easy/)
 
-Also, if you've read this far, you might really enjoy my [free monthly newsletter](https://dannberg.substack.com/). Each month, I share five cool new things I found. These can be products, articles, apps, movies, concepts, and anything else. Feel free to [check out the archive](https://dannberg.substack.com/archive) to see if it's something you might like, and subscribe to get each edition in your email.
+Also, if you've read this far, you might really enjoy my [free monthly newsletter](https://thedannchronicles.com/). Each month, I share five cool new things I found. These can be products, articles, apps, movies, concepts, and anything else. Feel free to [check out the archive](https://thedannchronicles.com/archive) to see if it's something you might like, and subscribe to get each edition in your email.
 
 [^1]: Ad hoc work, or Unplanned Work as it is called in _[The Phoenix Project](https://amzn.to/2Lt3Vnm)_, consists of tasks outside of regular projects and operations. This can be an emergency that requires immediate attention, taking you away from your planned work, or a slack message or email that requires immediate action (much more likely in my case).
 
