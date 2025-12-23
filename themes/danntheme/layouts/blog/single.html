@@ -5,7 +5,7 @@
     <h1 class="title">{{ .Title }}</h1>
         <p class="subtitle">By {{ .Site.Params.Author }}</p>
         <p class="date">Published or Updated on <time>{{ .PublishDate.Format "January 2, 2006" }}</time></p>
-    <div class="content">
+    <div class="content blog-post-content">
       {{ .Content }}
     </div>
   </article>
