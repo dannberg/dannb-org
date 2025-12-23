@@ -308,6 +308,7 @@ pre {
   cursor: pointer;
   opacity: 0;
   visibility: hidden;
+  pointer-events: none;
   transition: opacity 0.3s ease, visibility 0.3s ease, background-color 0.3s ease;
 }
 
@@ -315,6 +316,7 @@ pre {
   opacity: 1;
   visibility: visible;
   background-color: rgba(0, 0, 0, 0.6);
+  pointer-events: auto;
 }
 
 .blog-post-image-modal img {
@@ -326,6 +328,7 @@ pre {
   opacity: 0;
   transform: scale(0.9);
   transition: opacity 0.3s ease 0.1s, transform 0.3s ease 0.1s;
+  pointer-events: auto;
 }
 
 .blog-post-image-modal.active img {
