@@ -4,7 +4,7 @@ date: 2026-06-08T09:00:00-04:00
 description: "A dead-simple setup any knowledge worker can build today: one folder that gives your AI real context — and gets smarter every time you use it."
 url: /blog/2026/ai-home-base
 images:
-  - IMAGE_NEEDED
+  - /images/blog/2026/06/ai-home-base-og.jpg
 categories:
   - "Technology"
 tags:
@@ -16,7 +16,9 @@ tags:
   - Knowledge Work
   - FinOps
 ---
-![IMAGE_NEEDED](IMAGE_NEEDED)
+![Hands planting seedlings in garden soil](/images/blog/2026/06/ai-home-base-og.jpg)
+
+_Photo by [Sandie Clarke](https://unsplash.com/@honeypoppet?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/photos/hands-planting-seedlings-in-garden-soil-q13Zq1Jufks?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)._
 
 Most of the articles about AI in the workplace speak in high-level generalizations. There's a promise that it will help workers in every industry do more work, faster than ever before. They're full of predictions for the future, both good and bad ([disastrous?](https://dannb.org/blog/2025/ai-2027/)) but fall short of explaining how to actually *use AI* to work better.
 
