@@ -83,7 +83,7 @@ MCP servers and connectors allow your agent to access information outside of you
 
 Your company may have a list of supported MCP servers that you can browse and choose to connect. Otherwise, you can search the internet, or ask your agent, about the functionality that you want to see if there's already a solution available.
 
-**Note about security:** this is an area where you want to have some discernment about what you connect and whether it's allowed by your Security team. MCP servers and connectors allow your agent to act outside of your AI Home Base, which introduces security vulnerabilities. Never use any AI service for work that hasn't been approved by your company, and be conservative when exploring this type of functionality.
+**Note about security:** this is an area where you want to have some discernment about what you connect and whether it's allowed by your Security team. MCP servers and connectors allow your agent to act outside of your AI Home Base, which introduces security vulnerabilities. Never use any AI service for work that hasn't been approved by your company, and be discerning when exploring this type of functionality.
 
 ## Skills
 Skills are where the value of the AI Home Base really starts to multiply.
