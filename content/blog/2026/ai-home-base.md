@@ -90,7 +90,7 @@ Skills are where the value of the AI Home Base really starts to multiply.
 
 Skills can be as simple as a markdown file, or folders of instructions, scripts, and resources that Claude loads dynamically to execute a specific task. They teach Claude how to do work in a repeatable way.
 
-When setting up your AI Home Base, you might want to take some time to brainstorm common work you do and collaborate with your agent to build it into a task. It's as simple as typing "*Create me a skill that does X, Y, and Z. Let me know if you have any questions or improvements.*"
+When setting up your AI Home Base, you might want to take some time to brainstorm common work you do and collaborate with your agent to build it into a skill. It's as simple as typing "*Create me a skill that does X, Y, and Z. Let me know if you have any questions or improvements.*"
 
 But it might be better to build skill-creation into your workflow, and start creating skills once you complete a task with AI and know you'll want to do it again.
 
