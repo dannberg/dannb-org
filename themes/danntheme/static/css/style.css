@@ -87,6 +87,11 @@ h3 {
 span.lead {
   font-size: 150%;
   margin: 1em 0;
+  /* Establish a block formatting context so the text forms a column beside
+     the floated profile image instead of wrapping underneath it. Without
+     this, the last line can spill below the image on some machines due to
+     font-rendering differences. */
+  display: flow-root;
 }
 div.boxed {
   display:  block;
