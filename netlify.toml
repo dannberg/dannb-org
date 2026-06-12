@@ -1,6 +1,10 @@
 [build]
 publish = "public"
 command = "hugo --gc --minify"
+# Skip the deploy when the ONLY changed files are root docs (readme.md / CLAUDE.md).
+# Netlify runs this before building: exit 0 cancels the build, non-zero proceeds.
+# git diff --quiet exits 0 when nothing outside the excluded paths changed.
+ignore = "[ -n \"$CACHED_COMMIT_REF\" ] && git diff --quiet \"$CACHED_COMMIT_REF\" \"$COMMIT_REF\" -- . ':(exclude)readme.md' ':(exclude)CLAUDE.md'"
 
 [context.production.environment]
 HUGO_VERSION = "0.161.1"
