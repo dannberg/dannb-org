@@ -1,5 +1,5 @@
 baseURL = "https://dannb.org/"
-languageCode = "en-us"
+locale = "en-us"
 title = "Dann Berg: blog, newsletter, shop, and more"
 theme = "danntheme"
 rssLimit = 20
