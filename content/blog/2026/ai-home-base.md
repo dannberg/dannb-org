@@ -28,7 +28,7 @@ If you're interacting or doing tasks with AI today, there's a chance that you're
 
 I've coined the term **AI Home Base** for this setup. It's literally just a folder on your computer. But I'm going to share why this is so powerful and how you can set this up.
 
-I introduced the idea of an AI Home Base in my talk at the 2026 [FinOps X](https://x.finops.org) conference in San Diego. The session was recorded and will be published to YouTube — I'll update this post with a link once it's live. In the meantime, this article dives into the concept in full detail. I've also published a [companion GitHub repo](https://github.com/dannberg/finopsx-2026-ai-home-base) with some example folders, prompts, and skills. You're welcome to fork it as a starting point.
+I introduced the idea of an AI Home Base in my talk at the 2026 [FinOps X](https://x.finops.org) conference in San Diego. **[The recording is now live on YouTube](https://www.youtube.com/watch?v=t_rLbqeSCrU)** — watch it to see the concepts in action. This article dives into the concept in full detail. I've also published a [companion GitHub repo](https://github.com/dannberg/finopsx-2026-ai-home-base) with some example folders, prompts, and skills. You're welcome to fork it as a starting point.
 
 The AI Home Base is a simple concept, but oh-so-powerful.
 
