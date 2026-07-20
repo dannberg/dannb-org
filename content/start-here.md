@@ -40,5 +40,6 @@ I've also published FinOps content sharing what I've learned. Here are my favori
 - [Creating a FinOps practice as the first practitioner](https://dannb.org/blog/2022/how-to-be-first-finops-practitioner/)
 - [Convincing Your Company Adopt Finops](https://dannb.org/blog/2023/convincing-your-company-adopt-finops/)
 - [Avoiding Lone FinOps Purgatory: When and how to grow your FinOps team](https://dannb.org/blog/2023/grow-your-finops-team/)
+- [Build Your AI Home Base: A Dead-Simple Setup for Knowledge Workers](https://dannb.org/blog/2026/ai-home-base/) (+ [companion repo](https://github.com/dannberg/finopsx-2026-ai-home-base) and [FinOps X 2026 talk recording](https://www.youtube.com/watch?v=t_rLbqeSCrU))
 
 I'm in the process of writing a book called _FinOps for Startups_ and I'm **[documenting the entire book research process](https://finopsforstartups.com)** in an effort to _Learn in Public_. You can **[subscribe](https://subscribe.finopsforstartups.com/)** to follow along.
